@@ -11,6 +11,9 @@ Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framewo
 - Build: CLI generates site/js/site-data.js from JSON sources
 - Build: CLI generates individual exhibition pages at site/exhibition/{id}.html
 - Build: CLI generates sitemap.xml and robots.txt in site/
+- Submissions: form on about.html sends POST to /api/submit (Cloudflare Pages Function)
+- Submissions stored in Cloudflare KV with namespace binding SUBMISSIONS
+- functions/ directory contains Cloudflare Pages Functions (auto-detected by Cloudflare)
 - Deploy: Cloudflare Pages from site/ directory
 
 ## Hard rules

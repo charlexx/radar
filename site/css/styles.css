@@ -840,6 +840,142 @@ footer {
   white-space: pre-line;
 }
 
+/* ========== Submission Form ========== */
+.submit-form {
+  margin-top: 1.5rem;
+}
+
+.submit-fieldset {
+  border: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+}
+
+.submit-legend {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+  padding: 0;
+}
+
+.submit-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-bottom: 0.875rem;
+}
+
+.submit-field label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-secondary);
+}
+
+.submit-req {
+  color: var(--accent);
+}
+
+.submit-field input,
+.submit-field select,
+.submit-field textarea {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.625rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.875rem;
+  font-family: var(--font);
+  outline: none;
+  transition: border-color 0.2s;
+  width: 100%;
+}
+
+.submit-field input:focus,
+.submit-field select:focus,
+.submit-field textarea:focus {
+  border-color: var(--accent);
+}
+
+.submit-field input::placeholder,
+.submit-field textarea::placeholder {
+  color: var(--text-secondary);
+  opacity: 0.7;
+}
+
+.submit-field textarea {
+  resize: vertical;
+}
+
+.submit-field select {
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%238a8580' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.6rem center;
+  padding-right: 2rem;
+}
+
+[data-theme="light"] .submit-field select {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%236b6560' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+}
+
+.submit-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0;
+}
+
+.submit-actions {
+  margin-top: 0.5rem;
+}
+
+.submit-btn {
+  display: block;
+  width: 100%;
+  padding: 0.7rem 1.5rem;
+  background: var(--accent);
+  color: var(--bg);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  font-family: var(--font);
+  border: none;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.submit-btn:hover {
+  background: var(--accent-hover);
+}
+
+.submit-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.submit-status {
+  margin-top: 0.75rem;
+  padding: 0.75rem;
+  border-radius: 6px;
+  font-size: 0.875rem;
+}
+
+.submit-success {
+  background: rgba(74, 158, 110, 0.15);
+  color: var(--status-current);
+}
+
+.submit-error {
+  background: rgba(220, 50, 50, 0.15);
+  color: #e05555;
+}
+
 /* ========== Responsive: Tablet ========== */
 @media (min-width: 640px) {
   .hero {
@@ -874,6 +1010,11 @@ footer {
   .exh-page,
   .about-page {
     padding: 2.5rem 2rem 3.5rem;
+  }
+
+  .submit-row {
+    grid-template-columns: 1fr 1fr;
+    gap: 0 0.75rem;
   }
 
   .exh-title {

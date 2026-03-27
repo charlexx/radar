@@ -49,9 +49,133 @@
       <p>Exhibitions are sourced from gallery websites, institutional press releases, art fair programmes, and curatorial networks. If you know of an exhibition that should be listed, we'd love to hear about it.</p>
     </section>
 
-    <section class="about-section">
+    <section class="about-section" id="submit">
       <h2>Submit an exhibition</h2>
-      <p>Have an exhibition featuring African artists that should be on Radar? Submissions are coming soon. In the meantime, reach out via <a href="https://formefemine.com" class="about-link">Forme Femine</a>.</p>
+      <p>Know of an exhibition featuring African artists that should be on Radar? Submit it below and we'll review it for inclusion.</p>
+
+      <form id="submit-form" class="submit-form" novalidate>
+        <fieldset class="submit-fieldset">
+          <legend class="submit-legend">Exhibition details</legend>
+
+          <div class="submit-field">
+            <label for="sub-title">Exhibition title <span class="submit-req">*</span></label>
+            <input type="text" id="sub-title" name="title" required autocomplete="off">
+          </div>
+
+          <div class="submit-field">
+            <label for="sub-artists">Artist name(s) <span class="submit-req">*</span></label>
+            <input type="text" id="sub-artists" name="artist_names" required autocomplete="off" placeholder="Separate multiple names with commas">
+          </div>
+
+          <div class="submit-field">
+            <label for="sub-origin">Artist origin country</label>
+            <input type="text" id="sub-origin" name="artist_origin" autocomplete="off" placeholder="e.g. Nigeria, Ghana">
+          </div>
+
+          <div class="submit-row">
+            <div class="submit-field">
+              <label for="sub-venue">Venue name <span class="submit-req">*</span></label>
+              <input type="text" id="sub-venue" name="venue_name" required autocomplete="off">
+            </div>
+            <div class="submit-field">
+              <label for="sub-city">City <span class="submit-req">*</span></label>
+              <input type="text" id="sub-city" name="city" required autocomplete="off">
+            </div>
+          </div>
+
+          <div class="submit-row">
+            <div class="submit-field">
+              <label for="sub-country">Country <span class="submit-req">*</span></label>
+              <input type="text" id="sub-country" name="country" required autocomplete="off">
+            </div>
+            <div class="submit-field">
+              <label for="sub-type">Type <span class="submit-req">*</span></label>
+              <select id="sub-type" name="type" required>
+                <option value="">Select type</option>
+                <option value="solo">Solo</option>
+                <option value="group">Group</option>
+                <option value="fair">Fair</option>
+                <option value="biennial">Biennial</option>
+                <option value="residency">Residency</option>
+                <option value="screening">Screening</option>
+                <option value="performance">Performance</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="submit-row">
+            <div class="submit-field">
+              <label for="sub-start">Start date <span class="submit-req">*</span></label>
+              <input type="date" id="sub-start" name="start_date" required>
+            </div>
+            <div class="submit-field">
+              <label for="sub-end">End date</label>
+              <input type="date" id="sub-end" name="end_date">
+            </div>
+          </div>
+
+          <div class="submit-row">
+            <div class="submit-field">
+              <label for="sub-admission">Admission</label>
+              <select id="sub-admission" name="admission">
+                <option value="">Select</option>
+                <option value="free">Free</option>
+                <option value="paid">Paid</option>
+                <option value="donation">Donation</option>
+                <option value="rsvp">RSVP</option>
+              </select>
+            </div>
+            <div class="submit-field">
+              <label for="sub-mediums">Mediums</label>
+              <input type="text" id="sub-mediums" name="mediums" autocomplete="off" placeholder="e.g. painting, sculpture, photography">
+            </div>
+          </div>
+
+          <div class="submit-field">
+            <label for="sub-url">Exhibition URL</label>
+            <input type="url" id="sub-url" name="exhibition_url" autocomplete="off" placeholder="https://...">
+          </div>
+
+          <div class="submit-field">
+            <label for="sub-desc">Description</label>
+            <textarea id="sub-desc" name="description" rows="3" placeholder="Brief description of the exhibition (optional)"></textarea>
+          </div>
+        </fieldset>
+
+        <fieldset class="submit-fieldset">
+          <legend class="submit-legend">Your details</legend>
+
+          <div class="submit-row">
+            <div class="submit-field">
+              <label for="sub-name">Your name</label>
+              <input type="text" id="sub-name" name="submitter_name" autocomplete="name">
+            </div>
+            <div class="submit-field">
+              <label for="sub-email">Email <span class="submit-req">*</span></label>
+              <input type="email" id="sub-email" name="submitter_email" required autocomplete="email">
+            </div>
+          </div>
+
+          <div class="submit-field">
+            <label for="sub-role">Your role</label>
+            <select id="sub-role" name="submitter_role">
+              <option value="">Select</option>
+              <option value="artist">Artist</option>
+              <option value="curator">Curator</option>
+              <option value="gallery">Gallery / Institution</option>
+              <option value="collector">Collector</option>
+              <option value="researcher">Researcher / Student</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+        </fieldset>
+
+        <div class="submit-actions">
+          <button type="submit" class="submit-btn" id="submit-btn">Submit exhibition</button>
+        </div>
+
+        <div id="submit-status" class="submit-status" hidden></div>
+      </form>
     </section>
 
     <hr class="about-divider">
@@ -66,6 +190,48 @@
     <p class="footer-brand">Radar by <a href="https://formefemine.com" class="footer-link">Forme Femine</a> &middot; <a href="about.html" class="footer-about-link">About</a></p>
     <p class="footer-copy">&copy; 2026</p>
   </footer>
+
+  <script>
+  document.getElementById('submit-form').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    var btn = document.getElementById('submit-btn');
+    var msg = document.getElementById('submit-status');
+
+    btn.disabled = true;
+    btn.textContent = 'Submitting...';
+    msg.hidden = true;
+    msg.textContent = '';
+    msg.className = 'submit-status';
+
+    var formData = new FormData(this);
+    var data = Object.fromEntries(formData.entries());
+
+    try {
+      var resp = await fetch('/api/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data)
+      });
+      var result = await resp.json();
+
+      if (resp.ok) {
+        msg.className = 'submit-status submit-success';
+        msg.textContent = 'Thank you! Your submission has been received and will be reviewed.';
+        this.reset();
+      } else {
+        msg.className = 'submit-status submit-error';
+        msg.textContent = result.error || 'Something went wrong. Please try again.';
+      }
+    } catch (err) {
+      msg.className = 'submit-status submit-error';
+      msg.textContent = 'Connection error. Please try again.';
+    }
+
+    msg.hidden = false;
+    btn.disabled = false;
+    btn.textContent = 'Submit exhibition';
+  });
+  </script>
 
   <script>
   (function(){
