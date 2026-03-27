@@ -1,1 +1,119 @@
-[]
+[
+  {
+    "id": "ven-tate-modern",
+    "name": "Tate Modern",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "museum",
+    "website": "https://www.tate.org.uk",
+    "notes": ""
+  },
+  {
+    "id": "ven-barbican-art-gallery",
+    "name": "Barbican Art Gallery",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "museum",
+    "website": "https://www.barbican.org.uk",
+    "notes": ""
+  },
+  {
+    "id": "ven-somerset-house",
+    "name": "Somerset House",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "institution",
+    "website": "https://www.somersethouse.org.uk",
+    "notes": "Home of 1-54 London"
+  },
+  {
+    "id": "ven-moma",
+    "name": "Museum of Modern Art",
+    "city": "New York",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.moma.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-brooklyn-museum",
+    "name": "Brooklyn Museum",
+    "city": "New York",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.brooklynmuseum.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-moad-sf",
+    "name": "Museum of the African Diaspora",
+    "city": "San Francisco",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.moadsf.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-musee-des-arts-decoratifs",
+    "name": "Musee des Arts Decoratifs",
+    "city": "Paris",
+    "country": "France",
+    "type": "museum",
+    "website": "https://madparis.fr",
+    "notes": ""
+  },
+  {
+    "id": "ven-ancien-palais-de-justice-dakar",
+    "name": "Ancien Palais de Justice",
+    "city": "Dakar",
+    "country": "Senegal",
+    "type": "biennial-venue",
+    "website": "https://biennaledakar.org",
+    "notes": "Primary venue for Dak'Art Biennale"
+  },
+  {
+    "id": "ven-starrett-lehigh-nyc",
+    "name": "Starrett-Lehigh Building",
+    "city": "New York",
+    "country": "United States",
+    "type": "fair",
+    "website": "",
+    "notes": "Home of 1-54 New York"
+  },
+  {
+    "id": "ven-zeitz-mocaa",
+    "name": "Zeitz MOCAA",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "type": "museum",
+    "website": "https://www.zeitzmocaa.museum",
+    "notes": ""
+  },
+  {
+    "id": "ven-federal-palace-lagos",
+    "name": "Federal Palace Hotel",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "fair",
+    "website": "",
+    "notes": "Venue for Art X Lagos"
+  },
+  {
+    "id": "ven-veronica-ryan-hackney",
+    "name": "Hackney Museum",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "museum",
+    "website": "https://hackney.gov.uk/museum",
+    "notes": ""
+  },
+  {
+    "id": "ven-shepstone-gardens",
+    "name": "Shepstone Gardens",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "type": "fair",
+    "website": "",
+    "notes": "Venue for RMB Latitudes art fair"
+  }
+]
