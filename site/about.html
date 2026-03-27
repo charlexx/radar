@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="About Radar, a curated tracker of current and upcoming exhibitions worldwide featuring African artists. Powered by Forme Femine.">
+  <meta property="og:title" content="About Radar">
+  <meta property="og:description" content="About Radar, a curated tracker of current and upcoming exhibitions worldwide featuring African artists. Powered by Forme Femine.">
+  <meta property="og:url" content="https://radar.formefemine.com/about.html">
+  <title>About - Radar</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="exh-header-bar">
+    <a href="./" class="exh-back">&larr; Back to Radar</a>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle light/dark mode">&#9790;</button>
+  </header>
+
+  <article class="about-page">
+    <h1 class="about-title">About Radar</h1>
+
+    <section class="about-section">
+      <p>Radar is a curated tracker of current and upcoming exhibitions worldwide featuring African artists. It covers solo shows, group exhibitions, art fairs, biennials, and institutional programmes, from major museums to emerging gallery spaces.</p>
+      <p>Radar is for anyone who wants to know where African artists are showing. Curators, collectors, students, researchers, art tourists. Find what's on, where, and when.</p>
+    </section>
+
+    <section class="about-section">
+      <h2>How to use Radar</h2>
+      <p>The main page shows all tracked exhibitions as cards. Use the filters to narrow down what you're looking for:</p>
+      <div class="about-filter-list">
+        <p><strong>Status</strong>. Current (on view now), Upcoming (opening soon), or Past (closed but archived for research)</p>
+        <p><strong>City / Country / Region</strong>. Find exhibitions near you or in a city you're visiting</p>
+        <p><strong>Type</strong>. Solo shows, group exhibitions, art fairs, biennials, screenings, or performances</p>
+        <p><strong>Admission</strong>. Free or paid</p>
+        <p><strong>Mediums</strong>. Painting, sculpture, photography, installation, textiles, and more</p>
+        <p><strong>Focus</strong>. This is how we classify the exhibition's relationship to African art:</p>
+        <div class="about-focus-values">
+          <p><em>Dedicated</em>. The exhibition is specifically about or by African artists</p>
+          <p><em>Significant</em>. African artists are a major presence, but the show is broader in scope</p>
+          <p><em>Featured</em>. One or more African artists are included in a wider international show</p>
+        </div>
+      </div>
+      <p>Click any card to expand it for more details, or click "View details" to see the full exhibition page.</p>
+      <p>The search bar searches across exhibition titles, artist names, venue names, and cities.</p>
+    </section>
+
+    <section class="about-section">
+      <h2>How it's built</h2>
+      <p>Exhibitions are sourced from gallery websites, institutional press releases, art fair programmes, and curatorial networks. If you know of an exhibition that should be listed, we'd love to hear about it.</p>
+    </section>
+
+    <section class="about-section">
+      <h2>Submit an exhibition</h2>
+      <p>Have an exhibition featuring African artists that should be on Radar? Submissions are coming soon. In the meantime, reach out via <a href="https://formefemine.com" class="about-link">Forme Femine</a>.</p>
+    </section>
+
+    <hr class="about-divider">
+
+    <section class="about-section">
+      <p class="about-built-with">Built with</p>
+      <div class="tech-stack">Python CLI &middot; Vanilla HTML/CSS/JS &middot; JSON data files</div>
+    </section>
+  </article>
+
+  <footer class="exh-footer">
+    <p class="footer-brand">Radar by <a href="https://formefemine.com" class="footer-link">Forme Femine</a> &middot; <a href="about.html" class="footer-about-link">About</a></p>
+    <p class="footer-copy">&copy; 2026</p>
+  </footer>
+
+  <script>
+  (function(){
+    var t=document.getElementById("theme-toggle");
+    function g(){var s=localStorage.getItem("radar-theme");if(s)return s;if(window.matchMedia&&window.matchMedia("(prefers-color-scheme: light)").matches)return"light";return"dark"}
+    function a(m){if(m==="light"){document.documentElement.setAttribute("data-theme","light")}else{document.documentElement.removeAttribute("data-theme")}if(t){t.textContent=m==="light"?"\u2600":"\u263E"}}
+    a(g());
+    if(t){t.addEventListener("click",function(){var c=document.documentElement.getAttribute("data-theme")==="light"?"light":"dark";var n=c==="light"?"dark":"light";a(n);localStorage.setItem("radar-theme",n)})}
+  })();
+  </script>
+</body>
+</html>

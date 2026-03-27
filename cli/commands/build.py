@@ -270,7 +270,7 @@ def _render_exhibition_page(exh, artist_map, venue_map):
   </article>
 
   <footer class="exh-footer">
-    <p class="footer-brand">Radar by <a href="https://formefemine.com" class="footer-link">Forme Femine</a></p>
+    <p class="footer-brand">Radar by <a href="https://formefemine.com" class="footer-link">Forme Femine</a> &middot; <a href="../about.html" class="footer-about-link">About</a></p>
     <p class="footer-copy">&copy; {date.today().year}</p>
   </footer>
 
@@ -299,6 +299,14 @@ def _build_sitemap(exhibitions):
         f"    <loc>{BASE_URL}/</loc>\n"
         f"    <lastmod>{today}</lastmod>\n"
         f"    <changefreq>weekly</changefreq>\n"
+        f"  </url>"
+    )
+
+    urls.append(
+        f"  <url>\n"
+        f"    <loc>{BASE_URL}/about.html</loc>\n"
+        f"    <lastmod>{today}</lastmod>\n"
+        f"    <changefreq>monthly</changefreq>\n"
         f"  </url>"
     )
 
