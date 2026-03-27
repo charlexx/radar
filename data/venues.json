@@ -439,5 +439,185 @@
     "type": "institution",
     "website": "https://theshed.org",
     "notes": "Venue for Frieze New York"
+  },
+  {
+    "id": "ven-tate-britain",
+    "name": "Tate Britain",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "museum",
+    "website": "https://www.tate.org.uk",
+    "notes": ""
+  },
+  {
+    "id": "ven-vanda-east",
+    "name": "V&A East Museum",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "museum",
+    "website": "https://www.vam.ac.uk",
+    "notes": "New museum in Queen Elizabeth Olympic Park, opens April 2026"
+  },
+  {
+    "id": "ven-camden-arts-centre",
+    "name": "Camden Art Centre",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "institution",
+    "website": "https://www.camdenartcentre.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-hayward-gallery",
+    "name": "Hayward Gallery",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "museum",
+    "website": "https://www.southbankcentre.co.uk/venues/hayward-gallery",
+    "notes": ""
+  },
+  {
+    "id": "ven-royal-academy",
+    "name": "Royal Academy of Arts",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "museum",
+    "website": "https://www.royalacademy.org.uk",
+    "notes": ""
+  },
+  {
+    "id": "ven-tiwani-contemporary",
+    "name": "Tiwani Contemporary",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "https://www.tiwani.co.uk",
+    "notes": "Cork Street, specialising in African and diaspora art"
+  },
+  {
+    "id": "ven-october-gallery",
+    "name": "October Gallery",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "https://www.octobergallery.co.uk",
+    "notes": ""
+  },
+  {
+    "id": "ven-tafeta-london",
+    "name": "TAFETA",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "https://www.tafeta.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-goodman-gallery-london",
+    "name": "Goodman Gallery London",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "https://goodman-gallery.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-autograph-london",
+    "name": "Autograph",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "institution",
+    "website": "https://autograph.org.uk",
+    "notes": "Rivington Place, photography and film"
+  },
+  {
+    "id": "ven-gasworks-london",
+    "name": "Gasworks",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "project-space",
+    "website": "https://www.gasworks.org.uk",
+    "notes": ""
+  },
+  {
+    "id": "ven-gallery-1957-london",
+    "name": "Gallery 1957 London",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "https://www.gallery1957.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-ames-yavuz-london",
+    "name": "Ames Yavuz",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "https://amesyavuz.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-pilar-corrias",
+    "name": "Pilar Corrias",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "https://www.pilarcorrias.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-gagosian-london",
+    "name": "Gagosian London",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "https://gagosian.com",
+    "notes": "Grosvenor Hill"
+  },
+  {
+    "id": "ven-rosenfeld-london",
+    "name": "Rosenfeld",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-barbican-curve",
+    "name": "Barbican Curve",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "museum",
+    "website": "https://www.barbican.org.uk",
+    "notes": "Free gallery within the Barbican"
+  },
+  {
+    "id": "ven-cartwright-hall-bradford",
+    "name": "Cartwright Hall Art Gallery",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "type": "museum",
+    "website": "",
+    "notes": "Venue for Turner Prize 2025"
+  },
+  {
+    "id": "ven-london-art-fair",
+    "name": "Business Design Centre",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "fair",
+    "website": "https://www.londonartfair.co.uk",
+    "notes": "Venue for London Art Fair"
+  },
+  {
+    "id": "ven-trafalgar-square",
+    "name": "Fourth Plinth, Trafalgar Square",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "institution",
+    "website": "",
+    "notes": "Public art commission"
   }
 ]

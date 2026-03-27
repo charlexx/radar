@@ -1418,6 +1418,660 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming"
+    },
+    {
+      "id": "exh-tate-britain-hurvin-anderson-2026",
+      "title": "Hurvin Anderson",
+      "artist_ids": [
+        "art-hurvin-anderson"
+      ],
+      "venue_id": "ven-tate-britain",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2026-03-26",
+      "end_date": "2026-08-23",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "painting"
+      ],
+      "description": "First major survey of British-Jamaican painter. ~80 works spanning entire career including Barbershop series and new unseen paintings.",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/hurvin-anderson",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-vanda-east-music-is-black-2026",
+      "title": "The Music is Black: A British Story",
+      "artist_ids": [
+        "art-sonia-boyce"
+      ],
+      "venue_id": "ven-vanda-east",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2026-04-18",
+      "end_date": "2027-01-03",
+      "type": "group",
+      "admission": "paid",
+      "mediums": [
+        "installation",
+        "fashion",
+        "photography",
+        "sculpture"
+      ],
+      "description": "Inaugural exhibition at new V&A East Museum. 125 years of Black British music from jazz to grime. 200+ objects. BBC Music partnership.",
+      "url": "https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-tiwani-chihota-2025",
+      "title": "Virginia Chihota: Munoonei kana makaditarisa nhai Mwari?",
+      "artist_ids": [
+        "art-virginia-chihota"
+      ],
+      "venue_id": "ven-tiwani-contemporary",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-06-05",
+      "end_date": "2025-09-20",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "printmaking",
+        "painting",
+        "mixed media"
+      ],
+      "description": "Chihota visualises her inner world as an emotionally shifting, symbolic terrain through self-examination and spiritual inquiry.",
+      "url": "https://www.tiwani.co.uk/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-tiwani-conscious-relation-2025",
+      "title": "A Conscious Relation: body/mind/movement",
+      "artist_ids": [
+        "art-virginia-chihota"
+      ],
+      "venue_id": "ven-tiwani-contemporary",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-02-06",
+      "end_date": "2025-03-22",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "drawing",
+        "mixed media"
+      ],
+      "description": "Group show with Virginia Chihota, Joy Labinjo, Wura-Natasha Ogunji, Dawit L. Petros exploring body, mind and movement.",
+      "url": "https://www.tiwani.co.uk/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-tiwani-rashid-2025",
+      "title": "Umar Rashid: The Epoch of Totalitarianism Part 3",
+      "artist_ids": [],
+      "venue_id": "ven-tiwani-contemporary",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-11-13",
+      "end_date": "2026-01-17",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "drawing",
+        "mixed media"
+      ],
+      "description": "Third installment of twelve-part narrative series reimagining global history. Counter-historiography by Frohawk Two Feathers.",
+      "url": "https://www.tiwani.co.uk/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-october-inheriting-future-2025",
+      "title": "Inheriting the Future",
+      "artist_ids": [
+        "art-eddy-kamuanga-ilunga"
+      ],
+      "venue_id": "ven-october-gallery",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-06-01",
+      "end_date": "2025-12-31",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media"
+      ],
+      "description": "Group show with Zana Masombuka, Eddy Kamuanga Ilunga, Alexis Peskine and Djibril Drame exploring identity as heritage.",
+      "url": "https://www.octobergallery.co.uk/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-tafeta-delano-2026",
+      "title": "Oluwasemilore Delano: between slumped shoulders held the moon in waiting",
+      "artist_ids": [
+        "art-oluwasemilore-delano"
+      ],
+      "venue_id": "ven-tafeta-london",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2026-01-15",
+      "end_date": "2026-03-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "description": "First solo at TAFETA. Paintings of cows in Nigeria as signifiers of human instinct, honesty, beauty and roughness.",
+      "url": "https://www.tafeta.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-turner-prize-2025",
+      "title": "Turner Prize 2025 Exhibition",
+      "artist_ids": [
+        "art-nnena-kalu"
+      ],
+      "venue_id": "ven-cartwright-hall-bradford",
+      "city": "Bradford",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-09-27",
+      "end_date": "2026-02-22",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "drawing",
+        "photography",
+        "installation",
+        "painting"
+      ],
+      "description": "Nnena Kalu became first learning-disabled artist to win Turner Prize. British-Nigerian artist's hanging sculptures from repurposed materials. 34,000+ visitors.",
+      "url": "https://www.tate.org.uk/press/press-releases/nnena-kalu-wins-turner-prize-2025",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "significant"
+    },
+    {
+      "id": "exh-whitechapel-nengudi-2026",
+      "title": "Senga Nengudi (archival exhibition)",
+      "artist_ids": [
+        "art-senga-nengudi"
+      ],
+      "venue_id": "ven-whitechapel-gallery",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2026-04-01",
+      "end_date": "2026-06-14",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "photography",
+        "film",
+        "mixed media"
+      ],
+      "description": "Rare archival exhibition alongside Veronica Ryan show. Photos, films and materials documenting Nengudi's performance works with found objects and hosiery.",
+      "url": "https://www.whitechapelgallery.org",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-gasworks-nengudi-2026",
+      "title": "Senga Nengudi",
+      "artist_ids": [
+        "art-senga-nengudi"
+      ],
+      "venue_id": "ven-gasworks-london",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2026-04-16",
+      "end_date": "2026-06-14",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "performance",
+        "photography"
+      ],
+      "description": "Exhibition at Gasworks coinciding with Whitechapel archival show. Sculpture, choreography and performance with found objects.",
+      "url": "https://www.gasworks.org.uk",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-camden-locke-2026",
+      "title": "Donald Locke (survey)",
+      "artist_ids": [
+        "art-donald-locke"
+      ],
+      "venue_id": "ven-camden-arts-centre",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2026-04-01",
+      "end_date": "2026-07-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "ceramics",
+        "sculpture",
+        "painting",
+        "assemblage"
+      ],
+      "description": "Major survey of Guyanese-British artist (1930-2010). Five decades from biomorphic ceramics to Plantation Series paintings. Windrush generation figure.",
+      "url": "https://www.camdenartcentre.org",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-ra-kerry-james-marshall-2025",
+      "title": "Kerry James Marshall",
+      "artist_ids": [
+        "art-kerry-james-marshall"
+      ],
+      "venue_id": "ven-royal-academy",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-10-24",
+      "end_date": "2026-01-18",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "installation"
+      ],
+      "description": "Major Royal Academy exhibition. Large-scale paintings depicting Black life, challenging art-historical narratives of representation.",
+      "url": "https://www.royalacademy.org.uk",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-hayward-mickalene-thomas-2025",
+      "title": "Mickalene Thomas",
+      "artist_ids": [
+        "art-mickalene-thomas"
+      ],
+      "venue_id": "ven-hayward-gallery",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-02-12",
+      "end_date": "2025-05-11",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "collage",
+        "installation",
+        "photography"
+      ],
+      "description": "Major solo at Hayward Gallery. Rhinestone-studded portraits and environments celebrating Black women and queer identity.",
+      "url": "https://www.southbankcentre.co.uk/venues/hayward-gallery",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-barbican-curve-noah-davis-2025",
+      "title": "Noah Davis",
+      "artist_ids": [
+        "art-noah-davis"
+      ],
+      "venue_id": "ven-barbican-curve",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-06-01",
+      "end_date": "2025-12-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "description": "Solo of the late American painter (1983-2015), known for enigmatic figurative works and co-founding Underground Museum in LA.",
+      "url": "https://www.barbican.org.uk",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-gallery1957-fadugba-2025",
+      "title": "Modupeola Fadugba: Of Movement, Materials and Methods",
+      "artist_ids": [
+        "art-modupeola-fadugba"
+      ],
+      "venue_id": "ven-gallery-1957-london",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-06-01",
+      "end_date": "2025-07-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "description": "2025 Norval Sovereign African Art Prize winner. Canvases inspired by the Ojude Oba festival in Ijebu-Ode, Nigeria.",
+      "url": "https://www.gallery1957.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-ames-yavuz-paintsil-2026",
+      "title": "Anya Paintsil: Mamwlad",
+      "artist_ids": [
+        "art-anya-paintsil"
+      ],
+      "venue_id": "ven-ames-yavuz-london",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2026-01-15",
+      "end_date": "2026-03-28",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "textiles",
+        "mixed media"
+      ],
+      "description": "Welsh-Ghanaian textile artist's first solo at Ames Yavuz. 'Mamwlad' means motherland in Welsh. Fibre works exploring kinship among isolated Black communities, Ghanaian funeral dress.",
+      "url": "https://amesyavuz.com/exhibitions/mamwlad/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-fourth-plinth-self-2026",
+      "title": "Tschabalala Self: Fourth Plinth Commission",
+      "artist_ids": [
+        "art-tschabalala-self"
+      ],
+      "venue_id": "ven-trafalgar-square",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2026-09-01",
+      "end_date": "2028-09-01",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sculpture"
+      ],
+      "description": "Selected for the 2026 Fourth Plinth commission in Trafalgar Square. Sculptures exploring the Black female body through assemblage and collage.",
+      "url": "https://www.london.gov.uk/fourthplinth",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-pilar-corrias-mathieu-2025",
+      "title": "Manuel Mathieu: Bury Your Masters",
+      "artist_ids": [
+        "art-manuel-mathieu"
+      ],
+      "venue_id": "ven-pilar-corrias",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-06-01",
+      "end_date": "2025-09-30",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "description": "Haitian-Canadian painter's second solo at Pilar Corrias. Invited by Koyo Kouoh to the 2026 Venice Biennale.",
+      "url": "https://www.pilarcorrias.com/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-gagosian-gordon-parks-2026",
+      "title": "Gordon Parks: We Shall Not Be Moved",
+      "artist_ids": [
+        "art-gordon-parks"
+      ],
+      "venue_id": "ven-gagosian-london",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2026-01-15",
+      "end_date": "2026-04-30",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "photography"
+      ],
+      "description": "Curated by Bryan Stevenson (Equal Justice Initiative founder). Parks' most celebrated works documenting the struggle, resilience and striving of Black Americans.",
+      "url": "https://gagosian.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-autograph-lost-vocabularies-2025",
+      "title": "I Still Dream of Lost Vocabularies",
+      "artist_ids": [],
+      "venue_id": "ven-autograph-london",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-10-10",
+      "end_date": "2026-03-21",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "photography",
+        "collage",
+        "mixed media"
+      ],
+      "description": "Major group exhibition of 90+ works examining political dissent and erasure through collage at Autograph's Rivington Place gallery.",
+      "url": "https://autograph.org.uk",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "significant"
+    },
+    {
+      "id": "exh-rosenfeld-figuration-2026",
+      "title": "Figuration Group Show",
+      "artist_ids": [],
+      "venue_id": "ven-rosenfeld-london",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2026-01-15",
+      "end_date": "2026-04-30",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "mixed media"
+      ],
+      "description": "Group figuration show featuring Bunmi Agusto (Nigeria/UK), Carla Gueye (Senegal/UK), Ugonna Hosten (Zimbabwe/UK), Sikelela Owen (South Africa/UK).",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-tiwani-shumba-2025",
+      "title": "Felix Shumba: For want of a horse, a button was lost",
+      "artist_ids": [
+        "art-felix-shumba"
+      ],
+      "venue_id": "ven-tiwani-contemporary",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-06-05",
+      "end_date": "2025-09-20",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "drawing",
+        "installation"
+      ],
+      "description": "In Focus presentation. Charcoal drawings influenced by photography's evidential value, referencing 19th-century daguerreotype plates.",
+      "url": "https://www.tiwani.co.uk/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-goodman-london-branch-2025",
+      "title": "Winston Branch: Out of the Calabash",
+      "artist_ids": [],
+      "venue_id": "ven-goodman-gallery-london",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-11-27",
+      "end_date": "2026-01-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "description": "Solo at Goodman Gallery London by the Trinidad-born, UK-based artist.",
+      "url": "https://goodman-gallery.com/exhibitions",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-1-54-london-2025",
+      "title": "1-54 Contemporary African Art Fair London 2025",
+      "artist_ids": [],
+      "venue_id": "ven-somerset-house",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-10-09",
+      "end_date": "2025-10-12",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media",
+        "textiles"
+      ],
+      "description": "Annual London edition during Frieze Week. The only art fair dedicated exclusively to contemporary African and diasporic art.",
+      "url": "https://www.1-54.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-london-art-fair-2026",
+      "title": "London Art Fair 2026",
+      "artist_ids": [],
+      "venue_id": "ven-london-art-fair",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2026-01-21",
+      "end_date": "2026-01-25",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media"
+      ],
+      "description": "Annual fair with African Art Hub section. 2026 edition featured Anya Paintsil and other diaspora artists highlighted across satellite shows.",
+      "url": "https://www.londonartfair.co.uk/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "featured"
     }
   ],
   "artists": [
@@ -2082,6 +2736,300 @@ const WSW_DATA = {
       "birth_year": 1978,
       "website": "",
       "notes": "Canadian-Tanzanian, based in Paris. Marcel Duchamp Prize 2020"
+    },
+    {
+      "id": "art-hurvin-anderson",
+      "name": "Hurvin Anderson",
+      "origin_country": "United Kingdom",
+      "origin_region": "West Africa",
+      "based_in": [
+        "London",
+        "United Kingdom"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1965,
+      "website": "",
+      "notes": "British-Jamaican painter. Birmingham-born."
+    },
+    {
+      "id": "art-sonia-boyce",
+      "name": "Sonia Boyce",
+      "origin_country": "United Kingdom",
+      "origin_region": "West Africa",
+      "based_in": [
+        "London",
+        "United Kingdom"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "installation",
+        "photography",
+        "mixed media"
+      ],
+      "birth_year": 1962,
+      "website": "",
+      "notes": "Golden Lion Venice 2022 for British Pavilion"
+    },
+    {
+      "id": "art-virginia-chihota",
+      "name": "Virginia Chihota",
+      "origin_country": "Zimbabwe",
+      "origin_region": "Southern Africa",
+      "based_in": [
+        "Montpellier",
+        "France"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "printmaking",
+        "painting",
+        "mixed media"
+      ],
+      "birth_year": 1983,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-nnena-kalu",
+      "name": "Nnena Kalu",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "London",
+        "United Kingdom"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "sculpture",
+        "drawing"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "Turner Prize winner 2025. British-Nigerian. First learning-disabled artist to win."
+    },
+    {
+      "id": "art-oluwasemilore-delano",
+      "name": "Oluwasemilore Delano",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-modupeola-fadugba",
+      "name": "Modupeola Fadugba",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Lagos",
+        "Nigeria"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "2025 Norval Sovereign African Art Prize winner"
+    },
+    {
+      "id": "art-anya-paintsil",
+      "name": "Anya Paintsil",
+      "origin_country": "United Kingdom",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Wales",
+        "United Kingdom"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "textiles",
+        "fibre",
+        "mixed media"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "Welsh-Ghanaian textile artist"
+    },
+    {
+      "id": "art-tschabalala-self",
+      "name": "Tschabalala Self",
+      "origin_country": "United States",
+      "origin_region": "West Africa",
+      "based_in": [
+        "New York",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting",
+        "sculpture",
+        "collage"
+      ],
+      "birth_year": 1990,
+      "website": "",
+      "notes": "Fourth Plinth commission 2026. Represented by Pilar Corrias."
+    },
+    {
+      "id": "art-manuel-mathieu",
+      "name": "Manuel Mathieu",
+      "origin_country": "Haiti",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Montreal",
+        "Canada"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1986,
+      "website": "",
+      "notes": "Haitian-Canadian. Invited to Venice Biennale 2026 by Koyo Kouoh."
+    },
+    {
+      "id": "art-gordon-parks",
+      "name": "Gordon Parks",
+      "origin_country": "United States",
+      "origin_region": "West Africa",
+      "based_in": [],
+      "is_diaspora": true,
+      "mediums": [
+        "photography"
+      ],
+      "birth_year": 1912,
+      "website": "",
+      "notes": "Pioneering photographer, filmmaker. 1912-2006."
+    },
+    {
+      "id": "art-donald-locke",
+      "name": "Donald Locke",
+      "origin_country": "Guyana",
+      "origin_region": "West Africa",
+      "based_in": [],
+      "is_diaspora": true,
+      "mediums": [
+        "ceramics",
+        "sculpture",
+        "painting",
+        "assemblage"
+      ],
+      "birth_year": 1930,
+      "website": "",
+      "notes": "Guyanese-British. Windrush generation. 1930-2010."
+    },
+    {
+      "id": "art-felix-shumba",
+      "name": "Felix Shumba",
+      "origin_country": "Zimbabwe",
+      "origin_region": "Southern Africa",
+      "based_in": [],
+      "is_diaspora": false,
+      "mediums": [
+        "drawing",
+        "installation"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-eddy-kamuanga-ilunga",
+      "name": "Eddy Kamuanga Ilunga",
+      "origin_country": "Democratic Republic of the Congo",
+      "origin_region": "Central Africa",
+      "based_in": [
+        "Kinshasa",
+        "Democratic Republic of the Congo"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1991,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-kerry-james-marshall",
+      "name": "Kerry James Marshall",
+      "origin_country": "United States",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Chicago",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting",
+        "installation"
+      ],
+      "birth_year": 1955,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-noah-davis",
+      "name": "Noah Davis",
+      "origin_country": "United States",
+      "origin_region": "West Africa",
+      "based_in": [],
+      "is_diaspora": true,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1983,
+      "website": "",
+      "notes": "1983-2015. Co-founded Underground Museum, LA."
+    },
+    {
+      "id": "art-senga-nengudi",
+      "name": "Senga Nengudi",
+      "origin_country": "United States",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Colorado Springs",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "sculpture",
+        "performance",
+        "photography"
+      ],
+      "birth_year": 1943,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-mickalene-thomas",
+      "name": "Mickalene Thomas",
+      "origin_country": "United States",
+      "origin_region": "West Africa",
+      "based_in": [
+        "New York",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting",
+        "collage",
+        "installation",
+        "photography"
+      ],
+      "birth_year": 1971,
+      "website": "",
+      "notes": ""
     }
   ],
   "venues": [
@@ -2525,7 +3473,187 @@ const WSW_DATA = {
       "type": "institution",
       "website": "https://theshed.org",
       "notes": "Venue for Frieze New York"
+    },
+    {
+      "id": "ven-tate-britain",
+      "name": "Tate Britain",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "museum",
+      "website": "https://www.tate.org.uk",
+      "notes": ""
+    },
+    {
+      "id": "ven-vanda-east",
+      "name": "V&A East Museum",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "museum",
+      "website": "https://www.vam.ac.uk",
+      "notes": "New museum in Queen Elizabeth Olympic Park, opens April 2026"
+    },
+    {
+      "id": "ven-camden-arts-centre",
+      "name": "Camden Art Centre",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "institution",
+      "website": "https://www.camdenartcentre.org",
+      "notes": ""
+    },
+    {
+      "id": "ven-hayward-gallery",
+      "name": "Hayward Gallery",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "museum",
+      "website": "https://www.southbankcentre.co.uk/venues/hayward-gallery",
+      "notes": ""
+    },
+    {
+      "id": "ven-royal-academy",
+      "name": "Royal Academy of Arts",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "museum",
+      "website": "https://www.royalacademy.org.uk",
+      "notes": ""
+    },
+    {
+      "id": "ven-tiwani-contemporary",
+      "name": "Tiwani Contemporary",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "gallery",
+      "website": "https://www.tiwani.co.uk",
+      "notes": "Cork Street, specialising in African and diaspora art"
+    },
+    {
+      "id": "ven-october-gallery",
+      "name": "October Gallery",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "gallery",
+      "website": "https://www.octobergallery.co.uk",
+      "notes": ""
+    },
+    {
+      "id": "ven-tafeta-london",
+      "name": "TAFETA",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "gallery",
+      "website": "https://www.tafeta.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-goodman-gallery-london",
+      "name": "Goodman Gallery London",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "gallery",
+      "website": "https://goodman-gallery.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-autograph-london",
+      "name": "Autograph",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "institution",
+      "website": "https://autograph.org.uk",
+      "notes": "Rivington Place, photography and film"
+    },
+    {
+      "id": "ven-gasworks-london",
+      "name": "Gasworks",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "project-space",
+      "website": "https://www.gasworks.org.uk",
+      "notes": ""
+    },
+    {
+      "id": "ven-gallery-1957-london",
+      "name": "Gallery 1957 London",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "gallery",
+      "website": "https://www.gallery1957.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-ames-yavuz-london",
+      "name": "Ames Yavuz",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "gallery",
+      "website": "https://amesyavuz.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-pilar-corrias",
+      "name": "Pilar Corrias",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "gallery",
+      "website": "https://www.pilarcorrias.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-gagosian-london",
+      "name": "Gagosian London",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "gallery",
+      "website": "https://gagosian.com",
+      "notes": "Grosvenor Hill"
+    },
+    {
+      "id": "ven-rosenfeld-london",
+      "name": "Rosenfeld",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "gallery",
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "ven-barbican-curve",
+      "name": "Barbican Curve",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "museum",
+      "website": "https://www.barbican.org.uk",
+      "notes": "Free gallery within the Barbican"
+    },
+    {
+      "id": "ven-cartwright-hall-bradford",
+      "name": "Cartwright Hall Art Gallery",
+      "city": "Bradford",
+      "country": "United Kingdom",
+      "type": "museum",
+      "website": "",
+      "notes": "Venue for Turner Prize 2025"
+    },
+    {
+      "id": "ven-london-art-fair",
+      "name": "Business Design Centre",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "fair",
+      "website": "https://www.londonartfair.co.uk",
+      "notes": "Venue for London Art Fair"
+    },
+    {
+      "id": "ven-trafalgar-square",
+      "name": "Fourth Plinth, Trafalgar Square",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "institution",
+      "website": "",
+      "notes": "Public art commission"
     }
   ],
-  "generated": "2026-03-27 05:08"
+  "generated": "2026-03-27 05:45"
 };

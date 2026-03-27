@@ -660,5 +660,299 @@
     "birth_year": 1978,
     "website": "",
     "notes": "Canadian-Tanzanian, based in Paris. Marcel Duchamp Prize 2020"
+  },
+  {
+    "id": "art-hurvin-anderson",
+    "name": "Hurvin Anderson",
+    "origin_country": "United Kingdom",
+    "origin_region": "West Africa",
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1965,
+    "website": "",
+    "notes": "British-Jamaican painter. Birmingham-born."
+  },
+  {
+    "id": "art-sonia-boyce",
+    "name": "Sonia Boyce",
+    "origin_country": "United Kingdom",
+    "origin_region": "West Africa",
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "installation",
+      "photography",
+      "mixed media"
+    ],
+    "birth_year": 1962,
+    "website": "",
+    "notes": "Golden Lion Venice 2022 for British Pavilion"
+  },
+  {
+    "id": "art-virginia-chihota",
+    "name": "Virginia Chihota",
+    "origin_country": "Zimbabwe",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Montpellier",
+      "France"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "printmaking",
+      "painting",
+      "mixed media"
+    ],
+    "birth_year": 1983,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-nnena-kalu",
+    "name": "Nnena Kalu",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "sculpture",
+      "drawing"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "Turner Prize winner 2025. British-Nigerian. First learning-disabled artist to win."
+  },
+  {
+    "id": "art-oluwasemilore-delano",
+    "name": "Oluwasemilore Delano",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-modupeola-fadugba",
+    "name": "Modupeola Fadugba",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Lagos",
+      "Nigeria"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting",
+      "mixed media"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "2025 Norval Sovereign African Art Prize winner"
+  },
+  {
+    "id": "art-anya-paintsil",
+    "name": "Anya Paintsil",
+    "origin_country": "United Kingdom",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Wales",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "textiles",
+      "fibre",
+      "mixed media"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "Welsh-Ghanaian textile artist"
+  },
+  {
+    "id": "art-tschabalala-self",
+    "name": "Tschabalala Self",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "sculpture",
+      "collage"
+    ],
+    "birth_year": 1990,
+    "website": "",
+    "notes": "Fourth Plinth commission 2026. Represented by Pilar Corrias."
+  },
+  {
+    "id": "art-manuel-mathieu",
+    "name": "Manuel Mathieu",
+    "origin_country": "Haiti",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Montreal",
+      "Canada"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1986,
+    "website": "",
+    "notes": "Haitian-Canadian. Invited to Venice Biennale 2026 by Koyo Kouoh."
+  },
+  {
+    "id": "art-gordon-parks",
+    "name": "Gordon Parks",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "based_in": [],
+    "is_diaspora": true,
+    "mediums": [
+      "photography"
+    ],
+    "birth_year": 1912,
+    "website": "",
+    "notes": "Pioneering photographer, filmmaker. 1912-2006."
+  },
+  {
+    "id": "art-donald-locke",
+    "name": "Donald Locke",
+    "origin_country": "Guyana",
+    "origin_region": "West Africa",
+    "based_in": [],
+    "is_diaspora": true,
+    "mediums": [
+      "ceramics",
+      "sculpture",
+      "painting",
+      "assemblage"
+    ],
+    "birth_year": 1930,
+    "website": "",
+    "notes": "Guyanese-British. Windrush generation. 1930-2010."
+  },
+  {
+    "id": "art-felix-shumba",
+    "name": "Felix Shumba",
+    "origin_country": "Zimbabwe",
+    "origin_region": "Southern Africa",
+    "based_in": [],
+    "is_diaspora": false,
+    "mediums": [
+      "drawing",
+      "installation"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-eddy-kamuanga-ilunga",
+    "name": "Eddy Kamuanga Ilunga",
+    "origin_country": "Democratic Republic of the Congo",
+    "origin_region": "Central Africa",
+    "based_in": [
+      "Kinshasa",
+      "Democratic Republic of the Congo"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1991,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-kerry-james-marshall",
+    "name": "Kerry James Marshall",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Chicago",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "installation"
+    ],
+    "birth_year": 1955,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-noah-davis",
+    "name": "Noah Davis",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "based_in": [],
+    "is_diaspora": true,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1983,
+    "website": "",
+    "notes": "1983-2015. Co-founded Underground Museum, LA."
+  },
+  {
+    "id": "art-senga-nengudi",
+    "name": "Senga Nengudi",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Colorado Springs",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "sculpture",
+      "performance",
+      "photography"
+    ],
+    "birth_year": 1943,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-mickalene-thomas",
+    "name": "Mickalene Thomas",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "collage",
+      "installation",
+      "photography"
+    ],
+    "birth_year": 1971,
+    "website": "",
+    "notes": ""
   }
 ]
