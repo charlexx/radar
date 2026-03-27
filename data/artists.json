@@ -1128,5 +1128,99 @@
     "birth_year": null,
     "website": "",
     "notes": ""
+  },
+  {
+    "id": "art-kara-walker",
+    "name": "Kara Walker",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "drawing",
+      "collage",
+      "installation",
+      "printmaking"
+    ],
+    "birth_year": 1969,
+    "website": "",
+    "notes": "Known for cut-paper silhouettes exploring race, gender, and American history"
+  },
+  {
+    "id": "art-saadane-afif",
+    "name": "Saadane Afif",
+    "origin_country": "France",
+    "origin_region": "North Africa",
+    "based_in": [
+      "Berlin",
+      "Germany"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "installation",
+      "sculpture",
+      "sound"
+    ],
+    "birth_year": 1970,
+    "website": "",
+    "notes": "French-Algerian. Marcel Duchamp Prize 2009."
+  },
+  {
+    "id": "art-thomias-radin",
+    "name": "Thomias Radin",
+    "origin_country": "Haiti",
+    "origin_region": "West Africa",
+    "based_in": [
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "mixed media"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "Haitian-American. Explores Vodou, memory and diasporic experience."
+  },
+  {
+    "id": "art-vaginal-davis",
+    "name": "Vaginal Davis",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Berlin",
+      "Germany"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "installation",
+      "painting",
+      "video",
+      "performance"
+    ],
+    "birth_year": 1969,
+    "website": "",
+    "notes": "Berlin-based. Punk, queer activism, Black counter-culture."
+  },
+  {
+    "id": "art-ligia-lewis",
+    "name": "Ligia Lewis",
+    "origin_country": "Dominican Republic",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Berlin",
+      "Germany"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "performance",
+      "installation",
+      "film"
+    ],
+    "birth_year": 1983,
+    "website": "",
+    "notes": "Afro-Caribbean. Choreographer and artist redefining performance within visual arts."
   }
 ]

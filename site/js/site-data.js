@@ -2790,6 +2790,350 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated"
+    },
+    {
+      "id": "exh-spruth-magers-kara-walker-2025",
+      "title": "Kara Walker: Dispatches from A and the Museum of Half-remembered Histories",
+      "artist_ids": [
+        "art-kara-walker"
+      ],
+      "venue_id": "ven-spruth-magers-berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2025-11-14",
+      "end_date": "2026-04-04",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "drawing",
+        "collage"
+      ],
+      "description": "All-new cutout collages in vibrant ink and watercolour at grand history-painting scale. Interrogates how American identity was constructed post-Civil War. Gallery Weekend Berlin 2026 highlight.",
+      "url": "https://spruethmagers.com/exhibitions/kara-walker-berlin-2/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-savvy-counter-spells-2025",
+      "title": "SAVVY Contemporary: Counter-Spells in Five Acts",
+      "artist_ids": [],
+      "venue_id": "ven-savvy-contemporary",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2025-01-01",
+      "end_date": "2026-12-31",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "mixed media",
+        "performance",
+        "sound",
+        "installation"
+      ],
+      "description": "Multi-year programme at Europe's most important space for African and diasporic art. Five acts spanning exhibitions, performances and research projects. Now under direction of Lema Sikod.",
+      "url": "https://savvy-contemporary.com/en/projects/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-savvy-desacta-2024",
+      "title": "SAVVY Contemporary: Desacta - Counter-spells to Unravel 140 Years of the Berlin Conference",
+      "artist_ids": [],
+      "venue_id": "ven-savvy-contemporary",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2024-11-30",
+      "end_date": "2025-01-24",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "installation",
+        "mixed media"
+      ],
+      "description": "Research and exhibition marking 140 years since the Berlin Conference (1884-85) that partitioned Africa. Artists and researchers examining colonial legacy.",
+      "url": "https://savvy-contemporary.com/en/projects/2025/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-savvy-listening-sessions-2025",
+      "title": "SAVVY Contemporary: Circular Listening Sessions",
+      "artist_ids": [],
+      "venue_id": "ven-savvy-contemporary",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2025-07-01",
+      "end_date": "2025-12-31",
+      "type": "performance",
+      "admission": "free",
+      "mediums": [
+        "sound",
+        "performance"
+      ],
+      "description": "Six-month programme of sonic interventions and listening sessions featuring Chimurenga, Matana Roberts, Chicoco Radio and other artists.",
+      "url": "https://savvy-contemporary.com/en/projects/2025/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-gropius-bau-vaginal-davis-2025",
+      "title": "Vaginal Davis: Fabelhaftes Produkt",
+      "artist_ids": [
+        "art-vaginal-davis"
+      ],
+      "venue_id": "ven-gropius-bau",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2025-03-01",
+      "end_date": "2025-08-31",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "installation",
+        "painting",
+        "video",
+        "performance"
+      ],
+      "description": "First comprehensive solo in Germany. Punk meets glamour, queer activism meets Black counter-culture. Large-scale installations spanning Davis's expansive oeuvre.",
+      "url": "https://www.berlinerfestspiele.de/en/gropius-bau/programm/2025/ausstellungen",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-gropius-bau-ligia-lewis-2025",
+      "title": "Ligia Lewis: I'M NOT HERE FORRRRR...",
+      "artist_ids": [
+        "art-ligia-lewis"
+      ],
+      "venue_id": "ven-gropius-bau",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2025-09-01",
+      "end_date": "2026-03-31",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "performance",
+        "installation",
+        "film"
+      ],
+      "description": "Most comprehensive solo to date. Afro-Caribbean artist and choreographer who is a central figure in redefining performance within visual arts. Combines live installation and film.",
+      "url": "https://www.berlinerfestspiele.de/en/gropius-bau/programm/2025/ausstellungen",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-kw-bpa-2025",
+      "title": "BPA// Exhibition 2025: A Place Never Fully Held",
+      "artist_ids": [],
+      "venue_id": "ven-kw-institute",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2025-12-01",
+      "end_date": "2026-01-31",
+      "type": "group",
+      "admission": "paid",
+      "mediums": [
+        "performance",
+        "painting",
+        "installation",
+        "sculpture",
+        "video"
+      ],
+      "description": "Annual BPA// Berlin exhibition. Felisha Carenage (Trinidad and Tobago) uses performance and painting to explore ethics of empire through the carnivalesque. Includes Moko Jumbie public performance.",
+      "url": "https://www.kw-berlin.de/en/exhibitions/bpa-exhibition-2025",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "significant"
+    },
+    {
+      "id": "exh-hamburger-bahnhof-afif-2025",
+      "title": "Saadane Afif: Five Preludes",
+      "artist_ids": [
+        "art-saadane-afif"
+      ],
+      "venue_id": "ven-hamburger-bahnhof",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2025-12-12",
+      "end_date": "2026-09-13",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "installation",
+        "sculpture",
+        "sound"
+      ],
+      "description": "Solo at Hamburger Bahnhof as part of the museum's 30th anniversary programme. French-Algerian artist works across installation, sculpture and sound.",
+      "url": "https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/exhibitions/current/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-esther-schipper-radin-2026",
+      "title": "Thomias Radin: Echoes of KA",
+      "artist_ids": [
+        "art-thomias-radin"
+      ],
+      "venue_id": "ven-esther-schipper-berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2026-03-13",
+      "end_date": "2026-04-18",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "mixed media"
+      ],
+      "description": "Solo at Esther Schipper Berlin. Haitian-American artist explores Vodou, memory and diasporic experience.",
+      "url": "https://www.estherschipper.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-positions-berlin-2026",
+      "title": "POSITIONS Berlin Art Fair 2026",
+      "artist_ids": [],
+      "venue_id": "ven-tempelhof-berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-13",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media",
+        "installation"
+      ],
+      "description": "13th edition during Berlin Art Week 2026. 10,000+ sqm in iconic Tempelhof hangars. Over 30,000 visitors at last edition.",
+      "url": "https://positions.de/start.html",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming",
+      "focus": "featured"
+    },
+    {
+      "id": "exh-gallery-weekend-berlin-2026",
+      "title": "Gallery Weekend Berlin 2026",
+      "artist_ids": [
+        "art-kara-walker"
+      ],
+      "venue_id": "ven-berlin-multiple",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-03",
+      "type": "fair",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media",
+        "installation"
+      ],
+      "description": "22nd edition. 57 galleries open simultaneously. Kara Walker at Spruth Magers featured as highlight. New 'Perspectives' format launching.",
+      "url": "https://www.gallery-weekend-berlin.de/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming",
+      "focus": "featured"
+    },
+    {
+      "id": "exh-berlin-art-week-2025",
+      "title": "Berlin Art Week 2025",
+      "artist_ids": [],
+      "venue_id": "ven-berlin-multiple",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2025-09-11",
+      "end_date": "2025-09-14",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media",
+        "installation"
+      ],
+      "description": "Annual city-wide art week with 140,000+ visitors. Includes Hamburger Bahnhof, KW, Gropius Bau, SAVVY Contemporary, and galleries across the city.",
+      "url": "https://www.berlin.de/en/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "featured"
+    },
+    {
+      "id": "exh-hamburger-bahnhof-museum-in-motion-2024",
+      "title": "Museum In Motion: A Collection for the 21st Century",
+      "artist_ids": [],
+      "venue_id": "ven-hamburger-bahnhof",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2024-09-06",
+      "end_date": "2026-07-26",
+      "type": "group",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "installation",
+        "video",
+        "mixed media"
+      ],
+      "description": "Long-running Nationalgalerie collection presentation. Berlin's art scene in global dialogue from 1989 to today. International artists including African and diaspora works.",
+      "url": "https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/exhibitions/current/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "featured"
     }
   ],
   "artists": [
@@ -3922,6 +4266,100 @@ const WSW_DATA = {
       "birth_year": null,
       "website": "",
       "notes": ""
+    },
+    {
+      "id": "art-kara-walker",
+      "name": "Kara Walker",
+      "origin_country": "United States",
+      "origin_region": "West Africa",
+      "based_in": [
+        "New York",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "drawing",
+        "collage",
+        "installation",
+        "printmaking"
+      ],
+      "birth_year": 1969,
+      "website": "",
+      "notes": "Known for cut-paper silhouettes exploring race, gender, and American history"
+    },
+    {
+      "id": "art-saadane-afif",
+      "name": "Saadane Afif",
+      "origin_country": "France",
+      "origin_region": "North Africa",
+      "based_in": [
+        "Berlin",
+        "Germany"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "installation",
+        "sculpture",
+        "sound"
+      ],
+      "birth_year": 1970,
+      "website": "",
+      "notes": "French-Algerian. Marcel Duchamp Prize 2009."
+    },
+    {
+      "id": "art-thomias-radin",
+      "name": "Thomias Radin",
+      "origin_country": "Haiti",
+      "origin_region": "West Africa",
+      "based_in": [
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "mixed media"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "Haitian-American. Explores Vodou, memory and diasporic experience."
+    },
+    {
+      "id": "art-vaginal-davis",
+      "name": "Vaginal Davis",
+      "origin_country": "United States",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Berlin",
+        "Germany"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "installation",
+        "painting",
+        "video",
+        "performance"
+      ],
+      "birth_year": 1969,
+      "website": "",
+      "notes": "Berlin-based. Punk, queer activism, Black counter-culture."
+    },
+    {
+      "id": "art-ligia-lewis",
+      "name": "Ligia Lewis",
+      "origin_country": "Dominican Republic",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Berlin",
+        "Germany"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "performance",
+        "installation",
+        "film"
+      ],
+      "birth_year": 1983,
+      "website": "",
+      "notes": "Afro-Caribbean. Choreographer and artist redefining performance within visual arts."
     }
   ],
   "venues": [
@@ -4689,7 +5127,70 @@ const WSW_DATA = {
       "type": "gallery",
       "website": "",
       "notes": ""
+    },
+    {
+      "id": "ven-savvy-contemporary",
+      "name": "SAVVY Contemporary",
+      "city": "Berlin",
+      "country": "Germany",
+      "type": "institution",
+      "website": "https://savvy-contemporary.com",
+      "notes": "Neukolln. Founded by Bonaventure Soh Bejeng Ndikung. Major space for African and diasporic art."
+    },
+    {
+      "id": "ven-spruth-magers-berlin",
+      "name": "Spruth Magers Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "type": "gallery",
+      "website": "https://spruethmagers.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-gropius-bau",
+      "name": "Gropius Bau",
+      "city": "Berlin",
+      "country": "Germany",
+      "type": "museum",
+      "website": "https://www.berlinerfestspiele.de/en/gropius-bau",
+      "notes": ""
+    },
+    {
+      "id": "ven-kw-institute",
+      "name": "KW Institute for Contemporary Art",
+      "city": "Berlin",
+      "country": "Germany",
+      "type": "institution",
+      "website": "https://www.kw-berlin.de",
+      "notes": ""
+    },
+    {
+      "id": "ven-esther-schipper-berlin",
+      "name": "Esther Schipper",
+      "city": "Berlin",
+      "country": "Germany",
+      "type": "gallery",
+      "website": "https://www.estherschipper.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-tempelhof-berlin",
+      "name": "Tempelhof Airport Hangar",
+      "city": "Berlin",
+      "country": "Germany",
+      "type": "fair",
+      "website": "https://positions.de",
+      "notes": "Venue for POSITIONS Berlin Art Fair"
+    },
+    {
+      "id": "ven-berlin-multiple",
+      "name": "Multiple galleries across Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "type": "fair",
+      "website": "https://www.gallery-weekend-berlin.de",
+      "notes": ""
     }
   ],
-  "generated": "2026-03-27 21:07"
+  "generated": "2026-03-27 21:48"
 };

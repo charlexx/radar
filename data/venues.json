@@ -763,5 +763,68 @@
     "type": "gallery",
     "website": "",
     "notes": ""
+  },
+  {
+    "id": "ven-savvy-contemporary",
+    "name": "SAVVY Contemporary",
+    "city": "Berlin",
+    "country": "Germany",
+    "type": "institution",
+    "website": "https://savvy-contemporary.com",
+    "notes": "Neukolln. Founded by Bonaventure Soh Bejeng Ndikung. Major space for African and diasporic art."
+  },
+  {
+    "id": "ven-spruth-magers-berlin",
+    "name": "Spruth Magers Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "type": "gallery",
+    "website": "https://spruethmagers.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-gropius-bau",
+    "name": "Gropius Bau",
+    "city": "Berlin",
+    "country": "Germany",
+    "type": "museum",
+    "website": "https://www.berlinerfestspiele.de/en/gropius-bau",
+    "notes": ""
+  },
+  {
+    "id": "ven-kw-institute",
+    "name": "KW Institute for Contemporary Art",
+    "city": "Berlin",
+    "country": "Germany",
+    "type": "institution",
+    "website": "https://www.kw-berlin.de",
+    "notes": ""
+  },
+  {
+    "id": "ven-esther-schipper-berlin",
+    "name": "Esther Schipper",
+    "city": "Berlin",
+    "country": "Germany",
+    "type": "gallery",
+    "website": "https://www.estherschipper.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-tempelhof-berlin",
+    "name": "Tempelhof Airport Hangar",
+    "city": "Berlin",
+    "country": "Germany",
+    "type": "fair",
+    "website": "https://positions.de",
+    "notes": "Venue for POSITIONS Berlin Art Fair"
+  },
+  {
+    "id": "ven-berlin-multiple",
+    "name": "Multiple galleries across Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "type": "fair",
+    "website": "https://www.gallery-weekend-berlin.de",
+    "notes": ""
   }
 ]
