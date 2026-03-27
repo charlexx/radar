@@ -1,6 +1,6 @@
 /* Radar — Full Styles */
 
-/* ========== Variables ========== */
+/* ========== Variables (Dark — default) ========== */
 :root {
   --bg: #0a0a0a;
   --surface: #141414;
@@ -12,9 +12,45 @@
   --status-current: #4a9e6e;
   --status-upcoming: #5b8dd4;
   --status-past: #6b6560;
+  --badge-bg: rgba(255, 255, 255, 0.06);
+  --badge-type-bg: rgba(201, 168, 124, 0.12);
+  --badge-free-bg: rgba(74, 158, 110, 0.12);
+  --badge-dedicated-bg: rgba(201, 168, 124, 0.15);
+  --badge-significant-bg: rgba(91, 141, 212, 0.15);
+  --medium-tag-bg: rgba(232, 228, 223, 0.05);
+  --filter-bg: #141414;
+  --filter-border: #1e1e1e;
+  --filter-bar-bg: rgba(10, 10, 10, 0.85);
+  --card-hover-glow: rgba(201, 168, 124, 0.15);
+  --badge-status-text: #fff;
   --radius: 8px;
   --radius-sm: 4px;
   --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* ========== Light theme ========== */
+[data-theme="light"] {
+  --bg: #f5f3f0;
+  --surface: #ffffff;
+  --border: #e5e2dd;
+  --text: #1a1815;
+  --text-secondary: #6b6560;
+  --accent: #8b6b3d;
+  --accent-hover: #725530;
+  --status-current: #2d7a4a;
+  --status-upcoming: #3a6db5;
+  --status-past: #8a8580;
+  --badge-bg: rgba(0, 0, 0, 0.06);
+  --badge-type-bg: rgba(139, 107, 61, 0.12);
+  --badge-free-bg: rgba(45, 122, 74, 0.12);
+  --badge-dedicated-bg: rgba(139, 107, 61, 0.15);
+  --badge-significant-bg: rgba(58, 109, 181, 0.15);
+  --medium-tag-bg: rgba(0, 0, 0, 0.04);
+  --filter-bg: #ffffff;
+  --filter-border: #e5e2dd;
+  --filter-bar-bg: rgba(245, 243, 240, 0.85);
+  --card-hover-glow: rgba(139, 107, 61, 0.12);
+  --badge-status-text: #fff;
 }
 
 /* ========== Reset ========== */
@@ -53,6 +89,7 @@ body {
 
 /* ========== Hero ========== */
 .hero {
+  position: relative;
   padding: 3.5rem 1.5rem 2.5rem;
   text-align: center;
   border-bottom: 1px solid var(--border);
@@ -90,12 +127,41 @@ body {
   font-weight: 600;
 }
 
+/* ========== Theme Toggle ========== */
+.theme-toggle {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 1px solid var(--text-secondary);
+  color: var(--text-secondary);
+  font-size: 1.125rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+  z-index: 10;
+  padding: 0;
+  line-height: 1;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.theme-toggle:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
 /* ========== Filter Bar ========== */
 .filter-bar {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(10, 10, 10, 0.85);
+  background: var(--filter-bar-bg);
   -webkit-backdrop-filter: blur(12px);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--border);
@@ -122,9 +188,9 @@ body {
 .filter-search {
   width: 100%;
   min-width: 200px;
-  background: var(--surface);
+  background: var(--filter-bg);
   color: var(--text);
-  border: 1px solid var(--border);
+  border: 1px solid var(--filter-border);
   padding: 0.5rem 0.75rem;
   border-radius: var(--radius-sm);
   font-size: 0.8125rem;
@@ -145,9 +211,9 @@ body {
   width: 100%;
   appearance: none;
   -webkit-appearance: none;
-  background: var(--surface);
+  background: var(--filter-bg);
   color: var(--text);
-  border: 1px solid var(--border);
+  border: 1px solid var(--filter-border);
   padding: 0.5rem 2rem 0.5rem 0.75rem;
   border-radius: var(--radius-sm);
   font-size: 0.8125rem;
@@ -159,6 +225,10 @@ body {
   background-repeat: no-repeat;
   background-position: right 0.6rem center;
   text-overflow: ellipsis;
+}
+
+[data-theme="light"] .filter-bar select {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%236b6560' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
 }
 
 .filter-bar select:hover,
@@ -201,7 +271,7 @@ main {
 
 .card:hover {
   border-color: var(--accent);
-  box-shadow: 0 0 0 1px rgba(201, 168, 124, 0.15);
+  box-shadow: 0 0 0 1px var(--card-hover-glow);
 }
 
 .card-header {
@@ -278,7 +348,7 @@ main {
 }
 
 .badge-status {
-  color: #fff;
+  color: var(--badge-status-text);
 }
 
 .badge-status.current {
@@ -294,17 +364,17 @@ main {
 }
 
 .badge-type {
-  background: rgba(201, 168, 124, 0.12);
+  background: var(--badge-type-bg);
   color: var(--accent);
 }
 
 .badge-admission {
-  background: rgba(232, 228, 223, 0.06);
+  background: var(--badge-bg);
   color: var(--text-secondary);
 }
 
 .badge-admission.free {
-  background: rgba(74, 158, 110, 0.12);
+  background: var(--badge-free-bg);
   color: var(--status-current);
 }
 
@@ -314,17 +384,17 @@ main {
 }
 
 .badge-focus.dedicated {
-  background: rgba(201, 168, 124, 0.15);
+  background: var(--badge-dedicated-bg);
   color: var(--accent);
 }
 
 .badge-focus.significant {
-  background: rgba(91, 141, 212, 0.15);
+  background: var(--badge-significant-bg);
   color: var(--status-upcoming);
 }
 
 .badge-focus.featured {
-  background: rgba(232, 228, 223, 0.06);
+  background: var(--badge-bg);
   color: var(--text-secondary);
 }
 
@@ -340,7 +410,7 @@ main {
   font-size: 0.6875rem;
   padding: 0.1rem 0.45rem;
   border-radius: 3px;
-  background: rgba(232, 228, 223, 0.05);
+  background: var(--medium-tag-bg);
   color: var(--text-secondary);
   line-height: 1.5;
   white-space: nowrap;

@@ -2,6 +2,38 @@
 (function () {
   "use strict";
 
+  // ==================== Theme Toggle ====================
+  var themeToggle = document.getElementById("theme-toggle");
+
+  function getPreferredTheme() {
+    var stored = localStorage.getItem("radar-theme");
+    if (stored) return stored;
+    if (window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches) return "light";
+    return "dark";
+  }
+
+  function applyTheme(theme) {
+    if (theme === "light") {
+      document.documentElement.setAttribute("data-theme", "light");
+    } else {
+      document.documentElement.removeAttribute("data-theme");
+    }
+    if (themeToggle) {
+      themeToggle.textContent = theme === "light" ? "\u2600" : "\u263E";
+    }
+  }
+
+  applyTheme(getPreferredTheme());
+
+  if (themeToggle) {
+    themeToggle.addEventListener("click", function () {
+      var current = document.documentElement.getAttribute("data-theme") === "light" ? "light" : "dark";
+      var next = current === "light" ? "dark" : "light";
+      applyTheme(next);
+      localStorage.setItem("radar-theme", next);
+    });
+  }
+
   // ==================== Data ====================
   var data = typeof WSW_DATA !== "undefined" ? WSW_DATA : { exhibitions: [], artists: [], venues: [] };
 
