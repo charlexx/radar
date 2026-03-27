@@ -115,5 +115,104 @@
     "type": "fair",
     "website": "",
     "notes": "Venue for RMB Latitudes art fair"
+  },
+  {
+    "id": "ven-white-cube-seoul",
+    "name": "White Cube Seoul",
+    "city": "Seoul",
+    "country": "South Korea",
+    "type": "gallery",
+    "website": "https://www.whitecube.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-white-cube-hong-kong",
+    "name": "White Cube Hong Kong",
+    "city": "Hong Kong",
+    "country": "China",
+    "type": "gallery",
+    "website": "https://www.whitecube.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-white-cube-new-york",
+    "name": "White Cube New York",
+    "city": "New York",
+    "country": "United States",
+    "type": "gallery",
+    "website": "https://www.whitecube.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-giardini-arsenale-venice",
+    "name": "Giardini & Arsenale",
+    "city": "Venice",
+    "country": "Italy",
+    "type": "biennial-venue",
+    "website": "https://www.labiennale.org",
+    "notes": "Main venues of the Venice Biennale"
+  },
+  {
+    "id": "ven-palais-de-tokyo-paris",
+    "name": "Palais de Tokyo",
+    "city": "Paris",
+    "country": "France",
+    "type": "institution",
+    "website": "https://www.palaisdetokyo.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-cict-cape-town",
+    "name": "Cape Town International Convention Centre",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "type": "fair",
+    "website": "",
+    "notes": "Venue for Investec Cape Town Art Fair"
+  },
+  {
+    "id": "ven-la-mamounia-marrakech",
+    "name": "La Mamounia",
+    "city": "Marrakech",
+    "country": "Morocco",
+    "type": "fair",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-ooa-gallery-sitges",
+    "name": "OOA Gallery",
+    "city": "Sitges",
+    "country": "Spain",
+    "type": "gallery",
+    "website": "https://ooagallery.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-navy-pier-chicago",
+    "name": "Navy Pier",
+    "city": "Chicago",
+    "country": "United States",
+    "type": "fair",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-carreau-du-temple-paris",
+    "name": "Carreau du Temple",
+    "city": "Paris",
+    "country": "France",
+    "type": "fair",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-jack-shainman-nyc",
+    "name": "Jack Shainman Gallery",
+    "city": "New York",
+    "country": "United States",
+    "type": "gallery",
+    "website": "https://www.jackshainman.com",
+    "notes": ""
   }
 ]

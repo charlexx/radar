@@ -202,5 +202,65 @@
     "birth_year": null,
     "website": "",
     "notes": "Afro-Brazilian, paintings of Orishas"
+  },
+  {
+    "id": "art-cinga-samson",
+    "name": "Cinga Samson",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": ["Cape Town", "South Africa"],
+    "is_diaspora": false,
+    "mediums": ["painting"],
+    "birth_year": 1986,
+    "website": "",
+    "notes": "Represented by White Cube"
+  },
+  {
+    "id": "art-lubaina-himid",
+    "name": "Lubaina Himid",
+    "origin_country": "Tanzania",
+    "origin_region": "East Africa",
+    "based_in": ["Preston", "United Kingdom"],
+    "is_diaspora": true,
+    "mediums": ["painting", "installation"],
+    "birth_year": 1954,
+    "website": "",
+    "notes": "Turner Prize winner 2017. Born Zanzibar, raised UK. Representing Great Britain at Venice Biennale 2026"
+  },
+  {
+    "id": "art-odili-donald-odita",
+    "name": "Odili Donald Odita",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": ["Philadelphia", "United States"],
+    "is_diaspora": true,
+    "mediums": ["painting"],
+    "birth_year": 1966,
+    "website": "",
+    "notes": "Known for geometric abstractions exploring colour and identity"
+  },
+  {
+    "id": "art-bruce-clarke",
+    "name": "Bruce Clarke",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": ["Paris", "France"],
+    "is_diaspora": true,
+    "mediums": ["painting", "collage", "printmaking"],
+    "birth_year": 1959,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-ifeyinwa-joy-chiamonwu",
+    "name": "Ifeyinwa Joy Chiamonwu",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": ["Lagos", "Nigeria"],
+    "is_diaspora": false,
+    "mediums": ["drawing", "charcoal"],
+    "birth_year": null,
+    "website": "",
+    "notes": "Hyperrealist charcoal artist. Represented by Jack Shainman Gallery"
   }
 ]

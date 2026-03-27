@@ -349,6 +349,309 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming"
+    },
+    {
+      "id": "exh-white-cube-seoul-el-anatsui-2026",
+      "title": "El Anatsui: LuwVor",
+      "artist_ids": [
+        "art-el-anatsui"
+      ],
+      "venue_id": "ven-white-cube-seoul",
+      "city": "Seoul",
+      "country": "South Korea",
+      "region": "Asia",
+      "start_date": "2026-03-18",
+      "end_date": "2026-04-18",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "installation"
+      ],
+      "description": "El Anatsui's first exhibition with White Cube. New body of work in metal, ceramic and wood unveiled across the Seoul gallery, featuring sculptures viewable from both sides.",
+      "url": "https://www.whitecube.com/gallery-exhibitions/el-anatsui-seoul-2026",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-white-cube-hk-el-anatsui-2026",
+      "title": "El Anatsui: MivEvi",
+      "artist_ids": [
+        "art-el-anatsui"
+      ],
+      "venue_id": "ven-white-cube-hong-kong",
+      "city": "Hong Kong",
+      "country": "China",
+      "region": "Asia",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-09",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "installation"
+      ],
+      "description": "Concurrent with the Seoul exhibition, El Anatsui presents new work at White Cube Hong Kong alongside Art Basel Hong Kong 2026.",
+      "url": "https://www.whitecube.com/gallery-exhibitions/el-anatsui-hong-kong-2026",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-white-cube-nyc-cinga-samson-2026",
+      "title": "Cinga Samson: Ukuphuthelwa",
+      "artist_ids": [
+        "art-cinga-samson"
+      ],
+      "venue_id": "ven-white-cube-new-york",
+      "city": "New York",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2026-03-06",
+      "end_date": "2026-04-18",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "description": "South African artist Cinga Samson presents new oil paintings exploring spiritual alertness and existential depth in his signature dark palette. Title is isiXhosa for 'unable to sleep'.",
+      "url": "https://www.whitecube.com/gallery-exhibitions/cinga-samson-new-york-2026",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-venice-biennale-2026",
+      "title": "Venice Biennale 2026: In Minor Keys",
+      "artist_ids": [],
+      "venue_id": "ven-giardini-arsenale-venice",
+      "city": "Venice",
+      "country": "Italy",
+      "region": "Europe",
+      "start_date": "2026-05-09",
+      "end_date": "2026-11-22",
+      "type": "biennial",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "installation",
+        "video",
+        "performance",
+        "photography"
+      ],
+      "description": "The 61st International Art Exhibition curated by the late Koyo Kouoh (Cameroon/Switzerland), the first African woman to lead the Venice Biennale. Features 111 artists and 12 African national pavilions. Title drawn from jazz and the idea of quieter, more attentive registers.",
+      "url": "https://www.labiennale.org",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming"
+    },
+    {
+      "id": "exh-venice-gb-lubaina-himid-2026",
+      "title": "Lubaina Himid: British Pavilion, Venice Biennale 2026",
+      "artist_ids": [
+        "art-lubaina-himid"
+      ],
+      "venue_id": "ven-giardini-arsenale-venice",
+      "city": "Venice",
+      "country": "Italy",
+      "region": "Europe",
+      "start_date": "2026-05-09",
+      "end_date": "2026-11-22",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "installation"
+      ],
+      "description": "Tanzanian-British artist Lubaina Himid represents Great Britain at the 61st Venice Biennale. Turner Prize winner 2017.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming"
+    },
+    {
+      "id": "exh-moma-odili-donald-odita-2026",
+      "title": "Odili Donald Odita: Songs from Life",
+      "artist_ids": [
+        "art-odili-donald-odita"
+      ],
+      "venue_id": "ven-moma",
+      "city": "New York",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2025-11-01",
+      "end_date": "2027-05-01",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "painting"
+      ],
+      "description": "Nigerian-American abstract painter Odili Donald Odita presents geometric colour compositions exploring identity, migration, and the African diaspora at MoMA.",
+      "url": "https://www.moma.org",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-investec-cape-town-art-fair-2026",
+      "title": "Investec Cape Town Art Fair 2026",
+      "artist_ids": [],
+      "venue_id": "ven-cict-cape-town",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "region": "Southern Africa",
+      "start_date": "2026-02-20",
+      "end_date": "2026-02-22",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media",
+        "installation"
+      ],
+      "description": "Africa's largest art fair, bringing together galleries from across the continent and internationally. Features curated sections, talks, and collector programmes.",
+      "url": "https://investeccapetownartfair.co.za",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-1-54-marrakech-2026",
+      "title": "1-54 Contemporary African Art Fair Marrakech 2026",
+      "artist_ids": [],
+      "venue_id": "ven-la-mamounia-marrakech",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "region": "North Africa",
+      "start_date": "2026-02-19",
+      "end_date": "2026-02-23",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media"
+      ],
+      "description": "The annual Marrakech edition of 1-54, the most prominent international platform dedicated exclusively to contemporary African art. Features galleries from across the continent and diaspora.",
+      "url": "https://www.1-54.com/marrakech/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-ooa-gallery-bruce-clarke-2026",
+      "title": "Bruce Clarke: Still Standing - Upright Women",
+      "artist_ids": [
+        "art-bruce-clarke"
+      ],
+      "venue_id": "ven-ooa-gallery-sitges",
+      "city": "Sitges",
+      "country": "Spain",
+      "region": "Europe",
+      "start_date": "2026-03-14",
+      "end_date": "2026-04-19",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "collage",
+        "printmaking"
+      ],
+      "description": "South African artist Bruce Clarke presents painting, print, collage, and photo-collage works exploring memory, dignity, and resilience.",
+      "url": "https://ooagallery.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-jack-shainman-chiamonwu-2026",
+      "title": "Ifeyinwa Joy Chiamonwu: New Works",
+      "artist_ids": [
+        "art-ifeyinwa-joy-chiamonwu"
+      ],
+      "venue_id": "ven-jack-shainman-nyc",
+      "city": "New York",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2026-02-20",
+      "end_date": "2026-03-28",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "drawing",
+        "charcoal"
+      ],
+      "description": "Nigerian hyperrealist charcoal artist Ifeyinwa Joy Chiamonwu presents celebratory portraits of family and friends, asserting representation beyond Western standards.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-expo-chicago-2026",
+      "title": "EXPO Chicago 2026",
+      "artist_ids": [],
+      "venue_id": "ven-navy-pier-chicago",
+      "city": "Chicago",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2026-04-09",
+      "end_date": "2026-04-12",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media"
+      ],
+      "description": "Major international art fair with strong representation of African and diasporic artists through its curated sections and museum partnerships.",
+      "url": "https://www.expochicago.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming"
+    },
+    {
+      "id": "exh-akaa-paris-2026",
+      "title": "AKAA - Also Known As Africa, Paris 2026",
+      "artist_ids": [],
+      "venue_id": "ven-carreau-du-temple-paris",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-08",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media",
+        "installation"
+      ],
+      "description": "Paris' dedicated African contemporary art fair, bringing together galleries from across Africa and the diaspora with talks, performances, and special exhibitions.",
+      "url": "https://www.akaafair.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming"
     }
   ],
   "artists": [
@@ -638,6 +941,95 @@ const WSW_DATA = {
       "birth_year": null,
       "website": "",
       "notes": "Afro-Brazilian, paintings of Orishas"
+    },
+    {
+      "id": "art-cinga-samson",
+      "name": "Cinga Samson",
+      "origin_country": "South Africa",
+      "origin_region": "Southern Africa",
+      "based_in": [
+        "Cape Town",
+        "South Africa"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1986,
+      "website": "",
+      "notes": "Represented by White Cube"
+    },
+    {
+      "id": "art-lubaina-himid",
+      "name": "Lubaina Himid",
+      "origin_country": "Tanzania",
+      "origin_region": "East Africa",
+      "based_in": [
+        "Preston",
+        "United Kingdom"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting",
+        "installation"
+      ],
+      "birth_year": 1954,
+      "website": "",
+      "notes": "Turner Prize winner 2017. Born Zanzibar, raised UK. Representing Great Britain at Venice Biennale 2026"
+    },
+    {
+      "id": "art-odili-donald-odita",
+      "name": "Odili Donald Odita",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Philadelphia",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1966,
+      "website": "",
+      "notes": "Known for geometric abstractions exploring colour and identity"
+    },
+    {
+      "id": "art-bruce-clarke",
+      "name": "Bruce Clarke",
+      "origin_country": "South Africa",
+      "origin_region": "Southern Africa",
+      "based_in": [
+        "Paris",
+        "France"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting",
+        "collage",
+        "printmaking"
+      ],
+      "birth_year": 1959,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-ifeyinwa-joy-chiamonwu",
+      "name": "Ifeyinwa Joy Chiamonwu",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Lagos",
+        "Nigeria"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "drawing",
+        "charcoal"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "Hyperrealist charcoal artist. Represented by Jack Shainman Gallery"
     }
   ],
   "venues": [
@@ -757,7 +1149,106 @@ const WSW_DATA = {
       "type": "fair",
       "website": "",
       "notes": "Venue for RMB Latitudes art fair"
+    },
+    {
+      "id": "ven-white-cube-seoul",
+      "name": "White Cube Seoul",
+      "city": "Seoul",
+      "country": "South Korea",
+      "type": "gallery",
+      "website": "https://www.whitecube.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-white-cube-hong-kong",
+      "name": "White Cube Hong Kong",
+      "city": "Hong Kong",
+      "country": "China",
+      "type": "gallery",
+      "website": "https://www.whitecube.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-white-cube-new-york",
+      "name": "White Cube New York",
+      "city": "New York",
+      "country": "United States",
+      "type": "gallery",
+      "website": "https://www.whitecube.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-giardini-arsenale-venice",
+      "name": "Giardini & Arsenale",
+      "city": "Venice",
+      "country": "Italy",
+      "type": "biennial-venue",
+      "website": "https://www.labiennale.org",
+      "notes": "Main venues of the Venice Biennale"
+    },
+    {
+      "id": "ven-palais-de-tokyo-paris",
+      "name": "Palais de Tokyo",
+      "city": "Paris",
+      "country": "France",
+      "type": "institution",
+      "website": "https://www.palaisdetokyo.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-cict-cape-town",
+      "name": "Cape Town International Convention Centre",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "type": "fair",
+      "website": "",
+      "notes": "Venue for Investec Cape Town Art Fair"
+    },
+    {
+      "id": "ven-la-mamounia-marrakech",
+      "name": "La Mamounia",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "type": "fair",
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "ven-ooa-gallery-sitges",
+      "name": "OOA Gallery",
+      "city": "Sitges",
+      "country": "Spain",
+      "type": "gallery",
+      "website": "https://ooagallery.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-navy-pier-chicago",
+      "name": "Navy Pier",
+      "city": "Chicago",
+      "country": "United States",
+      "type": "fair",
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "ven-carreau-du-temple-paris",
+      "name": "Carreau du Temple",
+      "city": "Paris",
+      "country": "France",
+      "type": "fair",
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "ven-jack-shainman-nyc",
+      "name": "Jack Shainman Gallery",
+      "city": "New York",
+      "country": "United States",
+      "type": "gallery",
+      "website": "https://www.jackshainman.com",
+      "notes": ""
     }
   ],
-  "generated": "2026-03-27 00:45"
+  "generated": "2026-03-27 01:03"
 };
