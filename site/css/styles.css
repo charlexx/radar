@@ -944,6 +944,82 @@ footer {
   background: var(--accent-hover);
 }
 
+/* ========== Related Exhibitions ========== */
+.exh-related {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.exh-related h2 {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+}
+
+.exh-related-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+
+@media (min-width: 640px) {
+  .exh-related-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.exh-related-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  transition: border-color 0.15s;
+}
+
+.exh-related-card:hover {
+  border-color: var(--accent);
+}
+
+.exh-related-card-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.3;
+}
+
+.exh-related-card-venue {
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+.exh-related-card-city {
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+.exh-related-card-dates {
+  font-size: 11px;
+  color: var(--text-secondary);
+}
+
+.exh-related-card-reason {
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-top: 4px;
+}
+
 .exh-footer {
   border-top: 1px solid var(--border);
   padding: 2rem 1.5rem;

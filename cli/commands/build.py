@@ -70,13 +70,106 @@ def _build_exhibition_pages(exhibitions, artists, venues):
     venue_map = {v["id"]: v for v in venues}
 
     for exh in exhibitions:
-        page_html = _render_exhibition_page(exh, artist_map, venue_map)
+        page_html = _render_exhibition_page(exh, artist_map, venue_map, exhibitions)
         (exh_dir / f"{exh['id']}.html").write_text(page_html, encoding="utf-8")
 
     print(f"Built {len(exhibitions)} exhibition pages", file=sys.stderr)
 
 
-def _render_exhibition_page(exh, artist_map, venue_map):
+def _find_related(exh, all_exhibitions, venue_map, max_count=6):
+    """Find up to max_count related exhibitions in priority order."""
+    h = html.escape
+    current_id = exh["id"]
+    artist_ids = set(exh.get("artist_ids", []))
+    venue_id = exh.get("venue_id", "")
+    city = exh.get("city", "")
+    focus = exh.get("focus", "")
+
+    seen = {current_id}
+    related = []
+
+    # Priority 1: Same artist
+    if artist_ids:
+        for other in all_exhibitions:
+            if other["id"] in seen:
+                continue
+            if artist_ids & set(other.get("artist_ids", [])):
+                seen.add(other["id"])
+                related.append((other, "Same artist"))
+                if len(related) >= max_count:
+                    return related
+
+    # Priority 2: Same venue
+    if venue_id:
+        for other in all_exhibitions:
+            if other["id"] in seen:
+                continue
+            if other.get("venue_id") == venue_id:
+                seen.add(other["id"])
+                related.append((other, "Same venue"))
+                if len(related) >= max_count:
+                    return related
+
+    # Priority 3: Same city
+    if city:
+        for other in all_exhibitions:
+            if other["id"] in seen:
+                continue
+            if other.get("city") == city:
+                seen.add(other["id"])
+                related.append((other, f"Also in {h(city)}"))
+                if len(related) >= max_count:
+                    return related
+
+    # Priority 4: Same focus
+    if focus:
+        for other in all_exhibitions:
+            if other["id"] in seen:
+                continue
+            if other.get("focus") == focus:
+                seen.add(other["id"])
+                related.append((other, "Similar focus"))
+                if len(related) >= max_count:
+                    return related
+
+    return related
+
+
+def _render_related_html(exh, all_exhibitions, venue_map):
+    """Render the related exhibitions section HTML."""
+    h = html.escape
+    related = _find_related(exh, all_exhibitions, venue_map)
+    if not related:
+        return ""
+
+    cards = []
+    for other, reason in related:
+        oid = h(other["id"])
+        otitle = h(other["title"])
+        ovenue = venue_map.get(other.get("venue_id", ""), {})
+        ovenue_name = h(ovenue.get("name", other.get("venue_id", "")))
+        ocity = h(other.get("city", ""))
+        ocountry = h(other.get("country", ""))
+        odates = f"{format_date_long(other['start_date'])} \u2013 {format_date_long(other['end_date'])}"
+        cards.append(
+            f'<a href="../exhibition/{oid}.html" class="exh-related-card">'
+            f'<span class="exh-related-card-title">{otitle}</span>'
+            f'<span class="exh-related-card-venue">{ovenue_name}</span>'
+            f'<span class="exh-related-card-city">{ocity}, {ocountry}</span>'
+            f'<span class="exh-related-card-dates">{h(odates)}</span>'
+            f'<span class="exh-related-card-reason">{reason}</span>'
+            f"</a>"
+        )
+
+    return (
+        '<section class="exh-related">'
+        "<h2>Related exhibitions</h2>"
+        '<div class="exh-related-grid">' + "".join(cards) + "</div>"
+        "</section>"
+    )
+
+
+def _render_exhibition_page(exh, artist_map, venue_map, all_exhibitions=None):
     """Return a complete HTML string for an exhibition detail page."""
     h = html.escape
     exh_id = exh["id"]
@@ -234,6 +327,11 @@ def _render_exhibition_page(exh, artist_map, venue_map):
 
     jsonld_str = json.dumps(jsonld, indent=2, ensure_ascii=False)
 
+    # Related exhibitions
+    related_html = ""
+    if all_exhibitions:
+        related_html = _render_related_html(exh, all_exhibitions, venue_map)
+
     # OG description
     og_desc = desc_text if desc_text else f"{exh['title']} at {venue.get('name', '')}, {exh['city']}"
     if len(og_desc) > 200:
@@ -274,6 +372,7 @@ def _render_exhibition_page(exh, artist_map, venue_map):
     {mediums_html}
     {details_html}
     {cta_html}
+    {related_html}
   </article>
 
   <footer class="exh-footer">
