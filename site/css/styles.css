@@ -284,6 +284,57 @@ body {
   align-items: center;
 }
 
+.filter-row-secondary {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.25s ease, opacity 0.2s ease, margin 0.25s ease;
+  margin-top: 0;
+}
+
+.filter-row-secondary.expanded {
+  max-height: 200px;
+  opacity: 1;
+  margin-top: 0.5rem;
+}
+
+.filter-toggle {
+  flex: 0 0 auto;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.8125rem;
+  font-family: var(--font);
+  color: var(--text-secondary);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: border-color 0.2s, color 0.2s;
+  white-space: nowrap;
+}
+
+.filter-toggle:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.filter-toggle.has-active {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.filter-toggle .chevron {
+  font-size: 0.625rem;
+  transition: transform 0.25s;
+  display: inline-block;
+}
+
+.filter-toggle.expanded .chevron {
+  transform: rotate(180deg);
+}
+
 .filter-group {
   flex: 1 1 auto;
   min-width: 0;

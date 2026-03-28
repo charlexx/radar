@@ -28,7 +28,7 @@
 
   <nav class="filter-bar" id="filter-bar">
     <div class="filter-bar-inner">
-      <div class="filter-row">
+      <div class="filter-row filter-row-primary">
         <div class="filter-group">
           <label for="filter-search" class="sr-only">Search</label>
           <input type="search" id="filter-search" class="filter-search" placeholder="Search exhibitions, artists, venues..." autocomplete="off">
@@ -51,6 +51,12 @@
             <option value="">All Countries</option>
           </select>
         </div>
+        <button type="button" class="filter-toggle" id="filter-toggle">
+          <span class="filter-toggle-label">More filters</span>
+          <span class="chevron">&#9662;</span>
+        </button>
+      </div>
+      <div class="filter-row filter-row-secondary" id="filter-row-secondary">
         <div class="filter-group">
           <label for="filter-region" class="sr-only">Region</label>
           <select id="filter-region">

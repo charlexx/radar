@@ -61,6 +61,10 @@
   var timePills = document.querySelectorAll(".time-pill");
   var activeTimePill = null;
 
+  var filterToggle = document.getElementById("filter-toggle");
+  var filterRowSecondary = document.getElementById("filter-row-secondary");
+  var secondaryFilters = [selRegion, selType, selAdmission, selMedium, selFocus];
+
   var allFilters = [selStatus, selCity, selCountry, selRegion, selType, selAdmission, selMedium, selFocus];
 
   // ==================== Helpers ====================
@@ -519,12 +523,56 @@
     }
   }
 
+  // ==================== Filter Toggle ====================
+  function getSecondaryActiveCount() {
+    var count = 0;
+    secondaryFilters.forEach(function (el) {
+      if (el.value) count++;
+    });
+    return count;
+  }
+
+  function updateFilterToggle() {
+    var count = getSecondaryActiveCount();
+    var label = filterToggle.querySelector(".filter-toggle-label");
+    var isExpanded = filterRowSecondary.classList.contains("expanded");
+    if (isExpanded) {
+      label.textContent = "Less filters";
+    } else if (count > 0) {
+      label.textContent = "More filters (" + count + ")";
+    } else {
+      label.textContent = "More filters";
+    }
+    if (count > 0) {
+      filterToggle.classList.add("has-active");
+    } else {
+      filterToggle.classList.remove("has-active");
+    }
+    if (isExpanded) {
+      filterToggle.classList.add("expanded");
+    } else {
+      filterToggle.classList.remove("expanded");
+    }
+  }
+
+  function toggleSecondaryFilters() {
+    filterRowSecondary.classList.toggle("expanded");
+    updateFilterToggle();
+  }
+
   // ==================== Init ====================
   function init() {
     populateFilters();
     renderHeroStats();
     renderEditorials();
     readParams();
+
+    // Auto-expand secondary row if URL params set any secondary filter
+    if (getSecondaryActiveCount() > 0) {
+      filterRowSecondary.classList.add("expanded");
+    }
+    updateFilterToggle();
+
     render();
 
     allFilters.forEach(function (el) {
@@ -532,10 +580,13 @@
         if (el === selStatus && selStatus.value) {
           setActiveTimePill(null);
         }
+        updateFilterToggle();
         render();
       });
     });
     searchInput.addEventListener("input", render);
+
+    filterToggle.addEventListener("click", toggleSecondaryFilters);
 
     timePills.forEach(function (btn) {
       btn.addEventListener("click", function () {
