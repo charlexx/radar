@@ -451,10 +451,79 @@
     writeParams();
   }
 
+  // ==================== Editorial Highlights ====================
+  var lastChanceEl = document.getElementById("last-chance");
+  var justOpenedEl = document.getElementById("just-opened");
+
+  function renderEditorialCard(exh, type) {
+    var venueName = resolveVenue(exh.venue_id);
+    var dateLabel = type === "closing"
+      ? "Closes " + formatDate(exh.end_date)
+      : "Opened " + formatDate(exh.start_date);
+    var dateClass = type === "closing" ? "closing" : "opened";
+
+    return "<a class=\"editorial-card\" href=\"exhibition/" + encodeURIComponent(exh.id) + ".html\">" +
+      "<div class=\"editorial-card-title\">" + esc(exh.title) + "</div>" +
+      "<div class=\"editorial-card-venue\">" + esc(venueName) + "</div>" +
+      "<div class=\"editorial-card-city\">" + esc(exh.city) + "</div>" +
+      "<div class=\"editorial-card-date " + dateClass + "\">" + esc(dateLabel) + "</div>" +
+    "</a>";
+  }
+
+  function renderEditorials() {
+    var today = getDateOnly(new Date());
+    var in7 = new Date(today.getTime());
+    in7.setDate(in7.getDate() + 7);
+    var ago14 = new Date(today.getTime());
+    ago14.setDate(ago14.getDate() - 14);
+
+    var lastChance = [];
+    var justOpened = [];
+
+    data.exhibitions.forEach(function (exh) {
+      var start = parseDate(exh.start_date);
+      var end = parseDate(exh.end_date);
+      var isCurrent = start <= today && end >= today;
+      if (isCurrent && end <= in7) {
+        lastChance.push(exh);
+      }
+      if (isCurrent && start >= ago14) {
+        justOpened.push(exh);
+      }
+    });
+
+    lastChance.sort(function (a, b) { return a.end_date.localeCompare(b.end_date); });
+    justOpened.sort(function (a, b) { return b.start_date.localeCompare(a.start_date); });
+
+    lastChance = lastChance.slice(0, 4);
+    justOpened = justOpened.slice(0, 4);
+
+    if (lastChance.length > 0) {
+      lastChanceEl.innerHTML = "<div class=\"editorial-section\">" +
+        "<div class=\"editorial-label\">Last chance</div>" +
+        "<div class=\"editorial-row\">" +
+        lastChance.map(function (exh) { return renderEditorialCard(exh, "closing"); }).join("") +
+        "</div></div>";
+    } else {
+      lastChanceEl.innerHTML = "";
+    }
+
+    if (justOpened.length > 0) {
+      justOpenedEl.innerHTML = "<div class=\"editorial-section\">" +
+        "<div class=\"editorial-label\">Just opened</div>" +
+        "<div class=\"editorial-row\">" +
+        justOpened.map(function (exh) { return renderEditorialCard(exh, "opened"); }).join("") +
+        "</div></div>";
+    } else {
+      justOpenedEl.innerHTML = "";
+    }
+  }
+
   // ==================== Init ====================
   function init() {
     populateFilters();
     renderHeroStats();
+    renderEditorials();
     readParams();
     render();
 
