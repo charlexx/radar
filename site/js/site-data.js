@@ -33,7 +33,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-moma-ideas-of-africa-2025",
@@ -64,7 +67,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-brooklyn-museum-seydou-keita-2025",
@@ -90,7 +96,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-moad-unbound-2025",
@@ -119,7 +128,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-whitechapel-veronica-ryan-2026",
@@ -146,7 +158,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-barbican-black-planet-2026",
@@ -176,7 +191,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-paris-africa-fashion-2026",
@@ -201,7 +219,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-somerset-house-1-54-london-2026",
@@ -229,7 +250,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-starrett-lehigh-1-54-nyc-2026",
@@ -255,7 +279,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-dakar-biennale-2026",
@@ -282,7 +309,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-art-x-lagos-2026",
@@ -309,7 +339,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-zeitz-mocaa-gala-2026",
@@ -335,7 +368,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-rmb-latitudes-joburg-2026",
@@ -361,7 +397,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-white-cube-seoul-el-anatsui-2026",
@@ -387,7 +426,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-white-cube-hk-el-anatsui-2026",
@@ -413,7 +455,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-white-cube-nyc-cinga-samson-2026",
@@ -438,7 +483,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-venice-biennale-2026",
@@ -466,7 +514,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-venice-gb-lubaina-himid-2026",
@@ -492,7 +543,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-moma-odili-donald-odita-2026",
@@ -517,7 +571,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-investec-cape-town-art-fair-2026",
@@ -544,7 +601,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-1-54-marrakech-2026",
@@ -570,7 +630,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-ooa-gallery-bruce-clarke-2026",
@@ -597,7 +660,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-jack-shainman-chiamonwu-2026",
@@ -623,7 +689,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-expo-chicago-2026",
@@ -649,7 +718,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-akaa-paris-2026",
@@ -676,7 +748,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-met-iba-ndiaye-2025",
@@ -701,7 +776,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-met-arts-of-africa-2025",
@@ -727,7 +805,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-zwirner-la-zvavahera-2025",
@@ -753,7 +834,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-ica-boston-zvavahera-2025",
@@ -778,7 +862,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-fridericianum-zvavahera-2025",
@@ -803,7 +890,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-folkwang-kentridge-2025",
@@ -832,7 +922,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-ysp-kentridge-2025",
@@ -860,7 +953,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-fondation-h-shonibare-2025",
@@ -890,7 +986,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-hamburger-bahnhof-odutola-2025",
@@ -916,7 +1015,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-addis-fine-art-bekele-2026",
@@ -941,7 +1043,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-goodman-nyc-nhlengethwa-2026",
@@ -967,7 +1072,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-goodman-ct-ghada-amer-2025",
@@ -994,7 +1102,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-stevenson-ct-langa-2026",
@@ -1020,7 +1131,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-234-art-fair-lagos-2026",
@@ -1046,7 +1160,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-efie-dubai-shape-2025",
@@ -1076,7 +1193,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-biennale-of-sydney-2026",
@@ -1105,7 +1225,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-afikaris-obodo-2025",
@@ -1131,7 +1254,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-afikaris-rahaoui-2026",
@@ -1156,7 +1282,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-art-basel-qatar-2026",
@@ -1182,7 +1311,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-goodman-joburg-gottgens-2026",
@@ -1207,7 +1339,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-smithsonian-pride-belonging-2025",
@@ -1235,7 +1370,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-norval-luthuli-2025",
@@ -1261,7 +1399,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-zeitz-mocaa-opoku-2025",
@@ -1288,7 +1429,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current"
+      "status": "current",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-richmond-diaspora-2026",
@@ -1314,7 +1458,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-lagos-biennial-2026",
@@ -1339,7 +1486,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-fnb-art-joburg-2025",
@@ -1365,7 +1515,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "past"
+      "status": "past",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-frieze-new-york-2026",
@@ -1392,7 +1545,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-tate-britain-hurvin-anderson-2026",
@@ -1417,7 +1573,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-vanda-east-music-is-black-2026",
@@ -1445,7 +1604,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-tiwani-chihota-2025",
@@ -1472,7 +1634,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-tiwani-conscious-relation-2025",
@@ -1499,7 +1664,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-tiwani-rashid-2025",
@@ -1524,7 +1692,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-october-inheriting-future-2025",
@@ -1552,7 +1723,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-tafeta-delano-2026",
@@ -1577,7 +1751,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-turner-prize-2025",
@@ -1606,7 +1783,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "significant"
+      "focus": "significant",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-whitechapel-nengudi-2026",
@@ -1633,7 +1813,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-gasworks-nengudi-2026",
@@ -1660,7 +1843,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-camden-locke-2026",
@@ -1688,7 +1874,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-ra-kerry-james-marshall-2025",
@@ -1714,7 +1903,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-hayward-mickalene-thomas-2025",
@@ -1742,7 +1934,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-barbican-curve-noah-davis-2025",
@@ -1767,7 +1962,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-gallery1957-fadugba-2025",
@@ -1793,7 +1991,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-ames-yavuz-paintsil-2026",
@@ -1819,7 +2020,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-fourth-plinth-self-2026",
@@ -1844,7 +2048,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-pilar-corrias-mathieu-2025",
@@ -1869,7 +2076,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-gagosian-gordon-parks-2026",
@@ -1894,7 +2104,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-autograph-lost-vocabularies-2025",
@@ -1919,7 +2132,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "significant"
+      "focus": "significant",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-rosenfeld-figuration-2026",
@@ -1944,7 +2160,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-tiwani-shumba-2025",
@@ -1970,7 +2189,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-goodman-london-branch-2025",
@@ -1993,7 +2215,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-1-54-london-2025",
@@ -2020,7 +2245,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-london-art-fair-2026",
@@ -2046,7 +2274,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "featured"
+      "focus": "featured",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-rele-young-contemp-10-2025",
@@ -2070,7 +2301,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-thought-pyramid-nok7-2025",
@@ -2096,7 +2330,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-cca-lagos-reopening-2025",
@@ -2120,7 +2357,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-ko-obodo-2025",
@@ -2146,7 +2386,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-rele-emore-2025",
@@ -2172,7 +2415,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-lgw-2025",
@@ -2201,7 +2447,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-rele-moneyang-2025",
@@ -2226,7 +2475,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-temple-muse-adewuyi-2025",
@@ -2252,7 +2504,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-thought-pyramid-auchi-2025",
@@ -2276,7 +2531,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-thought-pyramid-limcaf-2025",
@@ -2301,7 +2559,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-cca-lagos-wind-chimes-2025",
@@ -2326,7 +2587,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-ko-ejaita-2025",
@@ -2353,7 +2617,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-national-theatre-reopening-2025",
@@ -2379,7 +2646,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-adegbola-heroes-past-2025",
@@ -2404,7 +2674,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-rele-ahiakwo-2025",
@@ -2429,7 +2702,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-affinity-wolf-2025",
@@ -2455,7 +2731,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-art-x-lagos-2025",
@@ -2484,7 +2763,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-tiwani-lagos-marcus-bello-2025",
@@ -2512,7 +2794,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-thought-pyramid-japa-2025",
@@ -2538,7 +2823,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-nahous-slawn-2025",
@@ -2564,7 +2852,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-rele-young-contemp-11-2026",
@@ -2588,7 +2879,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-cca-lagos-chord-notes-2026",
@@ -2614,7 +2908,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-lgw-2026",
@@ -2641,7 +2938,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-oda-chukwuma-2026",
@@ -2667,7 +2967,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-affinity-nobakada-2026",
@@ -2691,7 +2994,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-nomadic-ayihawu-2026",
@@ -2716,7 +3022,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-alliance-francaise-she-energy-2026",
@@ -2740,7 +3049,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-tiwani-lagos-prempeh-2025",
@@ -2764,7 +3076,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-spruth-magers-kara-walker-2025",
@@ -2790,7 +3105,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-savvy-counter-spells-2025",
@@ -2816,7 +3134,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-savvy-desacta-2024",
@@ -2840,7 +3161,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-savvy-listening-sessions-2025",
@@ -2864,7 +3188,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-gropius-bau-vaginal-davis-2025",
@@ -2892,7 +3219,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-gropius-bau-ligia-lewis-2025",
@@ -2919,7 +3249,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-kw-bpa-2025",
@@ -2946,7 +3279,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "significant"
+      "focus": "significant",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-hamburger-bahnhof-afif-2025",
@@ -2973,7 +3309,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-esther-schipper-radin-2026",
@@ -2998,7 +3337,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-positions-berlin-2026",
@@ -3025,7 +3367,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "focus": "featured"
+      "focus": "featured",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-gallery-weekend-berlin-2026",
@@ -3054,7 +3399,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "focus": "featured"
+      "focus": "featured",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-berlin-art-week-2025",
@@ -3081,7 +3429,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "featured"
+      "focus": "featured",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-hamburger-bahnhof-museum-in-motion-2024",
@@ -3108,7 +3459,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "featured"
+      "focus": "featured",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-pompidou-paris-noir-2025",
@@ -3137,7 +3491,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-palais-de-tokyo-edwards-2025",
@@ -3162,7 +3519,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-palais-de-tokyo-echo-delay-2025",
@@ -3188,7 +3548,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "significant"
+      "focus": "significant",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-grand-palais-mickalene-thomas-2025",
@@ -3217,7 +3580,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-akaa-2025",
@@ -3244,7 +3610,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-mam-nkanga-2025",
@@ -3272,7 +3641,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-lafayette-bennani-2025",
@@ -3298,7 +3670,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-mep-dennis-morris-2025",
@@ -3323,7 +3698,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-white-cube-paris-gates-2026",
@@ -3349,7 +3727,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-hauser-wirth-bowling-2025",
@@ -3374,7 +3755,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "diaspora"
+      "focus": "diaspora",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-musee-homme-wax-2025",
@@ -3399,7 +3783,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-paris-art-basel-2025",
@@ -3426,7 +3813,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "featured"
+      "focus": "featured",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-fakhoury-reindorf-2025",
@@ -3453,7 +3843,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-mariane-ibrahim-paris-cosmos-2025",
@@ -3480,7 +3873,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-philharmonie-disco-2025",
@@ -3505,7 +3901,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "significant"
+      "focus": "significant",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-gallery1957-ali-2025",
@@ -3529,7 +3928,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-gallery1957-quarshie-2025",
@@ -3555,7 +3957,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-chale-wote-2025",
@@ -3581,7 +3986,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-gallery1957-quaicoe-2025",
@@ -3606,7 +4014,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-gallery1957-gawu-mensah-2025",
@@ -3632,7 +4043,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-gallery1957-clottey-2025",
@@ -3658,7 +4072,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-limbo-museum-sylvester-2025",
@@ -3683,7 +4100,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "significant"
+      "focus": "significant",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-circle-art-new-discoveries-2025",
@@ -3707,7 +4127,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-one-off-muriithi-2025",
@@ -3732,7 +4155,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-nairobi-sudanese-2025",
@@ -3756,7 +4182,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-circle-art-musoke-2025",
@@ -3781,7 +4210,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-circle-art-karmali-2025",
@@ -3807,7 +4239,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-circle-art-soi-2026-expanded",
@@ -3832,7 +4267,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-dakart-off-2025",
@@ -3863,7 +4301,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-raw-material-opoku-2025",
@@ -3890,7 +4331,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-fakhoury-dakar-reindorf-2025",
@@ -3917,7 +4361,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-partcours-dakar-2025",
@@ -3944,7 +4391,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-whitney-sherald-2025",
@@ -3969,7 +4419,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-guggenheim-rashid-johnson-2025",
@@ -3998,7 +4451,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-moma-jafa-2025",
@@ -4024,7 +4480,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-ps1-goliath-2025",
@@ -4050,7 +4509,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-ps1-greater-new-york-2026",
@@ -4077,7 +4539,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "significant"
+      "focus": "significant",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-whitney-biennial-2026",
@@ -4107,7 +4572,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "significant"
+      "focus": "significant",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-studio-museum-tom-lloyd-2025",
@@ -4134,7 +4602,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-studio-museum-from-now-2025",
@@ -4160,7 +4631,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-studio-museum-to-be-a-place-2025",
@@ -4184,7 +4658,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-studio-museum-air-works-2025",
@@ -4207,7 +4684,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-studio-museum-expanding-walls-2025",
@@ -4230,7 +4710,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-studio-museum-kiwanga-2026",
@@ -4256,7 +4739,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-studio-museum-fade-2026",
@@ -4282,7 +4768,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "upcoming",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-studio-museum-norment-2025",
@@ -4308,7 +4797,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-pace-gilliam-2026",
@@ -4334,7 +4826,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-lehmann-maupin-binion-2026",
@@ -4360,7 +4855,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-bronx-museum-aim-2026",
@@ -4386,7 +4884,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "significant"
+      "focus": "significant",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-new-museum-inaugural-2025",
@@ -4413,7 +4914,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "significant"
+      "focus": "significant",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-moma-new-photography-2025",
@@ -4439,7 +4943,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "significant"
+      "focus": "significant",
+      "verified": false,
+      "verified_date": "2026-04-11",
+      "confidence": "low"
     },
     {
       "id": "exh-aca-continuum-2026",
@@ -4466,7 +4973,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": "pending",
+      "verified_date": "2026-04-11",
+      "confidence": "medium"
     },
     {
       "id": "exh-kw-katambayi-mukendi-2026",
@@ -4493,7 +5003,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-co-berlin-world-in-common-2026",
@@ -4517,33 +5030,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
-    },
-    {
-      "id": "exh-rele-ahiakwo-2026",
-      "title": "Ugo Ahiakwo: After the Dance",
-      "artist_ids": [
-        "art-ugo-ahiakwo"
-      ],
-      "venue_id": "ven-rele-gallery-lagos",
-      "city": "Lagos",
-      "country": "Nigeria",
-      "region": "West Africa",
-      "start_date": "2026-03-01",
-      "end_date": "2026-05-31",
-      "type": "solo",
-      "admission": "free",
-      "mediums": [
-        "sculpture",
-        "installation"
-      ],
-      "description": "Solo exhibition exploring themes of intimacy, fracture, and redemption. Title references Marvin Gaye's song and Jan Gaye's memoir. Discarded vehicle parts and industrial fragments transformed into sculptural forms oscillating between resilience and fragility.",
-      "url": "https://www.rele.co",
-      "image_url": "",
-      "source": "manual",
-      "added_date": "2026-04-11",
-      "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     },
     {
       "id": "exh-rele-lagos-salon-2026",
@@ -4569,7 +5059,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "dedicated",
+      "verified": true,
+      "verified_date": "2026-04-11",
+      "confidence": "high"
     }
   ],
   "artists": [
@@ -7344,5 +7837,5 @@ const WSW_DATA = {
       "notes": "Amerika-Haus, Hardenbergstrasse 22-24. Photography and visual media."
     }
   ],
-  "generated": "2026-04-11 12:21"
+  "generated": "2026-04-11 12:33"
 };
