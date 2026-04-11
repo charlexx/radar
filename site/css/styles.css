@@ -282,6 +282,7 @@ body {
   background: var(--filter-bar-bg);
   -webkit-backdrop-filter: blur(12px);
   backdrop-filter: blur(12px);
+  border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
   padding: 0.875rem 1.5rem;
 }
@@ -296,6 +297,7 @@ body {
   flex-wrap: wrap;
   gap: 0.5rem;
   align-items: center;
+  justify-content: center;
 }
 
 .filter-row-secondary {
@@ -411,6 +413,7 @@ body {
   gap: 10px;
   flex-wrap: wrap;
   margin-top: 0.75rem;
+  justify-content: center;
   margin-bottom: 0.25rem;
 }
 
@@ -443,6 +446,7 @@ body {
   font-size: 0.75rem;
   color: var(--text-secondary);
   margin-top: 0.5rem;
+  text-align: center;
 }
 
 /* ========== Main ========== */
@@ -1317,7 +1321,7 @@ footer {
   }
 
   .filter-bar {
-    padding: 0.875rem 2rem;
+    padding: 1rem 2rem;
   }
 
   .filter-group {
