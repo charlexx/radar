@@ -5970,7 +5970,7 @@ const WSW_DATA = {
       "id": "art-amy-sherald",
       "name": "Amy Sherald",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "is_diaspora": true,
       "mediums": [
         "painting"
@@ -5987,7 +5987,7 @@ const WSW_DATA = {
       "id": "art-rashid-johnson",
       "name": "Rashid Johnson",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "is_diaspora": true,
       "mediums": [
         "painting",
@@ -6008,7 +6008,7 @@ const WSW_DATA = {
       "id": "art-arthur-jafa",
       "name": "Arthur Jafa",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "is_diaspora": true,
       "mediums": [
         "video",
@@ -6066,7 +6066,7 @@ const WSW_DATA = {
       "id": "art-tom-lloyd",
       "name": "Tom Lloyd",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "is_diaspora": true,
       "mediums": [
         "light sculpture",
@@ -6082,7 +6082,7 @@ const WSW_DATA = {
       "id": "art-camille-norment",
       "name": "Camille Norment",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "is_diaspora": true,
       "mediums": [
         "sound sculpture",
@@ -6100,7 +6100,7 @@ const WSW_DATA = {
       "id": "art-sam-gilliam",
       "name": "Sam Gilliam",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "is_diaspora": true,
       "mediums": [
         "painting",
@@ -6116,7 +6116,7 @@ const WSW_DATA = {
       "id": "art-mcarthur-binion",
       "name": "McArthur Binion",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "is_diaspora": true,
       "mediums": [
         "painting",
@@ -7213,5 +7213,5 @@ const WSW_DATA = {
       "notes": "529 West 20th Street. Founded 1932."
     }
   ],
-  "generated": "2026-04-11 11:43"
+  "generated": "2026-04-11 11:48"
 };

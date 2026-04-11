@@ -51,7 +51,7 @@ region values: West Africa | East Africa | Southern Africa | North Africa | Cent
 ### Artist (data/artists.json)
 Required fields: id, name, origin_country, origin_region, mediums (array)
 Optional fields: based_in (array [city, country]), is_diaspora (boolean, default false), birth_year, website, notes
-origin_region values: West Africa | East Africa | Southern Africa | North Africa | Central Africa
+origin_region values: West Africa | East Africa | Southern Africa | North Africa | Central Africa | African American | Afro-Caribbean | Afro-Brazilian | Afro-European | Afro-Latinx
 
 ### Venue (data/venues.json)
 Required fields: id, name, city, country, type

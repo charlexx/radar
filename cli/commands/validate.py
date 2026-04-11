@@ -17,7 +17,7 @@ REGIONS = {
     "West Africa", "East Africa", "Southern Africa", "North Africa", "Central Africa",
     "Europe", "North America", "South America", "Caribbean", "Middle East", "Asia", "Oceania",
 }
-ORIGIN_REGIONS = {"West Africa", "East Africa", "Southern Africa", "North Africa", "Central Africa"}
+ORIGIN_REGIONS = {"West Africa", "East Africa", "Southern Africa", "North Africa", "Central Africa", "African American", "Afro-Caribbean", "Afro-Brazilian", "Afro-European", "Afro-Latinx"}
 VENUE_TYPES = {"gallery", "museum", "institution", "project-space", "fair",
                "biennial-venue", "artist-run", "university", "online"}
 
