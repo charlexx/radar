@@ -4657,7 +4657,7 @@ const WSW_DATA = {
       "id": "art-veronica-ryan",
       "name": "Veronica Ryan",
       "origin_country": "Montserrat",
-      "origin_region": "West Africa",
+      "origin_region": "Afro-Caribbean",
       "based_in": [
         "London",
         "United Kingdom"
@@ -4744,7 +4744,7 @@ const WSW_DATA = {
       "id": "art-gustavo-nazareno",
       "name": "Gustavo Nazareno",
       "origin_country": "Brazil",
-      "origin_region": "West Africa",
+      "origin_region": "Afro-Brazilian",
       "based_in": [
         "Sao Paulo",
         "Brazil"
@@ -5136,7 +5136,7 @@ const WSW_DATA = {
       "id": "art-hurvin-anderson",
       "name": "Hurvin Anderson",
       "origin_country": "United Kingdom",
-      "origin_region": "West Africa",
+      "origin_region": "Afro-Caribbean",
       "based_in": [
         "London",
         "United Kingdom"
@@ -5153,7 +5153,7 @@ const WSW_DATA = {
       "id": "art-sonia-boyce",
       "name": "Sonia Boyce",
       "origin_country": "United Kingdom",
-      "origin_region": "West Africa",
+      "origin_region": "Afro-European",
       "based_in": [
         "London",
         "United Kingdom"
@@ -5260,7 +5260,7 @@ const WSW_DATA = {
       "id": "art-tschabalala-self",
       "name": "Tschabalala Self",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "based_in": [
         "New York",
         "United States"
@@ -5279,7 +5279,7 @@ const WSW_DATA = {
       "id": "art-manuel-mathieu",
       "name": "Manuel Mathieu",
       "origin_country": "Haiti",
-      "origin_region": "West Africa",
+      "origin_region": "Afro-Caribbean",
       "based_in": [
         "Montreal",
         "Canada"
@@ -5296,7 +5296,7 @@ const WSW_DATA = {
       "id": "art-gordon-parks",
       "name": "Gordon Parks",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "based_in": [],
       "is_diaspora": true,
       "mediums": [
@@ -5310,7 +5310,7 @@ const WSW_DATA = {
       "id": "art-donald-locke",
       "name": "Donald Locke",
       "origin_country": "Guyana",
-      "origin_region": "West Africa",
+      "origin_region": "Afro-Caribbean",
       "based_in": [],
       "is_diaspora": true,
       "mediums": [
@@ -5359,7 +5359,7 @@ const WSW_DATA = {
       "id": "art-kerry-james-marshall",
       "name": "Kerry James Marshall",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "based_in": [
         "Chicago",
         "United States"
@@ -5377,7 +5377,7 @@ const WSW_DATA = {
       "id": "art-noah-davis",
       "name": "Noah Davis",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "based_in": [],
       "is_diaspora": true,
       "mediums": [
@@ -5391,7 +5391,7 @@ const WSW_DATA = {
       "id": "art-senga-nengudi",
       "name": "Senga Nengudi",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "based_in": [
         "Colorado Springs",
         "United States"
@@ -5410,7 +5410,7 @@ const WSW_DATA = {
       "id": "art-mickalene-thomas",
       "name": "Mickalene Thomas",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "based_in": [
         "New York",
         "United States"
@@ -5604,7 +5604,7 @@ const WSW_DATA = {
       "id": "art-kara-walker",
       "name": "Kara Walker",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "based_in": [
         "New York",
         "United States"
@@ -5643,7 +5643,7 @@ const WSW_DATA = {
       "id": "art-thomias-radin",
       "name": "Thomias Radin",
       "origin_country": "Haiti",
-      "origin_region": "West Africa",
+      "origin_region": "Afro-Caribbean",
       "based_in": [
         "United States"
       ],
@@ -5659,7 +5659,7 @@ const WSW_DATA = {
       "id": "art-vaginal-davis",
       "name": "Vaginal Davis",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "based_in": [
         "Berlin",
         "Germany"
@@ -5679,7 +5679,7 @@ const WSW_DATA = {
       "id": "art-ligia-lewis",
       "name": "Ligia Lewis",
       "origin_country": "Dominican Republic",
-      "origin_region": "West Africa",
+      "origin_region": "Afro-Caribbean",
       "based_in": [
         "Berlin",
         "Germany"
@@ -5698,7 +5698,7 @@ const WSW_DATA = {
       "id": "art-melvin-edwards",
       "name": "Melvin Edwards",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "based_in": [
         "New York",
         "United States"
@@ -5773,7 +5773,7 @@ const WSW_DATA = {
       "id": "art-theaster-gates",
       "name": "Theaster Gates",
       "origin_country": "United States",
-      "origin_region": "West Africa",
+      "origin_region": "African American",
       "based_in": [
         "Chicago",
         "United States"
@@ -5793,7 +5793,7 @@ const WSW_DATA = {
       "id": "art-frank-bowling",
       "name": "Frank Bowling",
       "origin_country": "Guyana",
-      "origin_region": "West Africa",
+      "origin_region": "Afro-Caribbean",
       "based_in": [
         "London",
         "United Kingdom"
@@ -5810,7 +5810,7 @@ const WSW_DATA = {
       "id": "art-dennis-morris",
       "name": "Dennis Morris",
       "origin_country": "United Kingdom",
-      "origin_region": "West Africa",
+      "origin_region": "Afro-Caribbean",
       "based_in": [
         "London",
         "United Kingdom"
@@ -7213,5 +7213,5 @@ const WSW_DATA = {
       "notes": "529 West 20th Street. Founded 1932."
     }
   ],
-  "generated": "2026-04-11 11:48"
+  "generated": "2026-04-11 11:52"
 };
