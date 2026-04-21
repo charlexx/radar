@@ -9,7 +9,7 @@ from utils.ids import make_artist_id, id_exists
 DATA_DIR = Path(__file__).resolve().parent.parent.parent / "data"
 DATA_FILE = DATA_DIR / "artists.json"
 
-ORIGIN_REGIONS = ["West Africa", "East Africa", "Southern Africa", "North Africa", "Central Africa"]
+ORIGIN_REGIONS = ["West Africa", "East Africa", "Southern Africa", "North Africa", "Central Africa", "African American", "Afro-Caribbean", "Afro-Brazilian", "Afro-European", "Afro-Latinx"]
 
 
 def _load(filename="artists.json"):

@@ -63,6 +63,7 @@
 html {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
+  overflow-x: hidden;
 }
 
 body {
@@ -74,6 +75,7 @@ body {
   display: flex;
   flex-direction: column;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 .sr-only {
@@ -90,7 +92,7 @@ body {
 /* ========== Hero ========== */
 .hero {
   position: relative;
-  padding: 3.5rem 1.5rem 2.5rem;
+  padding: 3rem 1rem 2rem;
   text-align: center;
   border-bottom: 1px solid var(--border);
 }
@@ -235,7 +237,7 @@ body {
   }
 
   .editorial-wrap {
-    padding: 1rem 1.5rem 0;
+    padding: 1rem 1rem 0;
   }
 }
 
@@ -250,8 +252,8 @@ body {
   position: absolute;
   top: 1.25rem;
   right: 1.25rem;
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   background: var(--surface);
   border: 1px solid var(--text-secondary);
@@ -284,7 +286,7 @@ body {
   backdrop-filter: blur(12px);
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
-  padding: 0.875rem 1.5rem;
+  padding: 0.875rem 1rem;
 }
 
 .filter-bar-inner {
@@ -319,7 +321,7 @@ body {
   background: transparent;
   border: 1px solid var(--border);
   border-radius: 6px;
-  padding: 0.5rem 0.75rem;
+  padding: 0.625rem 0.875rem;
   font-size: 0.8125rem;
   font-family: var(--font);
   color: var(--text-secondary);
@@ -358,7 +360,7 @@ body {
 
 .filter-search {
   width: 100%;
-  min-width: 200px;
+  min-width: 0;
   background: var(--filter-bg);
   color: var(--text);
   border: 1px solid var(--filter-border);
@@ -418,9 +420,9 @@ body {
 }
 
 .time-pill {
-  padding: 6px 14px;
+  padding: 8px 14px;
   border-radius: 20px;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 500;
   cursor: pointer;
   border: 1px solid var(--border);
@@ -454,7 +456,7 @@ main {
   flex: 1;
   max-width: 1280px;
   margin: 0 auto;
-  padding: 1.75rem 1.5rem 3rem;
+  padding: 1.5rem 1rem 3rem;
   width: 100%;
 }
 
@@ -931,8 +933,8 @@ footer {
 
 .exh-details-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.25rem 1.5rem;
+  grid-template-columns: 1fr;
+  gap: 0.25rem 1rem;
 }
 
 .exh-details-grid dt {
