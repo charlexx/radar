@@ -1087,5 +1087,104 @@
     "type": "institution",
     "website": "https://co-berlin.org",
     "notes": "Amerika-Haus, Hardenbergstrasse 22-24. Photography and visual media."
+  },
+  {
+    "id": "ven-pippy-houldsworth",
+    "name": "Pippy Houldsworth Gallery",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "https://www.houldsworth.co.uk",
+    "notes": ""
+  },
+  {
+    "id": "ven-almas-art-foundation",
+    "name": "Almas Art Foundation",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "institution",
+    "website": "https://www.almasartfoundation.org",
+    "notes": "Focus on Sudanese art"
+  },
+  {
+    "id": "ven-musee-dorsay",
+    "name": "Musee d'Orsay",
+    "city": "Paris",
+    "country": "France",
+    "type": "museum",
+    "website": "https://www.musee-orsay.fr",
+    "notes": ""
+  },
+  {
+    "id": "ven-galerie-templon-paris",
+    "name": "Galerie Templon",
+    "city": "Paris",
+    "country": "France",
+    "type": "gallery",
+    "website": "https://www.templon.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-flag-art-foundation",
+    "name": "FLAG Art Foundation",
+    "city": "New York",
+    "country": "United States",
+    "type": "institution",
+    "website": "https://www.flagartfoundation.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-lisson-gallery-nyc",
+    "name": "Lisson Gallery",
+    "city": "New York",
+    "country": "United States",
+    "type": "gallery",
+    "website": "https://www.lissongallery.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-nmaahc",
+    "name": "National Museum of African American History and Culture",
+    "city": "Washington DC",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://nmaahc.si.edu",
+    "notes": "Smithsonian"
+  },
+  {
+    "id": "ven-getty-center",
+    "name": "Getty Center",
+    "city": "Los Angeles",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.getty.edu",
+    "notes": ""
+  },
+  {
+    "id": "ven-nubuke-foundation",
+    "name": "Nubuke Foundation",
+    "city": "Accra",
+    "country": "Ghana",
+    "type": "institution",
+    "website": "https://nubukefoundation.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-ncai-nairobi",
+    "name": "Nairobi Contemporary Art Institute",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "type": "institution",
+    "website": "",
+    "notes": "NCAI, Rosslyn Riviera Mall"
+  },
+  {
+    "id": "ven-quai-branly",
+    "name": "Musee du quai Branly - Jacques Chirac",
+    "city": "Paris",
+    "country": "France",
+    "type": "museum",
+    "website": "https://www.quaibranly.fr",
+    "notes": ""
   }
 ]

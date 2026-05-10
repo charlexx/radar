@@ -379,8 +379,8 @@
     "city": "Johannesburg",
     "country": "South Africa",
     "region": "Southern Africa",
-    "start_date": "2026-09-18",
-    "end_date": "2026-09-20",
+    "start_date": "2026-05-22",
+    "end_date": "2026-05-24",
     "type": "fair",
     "admission": "paid",
     "mediums": [
@@ -391,7 +391,7 @@
     ],
     "focus": "significant",
     "description": "Art fair blending indoor and outdoor exhibitions in Shepstone Gardens. Strong focus on emerging artists, a discovery hub for collectors seeking new contemporary voices.",
-    "url": "https://rfrlatitudes.co.za",
+    "url": "https://www.latitudesartfair.com/",
     "image_url": "",
     "source": "manual",
     "added_date": "2026-03-27",
@@ -1413,7 +1413,7 @@
     "country": "South Africa",
     "region": "Southern Africa",
     "start_date": "2025-06-01",
-    "end_date": "2026-06-01",
+    "end_date": "2026-10-04",
     "type": "solo",
     "admission": "paid",
     "mediums": [
@@ -5076,5 +5076,575 @@
     "verified": true,
     "verified_date": "2026-04-11",
     "confidence": "high"
+  },
+  {
+    "id": "exh-tate-britain-zineb-sedira-2026",
+    "title": "Tate Britain Commission 2026: Zineb Sedira",
+    "artist_ids": [
+      "art-zineb-sedira"
+    ],
+    "venue_id": "ven-tate-britain",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2026-05-13",
+    "end_date": "2027-01-17",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "photography",
+      "film",
+      "installation"
+    ],
+    "focus": "diaspora",
+    "description": "Largest UK commission to date for the Franco-Algerian artist who represented France at the 59th Venice Biennale. Site-specific work for the Duveen Galleries exploring the human dimension of geopolitical change.",
+    "url": "https://www.tate.org.uk/whats-on/tate-britain/zineb-sedira",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-pippy-houldsworth-omuku-2026",
+    "title": "Nengi Omuku: We Were Like Those Who Dreamed",
+    "artist_ids": [
+      "art-nengi-omuku"
+    ],
+    "venue_id": "ven-pippy-houldsworth",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2026-05-01",
+    "end_date": "2026-05-30",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
+    "description": "New paintings on sanyan (Yoruba Aso-oke fabric) exploring the politics of green spaces in urban centres, particularly Lagos. Omuku's Fauvist-inflected landscapes challenge the 'concrete jungle' narrative.",
+    "url": "https://www.houldsworth.co.uk/exhibitions/169-nengi-omuku-we-were-like-those-who-dreamed/press_release_text/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-almas-ts-ahmed-2026",
+    "title": "Khartoum from Memory: T S Ahmed",
+    "artist_ids": [
+      "art-ts-ahmed"
+    ],
+    "venue_id": "ven-almas-art-foundation",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2026-03-27",
+    "end_date": "2026-05-16",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "printmaking"
+    ],
+    "focus": "dedicated",
+    "description": "Fifth in Almas Art Foundation's Sudan series. Rare prints from RCA archives alongside paintings from Jordan National Gallery and private collections. Accompanied by the first publication on the artist.",
+    "url": "https://www.almasartfoundation.org/exhibitions/29-khartoum-from-memory/overview/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-orsay-youssef-nabil-2026",
+    "title": "Youssef Nabil: De rever encore",
+    "artist_ids": [
+      "art-youssef-nabil"
+    ],
+    "venue_id": "ven-musee-dorsay",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "start_date": "2026-05-19",
+    "end_date": "2026-09-13",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "photography",
+      "film"
+    ],
+    "focus": "dedicated",
+    "description": "First contemporary artist to inhabit the Musee d'Orsay's Orientalist galleries. Hand-colored photographs and video exploring memory, exile, and Mediterranean identity. Part of the Bicentennial of Photography.",
+    "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/youssef-nabil-de-rever-encore",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-quai-branly-kwame-akoto-2026",
+    "title": "Kwame Akoto: Almighty God Art Works",
+    "artist_ids": [
+      "art-kwame-akoto"
+    ],
+    "venue_id": "ven-quai-branly",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "start_date": "2026-03-31",
+    "end_date": "2026-09-06",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
+    "description": "First exhibition in France dedicated to the Ghanaian painter and preacher. Around sixty canvases where faith, social critique, and humor combine in a style born from sign painting.",
+    "url": "https://m.quaibranly.fr/en/exhibitions-and-events/at-the-museum/exhibitions/event-details/e/kwame-akoto",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-afikaris-onuzulike-2026",
+    "title": "Ozioma Onuzulike: Shields",
+    "artist_ids": [
+      "art-ozioma-onuzulike"
+    ],
+    "venue_id": "ven-afikaris-paris",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "start_date": "2026-05-21",
+    "end_date": "2026-08-14",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "ceramics",
+      "sculpture"
+    ],
+    "focus": "dedicated",
+    "description": "Second solo at AFIKARIS. Explores the shield as cultural object across African societies - addressing colonialism, migration, and global warming through ceramic art.",
+    "url": "https://afikaris.com/exhibitions/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-templon-diagne-2026",
+    "title": "Alioune Diagne: Saytu",
+    "artist_ids": [
+      "art-alioune-diagne"
+    ],
+    "venue_id": "ven-galerie-templon-paris",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "start_date": "2026-05-21",
+    "end_date": "2026-07-18",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
+    "description": "Solo by the founder of the Figuro-Abstro movement, combining figuration and abstraction with calligraphic motifs. Previously represented Senegal at the 60th Venice Biennale.",
+    "url": "https://www.templon.com/exhibitions/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-palais-de-tokyo-sarre-2026",
+    "title": "Lassana Sarre",
+    "artist_ids": [
+      "art-lassana-sarre"
+    ],
+    "venue_id": "ven-palais-de-tokyo-paris",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "start_date": "2026-06-05",
+    "end_date": "2026-09-13",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "diaspora",
+    "description": "Part of the 'Normes Corps' season. Large-format acrylic paintings depicting the Palais de Tokyo's guardians, reversing the gaze and highlighting their invisible daily lives.",
+    "url": "https://palaisdetokyo.com/personne/lassana-sarre/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-hauser-wirth-paris-gaines-2026",
+    "title": "Charles Gaines: Ciphering African Acacias and Supreme Court Decisions",
+    "artist_ids": [
+      "art-charles-gaines"
+    ],
+    "venue_id": "ven-hauser-wirth-paris",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "start_date": "2026-06-10",
+    "end_date": "2026-09-26",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "drawing",
+      "photography"
+    ],
+    "focus": "diaspora",
+    "description": "New work by the pioneering African American conceptual artist. Part of his ongoing Numbers and Trees series, now engaging with African acacias and Supreme Court decisions.",
+    "url": "https://www.hauserwirth.com/hauser-wirth-exhibitions/charles-gaines-ciphering-african-acacias-and-supreme-court-decisions/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-flag-deborah-roberts-2026",
+    "title": "Deborah Roberts: Consequences of Being",
+    "artist_ids": [
+      "art-deborah-roberts"
+    ],
+    "venue_id": "ven-flag-art-foundation",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-02-12",
+    "end_date": "2026-04-25",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "mixed media",
+      "ceramics"
+    ],
+    "focus": "diaspora",
+    "description": "Large-format paintings, works on paper, and - for the first time - ceramic sculpture, expanding her research into colonialism and representations of Black childhood.",
+    "url": "https://www.flagartfoundation.org/exhibitions/deborah-roberts",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "past"
+  },
+  {
+    "id": "exh-lisson-akomfrah-2026",
+    "title": "John Akomfrah: Listening All Night To The Rain",
+    "artist_ids": [
+      "art-john-akomfrah"
+    ],
+    "venue_id": "ven-lisson-gallery-nyc",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-02-11",
+    "end_date": "2026-04-26",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "film",
+      "video",
+      "installation"
+    ],
+    "focus": "dedicated",
+    "description": "US debut of multi-channel film Canto VI, originally commissioned for the British Pavilion at the 2024 Venice Biennale. Traces independence movements across Africa and Asia from the 1940s-1970s.",
+    "url": "https://www.lissongallery.com/exhibitions/john-akomfrah-26b4228e-d856-410d-a3d0-12f219eced46",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "past"
+  },
+  {
+    "id": "exh-stevenson-ct-ndzube-2026",
+    "title": "Simphiwe Ndzube: Around Midnight",
+    "artist_ids": [
+      "art-simphiwe-ndzube"
+    ],
+    "venue_id": "ven-stevenson-cape-town",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "start_date": "2026-03-13",
+    "end_date": "2026-05-31",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation"
+    ],
+    "focus": "dedicated",
+    "description": "Solo exhibition by Cape Town-born, LA-based artist at Stevenson Cape Town.",
+    "url": "https://www.stevenson.info/exhibitions-current",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-zeitz-mocaa-cauleen-smith-2026",
+    "title": "Cauleen Smith: Afflict the Comfortable, Comfort the Afflicted",
+    "artist_ids": [
+      "art-cauleen-smith"
+    ],
+    "venue_id": "ven-zeitz-mocaa",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "start_date": "2025-09-01",
+    "end_date": "2026-10-04",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "film",
+      "installation",
+      "sculpture"
+    ],
+    "focus": "diaspora",
+    "description": "Survey exhibition by LA-based African American artist, curated by Thato Mogotsi.",
+    "url": "https://zeitzmocaa.museum/exhibitions-and-events/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-goodman-ct-nicodemus-2026",
+    "title": "Everlyn Nicodemus: Without History",
+    "artist_ids": [
+      "art-everlyn-nicodemus"
+    ],
+    "venue_id": "ven-goodman-gallery-cape-town",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "start_date": "2026-04-18",
+    "end_date": "2026-05-23",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "mixed media"
+    ],
+    "focus": "dedicated",
+    "description": "Solo exhibition by Tanzanian-Swedish artist at Goodman Gallery Cape Town.",
+    "url": "https://goodman-gallery.com/exhibitions",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-norval-zvavahera-2026",
+    "title": "Portia Zvavahera: Tanda rima",
+    "artist_ids": [
+      "art-portia-zvavahera"
+    ],
+    "venue_id": "ven-norval-foundation",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "start_date": "2026-04-01",
+    "end_date": "2026-11-22",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
+    "description": "Deeply expressive paintings by Harare-based artist moving between the physical and spiritual, giving visual form to dreams, memories and lived experiences.",
+    "url": "https://www.norvalfoundation.org/exhibitions/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-smithsonian-makonnen-2026",
+    "title": "Tsedaye Makonnen: Sanctuary / Mekdes",
+    "artist_ids": [
+      "art-tsedaye-makonnen"
+    ],
+    "venue_id": "ven-smithsonian-african-art",
+    "city": "Washington DC",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-01-23",
+    "end_date": "2026-08-23",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "sculpture",
+      "installation"
+    ],
+    "focus": "diaspora",
+    "description": "Sculptures exploring the dehumanization of Black women and themes of motherhood and sisterly solidarity by Ethiopian-American artist.",
+    "url": "https://africa.si.edu/exhibitions/current-exhibitions/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-nmaahc-vanguard-2026",
+    "title": "At the Vanguard: Making and Saving History at HBCUs",
+    "artist_ids": [],
+    "venue_id": "ven-nmaahc",
+    "city": "Washington DC",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-01-16",
+    "end_date": "2026-07-19",
+    "type": "group",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "works on paper"
+    ],
+    "focus": "diaspora",
+    "description": "Collections from five HBCUs: Clark Atlanta, Florida A&M, Jackson State, Texas Southern, and Tuskegee. Stories of artistry, resistance and innovation.",
+    "url": "https://nmaahc.si.edu/explore/exhibitions",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-getty-black-arts-movement-2026",
+    "title": "Photography and the Black Arts Movement, 1955-1985",
+    "artist_ids": [],
+    "venue_id": "ven-getty-center",
+    "city": "Los Angeles",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-02-24",
+    "end_date": "2026-06-14",
+    "type": "group",
+    "admission": "free",
+    "mediums": [
+      "photography"
+    ],
+    "focus": "diaspora",
+    "description": "Landmark exhibition examining photography's role in the Black Arts Movement. Travels to Mississippi Museum of Art July-November 2026.",
+    "url": "https://www.getty.edu/exhibitions/black-arts-movement/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-rele-akpojotor-2026",
+    "title": "Woven and Built: In Tandem",
+    "artist_ids": [
+      "art-marcellina-akpojotor",
+      "art-patrick-akpojotor"
+    ],
+    "venue_id": "ven-rele-gallery-lagos",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "start_date": "2026-05-09",
+    "end_date": "2026-06-20",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "textiles",
+      "painting",
+      "mixed media"
+    ],
+    "focus": "dedicated",
+    "description": "Two-person exhibition marking ten years of shared life and practice. Marcellina works with layered fabric and archival imagery; Patrick approaches painting through the logic of building.",
+    "url": "https://www.rele.co/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-nubuke-amenuke-2026",
+    "title": "Dorothy Akpene Amenuke: Dreaming is a Map",
+    "artist_ids": [
+      "art-dorothy-akpene-amenuke"
+    ],
+    "venue_id": "ven-nubuke-foundation",
+    "city": "Accra",
+    "country": "Ghana",
+    "region": "West Africa",
+    "start_date": "2026-03-01",
+    "end_date": "2026-05-30",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "installation",
+      "textiles",
+      "mixed media"
+    ],
+    "focus": "dedicated",
+    "description": "Part of Nubuke Foundation's 20th-anniversary programming, curated by Ngone Fall. Large-scale installations of fibres, textiles, discarded clothing, and organic materials exploring mapping and intangible heritage.",
+    "url": "https://nubukefoundation.com/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-ncai-kamwathi-2026",
+    "title": "Peterson Kamwathi: Tabula Rasa",
+    "artist_ids": [
+      "art-peterson-kamwathi"
+    ],
+    "venue_id": "ven-ncai-nairobi",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "region": "East Africa",
+    "start_date": "2026-04-25",
+    "end_date": "2026-08-23",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "drawing",
+      "collage"
+    ],
+    "focus": "dedicated",
+    "description": "Densely packed, rhythmically ordered compositions of anonymous silhouettes. Extends his inquiry into how bodies gather and what they signify - solidarity, conformity, unease.",
+    "url": "https://nairobinow.wordpress.com/2026/04/25/exhibition-tabula-rasa-by-peterson-kamwathi-apr-25-2026-aug-23-2026-ncai-rossyln-riviera-mall/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "current"
+  },
+  {
+    "id": "exh-eastafab-nairobi-2026",
+    "title": "East Africa Art Biennale 11th Edition: Common Grounds, New Horizons",
+    "artist_ids": [],
+    "venue_id": "ven-ncai-nairobi",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "region": "East Africa",
+    "start_date": "2026-09-15",
+    "end_date": "2026-11-20",
+    "type": "biennial",
+    "admission": "paid",
+    "mediums": [
+      "mixed media",
+      "installation",
+      "painting"
+    ],
+    "focus": "dedicated",
+    "description": "Theme: Reimagining East African Futures. Highlights connections between East Africa and the broader Indian Ocean region. Satellite venues in Dar es Salaam, Kampala, Kigali, Bujumbura.",
+    "url": "https://africanscolumn.com/east-africa-art-biennale-2026-heads-to-nairobi/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-05-10",
+    "status": "upcoming"
   }
 ]

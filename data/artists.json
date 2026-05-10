@@ -1818,5 +1818,346 @@
     "birth_year": 1976,
     "website": "",
     "notes": "Also known as Frohawk Two Feathers. Reimagines colonial history through fictional narratives"
+  },
+  {
+    "id": "art-zineb-sedira",
+    "name": "Zineb Sedira",
+    "origin_country": "France",
+    "origin_region": "North Africa",
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "photography",
+      "film",
+      "installation"
+    ],
+    "birth_year": 1963,
+    "website": "",
+    "notes": "French-Algerian. Represented France at 59th Venice Biennale"
+  },
+  {
+    "id": "art-nengi-omuku",
+    "name": "Nengi Omuku",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1987,
+    "website": "",
+    "notes": "Paints on sanyan (Yoruba Aso-oke fabric)"
+  },
+  {
+    "id": "art-ts-ahmed",
+    "name": "T S Ahmed",
+    "origin_country": "Sudan",
+    "origin_region": "North Africa",
+    "based_in": [],
+    "is_diaspora": false,
+    "mediums": [
+      "painting",
+      "printmaking"
+    ],
+    "birth_year": 1933,
+    "website": "",
+    "notes": "Sudanese modernist (1933-2015)"
+  },
+  {
+    "id": "art-youssef-nabil",
+    "name": "Youssef Nabil",
+    "origin_country": "Egypt",
+    "origin_region": "North Africa",
+    "based_in": [
+      "Paris",
+      "France"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "photography",
+      "film"
+    ],
+    "birth_year": 1972,
+    "website": "",
+    "notes": "Hand-colored photographs exploring memory, exile, Mediterranean identity"
+  },
+  {
+    "id": "art-kwame-akoto",
+    "name": "Kwame Akoto",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Kumasi",
+      "Ghana"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1950,
+    "website": "",
+    "notes": "Ghanaian painter and preacher. Style born from sign painting"
+  },
+  {
+    "id": "art-ozioma-onuzulike",
+    "name": "Ozioma Onuzulike",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Enugu",
+      "Nigeria"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "ceramics",
+      "sculpture"
+    ],
+    "birth_year": 1972,
+    "website": "",
+    "notes": "Leading Nigerian ceramic artist from Achi, Enugu State"
+  },
+  {
+    "id": "art-alioune-diagne",
+    "name": "Alioune Diagne",
+    "origin_country": "Senegal",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Dakar",
+      "Senegal"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1985,
+    "website": "",
+    "notes": "Founder of Figuro-Abstro movement. Represented Senegal at 60th Venice Biennale"
+  },
+  {
+    "id": "art-lassana-sarre",
+    "name": "Lassana Sarre",
+    "origin_country": "France",
+    "origin_region": "Afro-European",
+    "based_in": [
+      "Paris",
+      "France"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1994,
+    "website": "",
+    "notes": "French artist of African descent. Large-format acrylic paintings"
+  },
+  {
+    "id": "art-charles-gaines",
+    "name": "Charles Gaines",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "Los Angeles",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "drawing",
+      "photography",
+      "installation"
+    ],
+    "birth_year": 1944,
+    "website": "",
+    "notes": "Pioneering African American conceptual artist. Numbers and Trees series"
+  },
+  {
+    "id": "art-deborah-roberts",
+    "name": "Deborah Roberts",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "Austin",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "mixed media",
+      "ceramics"
+    ],
+    "birth_year": 1962,
+    "website": "",
+    "notes": "African American. Explores representations of Black childhood and colonialism"
+  },
+  {
+    "id": "art-john-akomfrah",
+    "name": "John Akomfrah",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "film",
+      "video",
+      "installation"
+    ],
+    "birth_year": 1957,
+    "website": "",
+    "notes": "Ghanaian-British filmmaker. Founding member of Black Audio Film Collective"
+  },
+  {
+    "id": "art-simphiwe-ndzube",
+    "name": "Simphiwe Ndzube",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Los Angeles",
+      "United States"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation"
+    ],
+    "birth_year": 1990,
+    "website": "",
+    "notes": "Cape Town-born, LA-based. Mixed media assemblages"
+  },
+  {
+    "id": "art-cauleen-smith",
+    "name": "Cauleen Smith",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "Los Angeles",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "film",
+      "installation",
+      "sculpture"
+    ],
+    "birth_year": 1967,
+    "website": "",
+    "notes": "African American multidisciplinary artist"
+  },
+  {
+    "id": "art-everlyn-nicodemus",
+    "name": "Everlyn Nicodemus",
+    "origin_country": "Tanzania",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Stockholm",
+      "Sweden"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting",
+      "mixed media"
+    ],
+    "birth_year": 1954,
+    "website": "",
+    "notes": "Tanzanian-Swedish artist"
+  },
+  {
+    "id": "art-tsedaye-makonnen",
+    "name": "Tsedaye Makonnen",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "Washington DC",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "sculpture",
+      "installation"
+    ],
+    "birth_year": 1983,
+    "website": "",
+    "notes": "Ethiopian-American sculptor exploring Black womanhood"
+  },
+  {
+    "id": "art-peterson-kamwathi",
+    "name": "Peterson Kamwathi",
+    "origin_country": "Kenya",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Nairobi",
+      "Kenya"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "drawing",
+      "collage"
+    ],
+    "birth_year": 1980,
+    "website": "",
+    "notes": "Densely packed compositions of anonymous silhouettes"
+  },
+  {
+    "id": "art-dorothy-akpene-amenuke",
+    "name": "Dorothy Akpene Amenuke",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Accra",
+      "Ghana"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "installation",
+      "textiles",
+      "mixed media"
+    ],
+    "birth_year": 1965,
+    "website": "",
+    "notes": "Large-scale installations with fibres, textiles, discarded clothing"
+  },
+  {
+    "id": "art-marcellina-akpojotor",
+    "name": "Marcellina Oseghale Akpojotor",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Lagos",
+      "Nigeria"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "textiles",
+      "mixed media"
+    ],
+    "birth_year": 0,
+    "website": "",
+    "notes": "Layered fabric works drawing on family photographs and archival imagery"
+  },
+  {
+    "id": "art-patrick-akpojotor",
+    "name": "Patrick Akpojotor",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Lagos",
+      "Nigeria"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 0,
+    "website": "",
+    "notes": "Painting through the logic of building, figures emerging through structural planes"
   }
 ]
