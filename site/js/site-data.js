@@ -1582,7 +1582,10 @@ const WSW_DATA = {
       "id": "exh-vanda-east-music-is-black-2026",
       "title": "The Music is Black: A British Story",
       "artist_ids": [
-        "art-sonia-boyce"
+        "art-sonia-boyce",
+        "art-frank-bowling",
+        "art-sokari-douglas-camp",
+        "art-tam-joseph"
       ],
       "venue_id": "ven-vanda-east",
       "city": "London",
@@ -1604,7 +1607,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": true,
       "verified_date": "2026-04-11",
       "confidence": "high"
@@ -6744,6 +6747,42 @@ const WSW_DATA = {
       "birth_year": 1974,
       "website": "",
       "notes": "Trained electrician. Practice informed by engineering, mathematics, and resource extraction. Afrolampe series."
+    },
+    {
+      "id": "art-sokari-douglas-camp",
+      "name": "Sokari Douglas Camp",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "London",
+        "United Kingdom"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "sculpture",
+        "installation"
+      ],
+      "birth_year": 1958,
+      "website": "",
+      "notes": "Nigerian-born, London-based sculptor known for steel sculptures exploring Kalabari culture"
+    },
+    {
+      "id": "art-tam-joseph",
+      "name": "Tam Joseph",
+      "origin_country": "Dominica",
+      "origin_region": "Afro-Caribbean",
+      "based_in": [
+        "London",
+        "United Kingdom"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "birth_year": 1947,
+      "website": "",
+      "notes": "Dominican-British painter, key figure in the BLK Art Group"
     }
   ],
   "venues": [
@@ -7837,5 +7876,5 @@ const WSW_DATA = {
       "notes": "Amerika-Haus, Hardenbergstrasse 22-24. Photography and visual media."
     }
   ],
-  "generated": "2026-05-10 16:44"
+  "generated": "2026-05-10 18:01"
 };

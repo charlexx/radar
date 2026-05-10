@@ -1580,7 +1580,10 @@
     "id": "exh-vanda-east-music-is-black-2026",
     "title": "The Music is Black: A British Story",
     "artist_ids": [
-      "art-sonia-boyce"
+      "art-sonia-boyce",
+      "art-frank-bowling",
+      "art-sokari-douglas-camp",
+      "art-tam-joseph"
     ],
     "venue_id": "ven-vanda-east",
     "city": "London",
@@ -1602,7 +1605,7 @@
     "source": "manual",
     "added_date": "2026-03-27",
     "status": "current",
-    "focus": "dedicated",
+    "focus": "diaspora",
     "verified": true,
     "verified_date": "2026-04-11",
     "confidence": "high"
