@@ -349,7 +349,9 @@
         var artistNames = resolveArtists(exh.artist_ids).toLowerCase();
         var venueName = resolveVenue(exh.venue_id).toLowerCase();
         var title = (exh.title || "").toLowerCase();
-        if (title.indexOf(q) === -1 && artistNames.indexOf(q) === -1 && venueName.indexOf(q) === -1) {
+        var city = (exh.city || "").toLowerCase();
+        var country = (exh.country || "").toLowerCase();
+        if (title.indexOf(q) === -1 && artistNames.indexOf(q) === -1 && venueName.indexOf(q) === -1 && city.indexOf(q) === -1 && country.indexOf(q) === -1) {
           return false;
         }
       }

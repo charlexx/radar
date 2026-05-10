@@ -213,7 +213,7 @@
     ],
     "focus": "dedicated",
     "description": "Originally curated by London's V&A, this travelling exhibition celebrates the African fashion scene, arriving in Paris after stops in Australia, Canada and the US.",
-    "url": "",
+    "url": "https://www.quaibranly.fr/en/exhibitions-and-events/at-the-museum/exhibitions/event-details/e/africa-fashion",
     "image_url": "",
     "source": "manual",
     "added_date": "2026-03-27",
@@ -1673,7 +1673,9 @@
   {
     "id": "exh-tiwani-rashid-2025",
     "title": "Umar Rashid: The Epoch of Totalitarianism Part 3",
-    "artist_ids": [],
+    "artist_ids": [
+      "art-umar-rashid"
+    ],
     "venue_id": "ven-tiwani-contemporary",
     "city": "London",
     "country": "United Kingdom",
@@ -2198,7 +2200,9 @@
   {
     "id": "exh-goodman-london-branch-2025",
     "title": "Winston Branch: Out of the Calabash",
-    "artist_ids": [],
+    "artist_ids": [
+      "art-winston-branch"
+    ],
     "venue_id": "ven-goodman-gallery-london",
     "city": "London",
     "country": "United Kingdom",
@@ -2642,7 +2646,7 @@
       "ceramics"
     ],
     "description": "SMO Contemporary Art restored and curated 70+ large-scale modernist artworks plus 1,000+ historic objects. Opened by President Tinubu. Most significant public collection of modernist art in Nigeria.",
-    "url": "",
+    "url": "https://nationaltheatre.gov.ng/",
     "image_url": "",
     "source": "manual",
     "added_date": "2026-03-27",
@@ -2976,7 +2980,9 @@
   {
     "id": "exh-affinity-nobakada-2026",
     "title": "Buqaqawuli Nobakada (LGW 2026 presentation)",
-    "artist_ids": [],
+    "artist_ids": [
+      "art-buqaqawuli-nobakada"
+    ],
     "venue_id": "ven-affinity-art-lagos",
     "city": "Lagos",
     "country": "Nigeria",
@@ -3058,7 +3064,9 @@
   {
     "id": "exh-tiwani-lagos-prempeh-2025",
     "title": "Emma Prempeh: Belonging In-Between",
-    "artist_ids": [],
+    "artist_ids": [
+      "art-emma-prempeh"
+    ],
     "venue_id": "ven-tiwani-lagos",
     "city": "Lagos",
     "country": "Nigeria",
@@ -3910,7 +3918,9 @@
   {
     "id": "exh-gallery1957-ali-2025",
     "title": "Awanle Ayiboro Hawa Ali: Fine Feathers Don't Make Fine Birds",
-    "artist_ids": [],
+    "artist_ids": [
+      "art-awanle-ayiboro-hawa-ali"
+    ],
     "venue_id": "ven-gallery-1957-accra",
     "city": "Accra",
     "country": "Ghana",
@@ -4081,7 +4091,9 @@
   {
     "id": "exh-limbo-museum-sylvester-2025",
     "title": "Reginald Sylvester II: On the Other Side of Languish",
-    "artist_ids": [],
+    "artist_ids": [
+      "art-reginald-sylvester-ii"
+    ],
     "venue_id": "ven-limbo-museum-accra",
     "city": "Accra",
     "country": "Ghana",

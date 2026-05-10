@@ -215,7 +215,7 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Originally curated by London's V&A, this travelling exhibition celebrates the African fashion scene, arriving in Paris after stops in Australia, Canada and the US.",
-      "url": "",
+      "url": "https://www.quaibranly.fr/en/exhibitions-and-events/at-the-museum/exhibitions/event-details/e/africa-fashion",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
@@ -1675,7 +1675,9 @@ const WSW_DATA = {
     {
       "id": "exh-tiwani-rashid-2025",
       "title": "Umar Rashid: The Epoch of Totalitarianism Part 3",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-umar-rashid"
+      ],
       "venue_id": "ven-tiwani-contemporary",
       "city": "London",
       "country": "United Kingdom",
@@ -2200,7 +2202,9 @@ const WSW_DATA = {
     {
       "id": "exh-goodman-london-branch-2025",
       "title": "Winston Branch: Out of the Calabash",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-winston-branch"
+      ],
       "venue_id": "ven-goodman-gallery-london",
       "city": "London",
       "country": "United Kingdom",
@@ -2644,7 +2648,7 @@ const WSW_DATA = {
         "ceramics"
       ],
       "description": "SMO Contemporary Art restored and curated 70+ large-scale modernist artworks plus 1,000+ historic objects. Opened by President Tinubu. Most significant public collection of modernist art in Nigeria.",
-      "url": "",
+      "url": "https://nationaltheatre.gov.ng/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
@@ -2978,7 +2982,9 @@ const WSW_DATA = {
     {
       "id": "exh-affinity-nobakada-2026",
       "title": "Buqaqawuli Nobakada (LGW 2026 presentation)",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-buqaqawuli-nobakada"
+      ],
       "venue_id": "ven-affinity-art-lagos",
       "city": "Lagos",
       "country": "Nigeria",
@@ -3060,7 +3066,9 @@ const WSW_DATA = {
     {
       "id": "exh-tiwani-lagos-prempeh-2025",
       "title": "Emma Prempeh: Belonging In-Between",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-emma-prempeh"
+      ],
       "venue_id": "ven-tiwani-lagos",
       "city": "Lagos",
       "country": "Nigeria",
@@ -3912,7 +3920,9 @@ const WSW_DATA = {
     {
       "id": "exh-gallery1957-ali-2025",
       "title": "Awanle Ayiboro Hawa Ali: Fine Feathers Don't Make Fine Birds",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-awanle-ayiboro-hawa-ali"
+      ],
       "venue_id": "ven-gallery-1957-accra",
       "city": "Accra",
       "country": "Ghana",
@@ -4083,7 +4093,9 @@ const WSW_DATA = {
     {
       "id": "exh-limbo-museum-sylvester-2025",
       "title": "Reginald Sylvester II: On the Other Side of Languish",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-reginald-sylvester-ii"
+      ],
       "venue_id": "ven-limbo-museum-accra",
       "city": "Accra",
       "country": "Ghana",
@@ -6783,6 +6795,111 @@ const WSW_DATA = {
       "birth_year": 1947,
       "website": "",
       "notes": "Dominican-British painter, key figure in the BLK Art Group"
+    },
+    {
+      "id": "art-winston-branch",
+      "name": "Winston Branch",
+      "origin_country": "Saint Lucia",
+      "origin_region": "Afro-Caribbean",
+      "based_in": [
+        "London",
+        "United Kingdom"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1947,
+      "website": "",
+      "notes": "Saint Lucian-British painter. OBE. Slade-trained, Guggenheim Fellow"
+    },
+    {
+      "id": "art-buqaqawuli-nobakada",
+      "name": "Buqaqawuli Nobakada",
+      "origin_country": "South Africa",
+      "origin_region": "Southern Africa",
+      "based_in": [
+        "Johannesburg",
+        "South Africa"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "mixed media",
+        "painting"
+      ],
+      "birth_year": 2000,
+      "website": "",
+      "notes": "Acrylic on laced paper, centering Black femininity"
+    },
+    {
+      "id": "art-emma-prempeh",
+      "name": "Emma Prempeh",
+      "origin_country": "United Kingdom",
+      "origin_region": "Afro-Caribbean",
+      "based_in": [
+        "London",
+        "United Kingdom"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1996,
+      "website": "",
+      "notes": "British-Ghanaian-Vincentian. Uses schlag metal gold leaf in large-scale paintings"
+    },
+    {
+      "id": "art-awanle-ayiboro-hawa-ali",
+      "name": "Awanle Ayiboro Hawa Ali",
+      "origin_country": "Ghana",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Accra",
+        "Ghana"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1997,
+      "website": "",
+      "notes": "Explores women in Ghana's informal economy. Represented by Gallery 1957"
+    },
+    {
+      "id": "art-reginald-sylvester-ii",
+      "name": "Reginald Sylvester II",
+      "origin_country": "United States",
+      "origin_region": "African American",
+      "based_in": [
+        "Jersey City",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting",
+        "sculpture"
+      ],
+      "birth_year": 1987,
+      "website": "",
+      "notes": "African American. Abstraction on military tent shells and rubber"
+    },
+    {
+      "id": "art-umar-rashid",
+      "name": "Umar Rashid",
+      "origin_country": "United States",
+      "origin_region": "African American",
+      "based_in": [
+        "Los Angeles",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting",
+        "drawing"
+      ],
+      "birth_year": 1976,
+      "website": "",
+      "notes": "Also known as Frohawk Two Feathers. Reimagines colonial history through fictional narratives"
     }
   ],
   "venues": [
@@ -7876,5 +7993,5 @@ const WSW_DATA = {
       "notes": "Amerika-Haus, Hardenbergstrasse 22-24. Photography and visual media."
     }
   ],
-  "generated": "2026-05-10 18:25"
+  "generated": "2026-05-10 19:19"
 };

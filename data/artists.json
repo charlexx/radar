@@ -1713,5 +1713,110 @@
     "birth_year": 1947,
     "website": "",
     "notes": "Dominican-British painter, key figure in the BLK Art Group"
+  },
+  {
+    "id": "art-winston-branch",
+    "name": "Winston Branch",
+    "origin_country": "Saint Lucia",
+    "origin_region": "Afro-Caribbean",
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1947,
+    "website": "",
+    "notes": "Saint Lucian-British painter. OBE. Slade-trained, Guggenheim Fellow"
+  },
+  {
+    "id": "art-buqaqawuli-nobakada",
+    "name": "Buqaqawuli Nobakada",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Johannesburg",
+      "South Africa"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "mixed media",
+      "painting"
+    ],
+    "birth_year": 2000,
+    "website": "",
+    "notes": "Acrylic on laced paper, centering Black femininity"
+  },
+  {
+    "id": "art-emma-prempeh",
+    "name": "Emma Prempeh",
+    "origin_country": "United Kingdom",
+    "origin_region": "Afro-Caribbean",
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1996,
+    "website": "",
+    "notes": "British-Ghanaian-Vincentian. Uses schlag metal gold leaf in large-scale paintings"
+  },
+  {
+    "id": "art-awanle-ayiboro-hawa-ali",
+    "name": "Awanle Ayiboro Hawa Ali",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Accra",
+      "Ghana"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1997,
+    "website": "",
+    "notes": "Explores women in Ghana's informal economy. Represented by Gallery 1957"
+  },
+  {
+    "id": "art-reginald-sylvester-ii",
+    "name": "Reginald Sylvester II",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "Jersey City",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "sculpture"
+    ],
+    "birth_year": 1987,
+    "website": "",
+    "notes": "African American. Abstraction on military tent shells and rubber"
+  },
+  {
+    "id": "art-umar-rashid",
+    "name": "Umar Rashid",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "Los Angeles",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "drawing"
+    ],
+    "birth_year": 1976,
+    "website": "",
+    "notes": "Also known as Frohawk Two Feathers. Reimagines colonial history through fictional narratives"
   }
 ]
