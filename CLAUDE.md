@@ -26,6 +26,8 @@ Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framewo
 - Footer reads "Radar by Forme Femine" with Forme Femine linked to formefemine.com, plus copyright year below
 - Light mode is the default (no prefers-color-scheme; returning users who toggled to dark keep their choice via localStorage)
 - All filtering is client-side
+- Confidence field (verified, verified_date, confidence) is internal only — never render on public exhibition pages
+- Artist lists on exhibition pages show only African/diaspora artists Radar tracks, not every artist in the show. The description and "group" tag communicate broader scope. No "...and more" suffixes.
 
 ## ID format
 - Exhibitions: exh-{venue-slug}-{artist-or-title-slug}-{year} e.g. exh-tate-modern-el-anatsui-2026
@@ -63,12 +65,26 @@ Entry point: python cli/wsw.py
 Commands: exhibition, artist, venue, build, stats, validate, verify, refresh
 
 ## Colours
+
+### Light mode (default)
+Background: #f5f3f0
+Surface/cards: #ffffff
+Border: #e5e2dd
+Text primary: #1a1815
+Text secondary: #6b6560
+Accent: #8b6b3d (warm gold)
+Accent hover: #725530
+Status current: #2d7a4a
+Status upcoming: #3a6db5
+Status past: #8a8580
+
+### Dark mode
 Background: #0a0a0a
 Surface/cards: #141414
 Border: #1e1e1e
 Text primary: #e8e4df
 Text secondary: #8a8580
-Accent: #c9a87c (warm gold — Forme Feminine palette)
+Accent: #c9a87c (warm gold)
 Accent hover: #d4b88a
 Status current: #4a9e6e
 Status upcoming: #5b8dd4
@@ -84,6 +100,12 @@ Checks performed: URL resolution (HEAD/GET), page content matching (title + arti
 Flags: `--dry-run` (print only, no save), `--quiet` (skip high-confidence results).
 Results saved to exhibitions.json as `verified`, `verified_date`, `confidence` fields.
 `refresh` runs: validate -> verify -> build.
+
+## Mobile / CSS rules
+- NEVER use `overflow-x: hidden` on html or body — it kills nested horizontal scroll (e.g. editorial carousels). Use `overflow-x: hidden` on body only if editorial cards use flex-wrap instead of scroll on mobile.
+- Editorial cards ("Last Chance", "Just Opened"): on mobile (max-width: 639px) use `flex-wrap: wrap` with `width: calc(50% - 6px)` so two cards fit side-by-side without scroll. On desktop (640px+) use fixed-width cards (260px) with `overflow-x: auto` for horizontal scroll.
+- Safari does not support `overflow-x: clip` reliably — avoid it.
+- Always test mobile layout in Safari (iPhone) not just Chrome DevTools.
 
 ## Commit discipline
 Run `python cli/wsw.py validate` before every commit.
