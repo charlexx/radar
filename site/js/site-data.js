@@ -5648,6 +5648,210 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-05-10",
       "status": "upcoming"
+    },
+    {
+      "id": "exh-smo-arami-celebration-2026",
+      "title": "Celebration",
+      "artist_ids": [],
+      "venue_id": "ven-arami-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-04-18",
+      "end_date": "2026-07-18",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "textiles",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "Group exhibition by SMO Contemporary exploring the intersection of contemporary African art and fine dining. 15 artists from Nigeria, Uganda, Cameroon, South Africa, and the diaspora. Works in textile, wood, metal, bronze, and ceramic.",
+      "url": "https://smocontemporaryart.com/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-05-11",
+      "status": "current"
+    },
+    {
+      "id": "exh-ko-spring-salon-2026",
+      "title": "Spring Salon: Arthouse Reframed",
+      "artist_ids": [],
+      "venue_id": "ven-ko-gallery-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-04-04",
+      "end_date": "2026-05-16",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "Revisits prominent artists featured in Arthouse Contemporary auctions (2008-2021), highlighting Nigeria's leading artists whose careers blossomed over the past two decades.",
+      "url": "https://ko-artspace.com/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-05-11",
+      "status": "current"
+    },
+    {
+      "id": "exh-thought-pyramid-nok8-2026",
+      "title": "Next of Kin Series 8: Fragments of Being",
+      "artist_ids": [],
+      "venue_id": "ven-thought-pyramid-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-04-05",
+      "end_date": "2026-05-08",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "Annual juried art project exploring the shifting nature of human existence - how memories, culture, and time shape identity. 20 finalists from Nigeria, London, South Africa, and the African diaspora. Winner receives N6m solo exhibition prize.",
+      "url": "https://thoughtpyramidartcentre.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-05-11",
+      "status": "past"
+    },
+    {
+      "id": "exh-adegbola-efuru-2026",
+      "title": "Efuru and the Woman of the Lake",
+      "artist_ids": [],
+      "venue_id": "ven-adegbola-gallery-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-03-07",
+      "end_date": "2026-03-28",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "ceramics"
+      ],
+      "focus": "dedicated",
+      "description": "Drawing from Flora Nwapa's 1966 novel Efuru, celebrates women artists from the 1940s to the present. Features Ladi Kwali, Peju Alatise, Nengi Omuku, Ndidi Emefiele, and others. Curated by Adekepemi Aderemi.",
+      "url": "https://adegbola.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-05-11",
+      "status": "past"
+    },
+    {
+      "id": "exh-rele-sanni-adeniyi-2026",
+      "title": "Praise Sanni-Adeniyi: Between a Prayer and a Song",
+      "artist_ids": [
+        "art-praise-sanni-adeniyi"
+      ],
+      "venue_id": "ven-rele-gallery-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-03-07",
+      "end_date": "2026-04-18",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "focus": "dedicated",
+      "description": "Solo debut. Paintings feature fragmented, fluid figures exploring existential angst, coming of age, and the tension between tangible and intangible. Title from her own poem.",
+      "url": "https://www.rele.co/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-05-11",
+      "status": "past"
+    },
+    {
+      "id": "exh-affinity-amusan-2026",
+      "title": "Joke Amusan: What Shaped Us Does Not Disappear",
+      "artist_ids": [
+        "art-joke-amusan"
+      ],
+      "venue_id": "ven-affinity-art-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-03-08",
+      "end_date": "2026-04-15",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "textiles",
+        "installation"
+      ],
+      "focus": "dedicated",
+      "description": "Suspended sculptures and textile works exploring memory, migration, and inherited knowledge. Uses hessian fabric woven from jute fibre. First exhibition on the African continent by the German-Nigerian artist.",
+      "url": "https://fablstyle.com/joke-amusan-affinity-gallery-exhibition-lagos/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-05-11",
+      "status": "past"
+    },
+    {
+      "id": "exh-akete-collection-opening-2026",
+      "title": "Akete Collection: Museum Opening",
+      "artist_ids": [],
+      "venue_id": "ven-akete-collection-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-10-01",
+      "end_date": "2026-12-31",
+      "type": "group",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "installation",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "Opening of Lagos's first dedicated museum of modern and contemporary African art. Designed by Tosin Oshinowo. Will serve as main exhibition hub during the Lagos Biennial 2026.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-05-11",
+      "status": "upcoming"
+    },
+    {
+      "id": "exh-design-week-lagos-2026",
+      "title": "Design Week Lagos 2026",
+      "artist_ids": [],
+      "venue_id": "ven-national-theatre-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-26",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "sculpture",
+        "installation",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "Flagship design festival featuring 'All Roads Lead to Lagos' - a global tour that debuted at Milan's Salone del Mobile. Spotlights next-gen African design talent.",
+      "url": "https://designweeklagos.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-05-11",
+      "status": "upcoming"
     }
   ],
   "artists": [
@@ -7811,6 +8015,42 @@ const WSW_DATA = {
       "birth_year": 0,
       "website": "",
       "notes": "Painting through the logic of building, figures emerging through structural planes"
+    },
+    {
+      "id": "art-praise-sanni-adeniyi",
+      "name": "Praise Sanni-Adeniyi",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Lagos",
+        "Nigeria"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 2000,
+      "website": "",
+      "notes": "University of Lagos law graduate. Fragmented, fluid figures exploring existential angst"
+    },
+    {
+      "id": "art-joke-amusan",
+      "name": "Joke Amusan",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Berlin",
+        "Germany"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "sculpture",
+        "textiles",
+        "installation"
+      ],
+      "birth_year": 0,
+      "website": "",
+      "notes": "German-Nigerian artist. Suspended sculptures and textile works exploring memory and migration"
     }
   ],
   "venues": [
@@ -9001,7 +9241,34 @@ const WSW_DATA = {
       "type": "museum",
       "website": "https://www.quaibranly.fr",
       "notes": ""
+    },
+    {
+      "id": "ven-arami-lagos",
+      "name": "ARAMI",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "project-space",
+      "website": "",
+      "notes": "Rooftop dining space hosting SMO Contemporary exhibitions"
+    },
+    {
+      "id": "ven-angels-muse-lagos",
+      "name": "Angels & Muse",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "",
+      "notes": "Ikoyi, Lagos"
+    },
+    {
+      "id": "ven-akete-collection-lagos",
+      "name": "Akete Collection",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "museum",
+      "website": "",
+      "notes": "Museum of Modern and Contemporary Art, Ikoyi. Designed by Tosin Oshinowo. Opening October 2026"
     }
   ],
-  "generated": "2026-05-10 22:11"
+  "generated": "2026-05-11 00:27"
 };

@@ -1186,5 +1186,32 @@
     "type": "museum",
     "website": "https://www.quaibranly.fr",
     "notes": ""
+  },
+  {
+    "id": "ven-arami-lagos",
+    "name": "ARAMI",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "project-space",
+    "website": "",
+    "notes": "Rooftop dining space hosting SMO Contemporary exhibitions"
+  },
+  {
+    "id": "ven-angels-muse-lagos",
+    "name": "Angels & Muse",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "",
+    "notes": "Ikoyi, Lagos"
+  },
+  {
+    "id": "ven-akete-collection-lagos",
+    "name": "Akete Collection",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "museum",
+    "website": "",
+    "notes": "Museum of Modern and Contemporary Art, Ikoyi. Designed by Tosin Oshinowo. Opening October 2026"
   }
 ]

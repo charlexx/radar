@@ -2159,5 +2159,41 @@
     "birth_year": 0,
     "website": "",
     "notes": "Painting through the logic of building, figures emerging through structural planes"
+  },
+  {
+    "id": "art-praise-sanni-adeniyi",
+    "name": "Praise Sanni-Adeniyi",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Lagos",
+      "Nigeria"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 2000,
+    "website": "",
+    "notes": "University of Lagos law graduate. Fragmented, fluid figures exploring existential angst"
+  },
+  {
+    "id": "art-joke-amusan",
+    "name": "Joke Amusan",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Berlin",
+      "Germany"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "sculpture",
+      "textiles",
+      "installation"
+    ],
+    "birth_year": 0,
+    "website": "",
+    "notes": "German-Nigerian artist. Suspended sculptures and textile works exploring memory and migration"
   }
 ]
