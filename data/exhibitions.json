@@ -1469,8 +1469,8 @@
     "city": "Lagos",
     "country": "Nigeria",
     "region": "West Africa",
-    "start_date": "2026-10-01",
-    "end_date": "2026-12-31",
+    "start_date": "2026-10-17",
+    "end_date": "2026-12-18",
     "type": "biennial",
     "admission": "free",
     "mediums": [
@@ -5940,5 +5940,1516 @@
     "verified": true,
     "verified_date": "2026-06-24",
     "confidence": "high"
+  },
+  {
+    "id": "exh-kunsthaus-zurich-marshall-2026",
+    "title": "Kerry James Marshall: The Histories",
+    "artist_ids": [
+      "art-kerry-james-marshall"
+    ],
+    "venue_id": "ven-kunsthaus-zurich",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "region": "Europe",
+    "start_date": "2026-02-27",
+    "end_date": "2026-08-16",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "diaspora",
+    "description": "The largest Kerry James Marshall survey shown in Europe, featuring 70+ works including 8 new paintings. Co-organized with Royal Academy of Arts and Musee d'Art Moderne de Paris.",
+    "url": "https://www.kunsthaus.ch/en/besuch-planen/ausstellungen/kerry-james-marshall/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-mam-paris-marshall-2026",
+    "title": "Kerry James Marshall: The Histories",
+    "artist_ids": [
+      "art-kerry-james-marshall"
+    ],
+    "venue_id": "ven-musee-art-moderne-paris",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "start_date": "2026-09-18",
+    "end_date": "2027-01-24",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "diaspora",
+    "description": "Kerry James Marshall's first major exhibition in France. Third and final stop of the touring retrospective.",
+    "url": "https://www.mam.paris.fr/en/expositions/exhibitions-kerry-james-marshall",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-liljevalchs-when-we-see-us-2025",
+    "title": "When We See Us: A Century of Black Figuration in Painting",
+    "artist_ids": [
+      "art-amoako-boafo",
+      "art-njideka-akunyili-crosby",
+      "art-toyin-ojih-odutola"
+    ],
+    "venue_id": "ven-liljevalchs",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "region": "Europe",
+    "start_date": "2025-10-10",
+    "end_date": "2026-08-30",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
+    "description": "155+ works celebrating a century of Black figurative painting, co-curated by the late Koyo Kouoh and Tandazani Dhlakama. Originated at Zeitz MOCAA.",
+    "url": "https://liljevalchs.se/en/kalender/when-we-see-us/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-vanda-east-carrie-mae-weems-2026",
+    "title": "Carrie Mae Weems: The Long Goodbye",
+    "artist_ids": [
+      "art-carrie-mae-weems"
+    ],
+    "venue_id": "ven-vanda-east",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2026-04-18",
+    "end_date": "2026-10-18",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "film",
+      "installation"
+    ],
+    "focus": "diaspora",
+    "description": "Film commission exploring transatlantic migration, displacement, and African diaspora identity.",
+    "url": "https://www.vam.ac.uk/event/YzLZqyM196/the-long-goodbye-carrie-mae-weems",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-mcba-nkanga-2026",
+    "title": "Otobong Nkanga: I dreamt of you in colours",
+    "artist_ids": [
+      "art-otobong-nkanga"
+    ],
+    "venue_id": "ven-mcba-lausanne",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "region": "Europe",
+    "start_date": "2026-04-03",
+    "end_date": "2026-08-23",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "installation",
+      "tapestry",
+      "sculpture"
+    ],
+    "focus": "dedicated",
+    "description": "Nkanga's first solo exhibition in Switzerland.",
+    "url": "https://www.mcba.ch/en/exhibitions/otobong-nkanga/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-joan-miro-kiwanga-2026",
+    "title": "Kapwani Kiwanga: Changing States",
+    "artist_ids": [
+      "art-kapwani-kiwanga"
+    ],
+    "venue_id": "ven-fundacio-joan-miro",
+    "city": "Barcelona",
+    "country": "Spain",
+    "region": "Europe",
+    "start_date": "2026-04-29",
+    "end_date": "2026-09-13",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "installation",
+      "sculpture",
+      "film"
+    ],
+    "focus": "dedicated",
+    "description": "Kiwanga's first retrospective in Spain. Winner of the 2025 Joan Miro Prize.",
+    "url": "https://www.fmirobcn.org/en/exhibitions/7354/kapwani-kiwanga-changing-states",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-palazzo-grimani-boafo-2026",
+    "title": "Amoako Boafo: It doesn't have to always make sense",
+    "artist_ids": [
+      "art-amoako-boafo"
+    ],
+    "venue_id": "ven-palazzo-grimani",
+    "city": "Venice",
+    "country": "Italy",
+    "region": "Europe",
+    "start_date": "2026-05-06",
+    "end_date": "2026-11-22",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
+    "description": "Boafo's first solo exhibition in Italy, produced by Gagosian. Dialogue between contemporary Black representation and Venetian portrait tradition.",
+    "url": "https://gagosian.com/news/museum-exhibitions/amoako-boafo-museo-di-palazzo-grimani-venice/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-lisson-himid-zanzibar-2026",
+    "title": "Lubaina Himid & Magda Stawarska: Zanzibar",
+    "artist_ids": [
+      "art-lubaina-himid"
+    ],
+    "venue_id": "ven-lisson-gallery-london",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2026-06-04",
+    "end_date": "2026-08-22",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "mixed media",
+      "installation"
+    ],
+    "focus": "dedicated",
+    "description": "Immersive mixed-media installation of nine diptychs with an eight-channel soundscape, reflecting on Zanzibar, memory, and migration.",
+    "url": "https://www.lissongallery.com/exhibitions/lisson-street-lubaina-himid-and-magda-stawarska-zanzibar",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-niru-ratnam-piper-2026",
+    "title": "Keith Piper: Red Flags",
+    "artist_ids": [
+      "art-keith-piper"
+    ],
+    "venue_id": "ven-niru-ratnam-london",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2026-06-05",
+    "end_date": "2026-07-25",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "multimedia",
+      "installation",
+      "digital art"
+    ],
+    "focus": "diaspora",
+    "description": "Four decades of practice by BLK Art Group founding member Keith Piper.",
+    "url": "https://www.niruratnam.com/exhibitions/61-keith-piper-red-flags-preview-on-5-june-11/overview/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-mariane-ibrahim-johnson-2026",
+    "title": "Leasho Johnson: I am a place as much as I am a flavour",
+    "artist_ids": [
+      "art-leasho-johnson"
+    ],
+    "venue_id": "ven-mariane-ibrahim-paris",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "start_date": "2026-06-06",
+    "end_date": "2026-07-25",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "drawing",
+      "collage"
+    ],
+    "focus": "diaspora",
+    "description": "Johnson's first solo exhibition in Europe, exploring Jamaican folklore through the figure of Anansi.",
+    "url": "https://marianeibrahim.com/exhibitions/current/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-thyssen-black-planet-2026",
+    "title": "Project a Black Planet: The Art and Culture of Panafrica",
+    "artist_ids": [
+      "art-chris-ofili",
+      "art-el-anatsui",
+      "art-zanele-muholi",
+      "art-simone-leigh",
+      "art-kerry-james-marshall",
+      "art-david-hammons",
+      "art-cauleen-smith",
+      "art-claudette-johnson"
+    ],
+    "venue_id": "ven-thyssen-madrid",
+    "city": "Madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "start_date": "2026-06-23",
+    "end_date": "2026-09-27",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "installation",
+      "mixed media"
+    ],
+    "focus": "dedicated",
+    "description": "First major exhibition examining Pan-Africanism's influence on visual art and culture, from the 1920s to present. Nearly 500 works by ~100 artists. Part of four-venue international tour.",
+    "url": "https://www.museothyssen.org/en/exhibitions",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-goodman-london-mkonto-2026",
+    "title": "Unathi Mkonto: If Joburg had a beach, who would go?",
+    "artist_ids": [
+      "art-unathi-mkonto"
+    ],
+    "venue_id": "ven-goodman-gallery-london",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2026-07-16",
+    "end_date": "2026-09-12",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
+    "url": "https://goodman-gallery.com/exhibitions",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "description": "",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-tate-britain-the-90s-2026",
+    "title": "The 90s: Art and Fashion",
+    "artist_ids": [
+      "art-yinka-shonibare",
+      "art-steve-mcqueen",
+      "art-maud-sulter"
+    ],
+    "venue_id": "ven-tate-britain",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2026-10-08",
+    "end_date": "2027-02-14",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "photography",
+      "fashion",
+      "film"
+    ],
+    "focus": "featured",
+    "description": "Over 100 works from nearly 70 artists, photographers, and designers. Curated by Edward Enninful OBE. Black British artists are a significant presence.",
+    "url": "https://www.tate.org.uk/whats-on/tate-britain/the-90s",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-whitechapel-efflatoun-2026",
+    "title": "Inji Efflatoun: The Poetics of Justice",
+    "artist_ids": [
+      "art-inji-efflatoun"
+    ],
+    "venue_id": "ven-whitechapel-gallery",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2026-10-07",
+    "end_date": "2027-02-14",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
+    "description": "First significant international exhibition of the major Egyptian artist, feminist and political dissident (1924-1989). In partnership with Sharjah Art Museum.",
+    "url": "https://www.whitechapelgallery.org/about/press/inji-efflatoun-the-poetics-of-justice/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-hasselblad-muholi-2026",
+    "title": "Zanele Muholi: Hasselblad Award Exhibition",
+    "artist_ids": [
+      "art-zanele-muholi"
+    ],
+    "venue_id": "ven-hasselblad-center",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "region": "Europe",
+    "start_date": "2026-10-10",
+    "end_date": "2027-04-24",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "photography",
+      "sculpture"
+    ],
+    "focus": "dedicated",
+    "description": "Exhibition accompanying the 2026 Hasselblad Award, the world's most prestigious photography prize.",
+    "url": "https://www.hasselbladfoundation.org/en/hasselblad-award-winner-2026/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-fondation-cartier-mahama-2026",
+    "title": "Ibrahim Mahama: Le Temps des recoltes (The Harvest Season)",
+    "artist_ids": [
+      "art-ibrahim-mahama",
+      "art-dorothy-akpene-amenuke",
+      "art-james-barnor",
+      "art-zohra-opoku"
+    ],
+    "venue_id": "ven-fondation-cartier",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "start_date": "2026-10-22",
+    "end_date": "2027-02-28",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "installation",
+      "sculpture",
+      "mixed media"
+    ],
+    "focus": "dedicated",
+    "description": "Mahama's first major exhibition in Paris, occupying all of the Fondation Cartier's new space at Place du Palais-Royal. Features new works plus emblematic installations including Parliament of Ghosts, accompanied by nine associated artists.",
+    "url": "https://www.fondationcartier.com/en/programme/exhibition/the-harvest-season",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-frieze-london-2026",
+    "title": "Frieze London 2026",
+    "artist_ids": [],
+    "venue_id": "ven-regents-park-london",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-18",
+    "type": "fair",
+    "admission": "paid",
+    "mediums": [],
+    "focus": "significant",
+    "description": "Major international contemporary art fair featuring significant African and diaspora gallery presence.",
+    "url": "https://www.frieze.com/fairs/frieze-london",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-art-basel-paris-2026",
+    "title": "Art Basel Paris 2026",
+    "artist_ids": [],
+    "venue_id": "ven-grand-palais",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-25",
+    "type": "fair",
+    "admission": "paid",
+    "mediums": [],
+    "focus": "significant",
+    "description": "Fifth edition with 206 galleries from 41 countries.",
+    "url": "https://www.artbasel.com/paris",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-1-54-london-oct-2026",
+    "title": "1-54 Contemporary African Art Fair London (October)",
+    "artist_ids": [],
+    "venue_id": "ven-somerset-house",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-18",
+    "type": "fair",
+    "admission": "paid",
+    "mediums": [],
+    "focus": "dedicated",
+    "description": "Leading international fair for contemporary African art, held during Frieze Week at Somerset House.",
+    "url": "https://www.1-54.com/london/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-kanal-black-planet-2026",
+    "title": "Project a Black Planet: The Art and Culture of Panafrica",
+    "artist_ids": [
+      "art-chris-ofili",
+      "art-el-anatsui",
+      "art-zanele-muholi",
+      "art-simone-leigh",
+      "art-kerry-james-marshall"
+    ],
+    "venue_id": "ven-kanal-centre-pompidou",
+    "city": "Brussels",
+    "country": "Belgium",
+    "region": "Europe",
+    "start_date": "2026-11-01",
+    "end_date": "2027-03-31",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "installation",
+      "mixed media"
+    ],
+    "focus": "dedicated",
+    "description": "Fourth and final stop of the touring exhibition examining Pan-Africanism's influence on visual art and culture.",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "url": "",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-saam-nick-cave-2026",
+    "title": "Nick Cave: Mammoth",
+    "artist_ids": [
+      "art-nick-cave-artist"
+    ],
+    "venue_id": "ven-saam",
+    "city": "Washington DC",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-02-13",
+    "end_date": "2027-01-03",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "sculpture",
+      "installation",
+      "textiles"
+    ],
+    "focus": "diaspora",
+    "description": "The Smithsonian American Art Museum's largest-ever commission by a single artist. Nick Cave's first solo show in Washington DC.",
+    "url": "https://americanart.si.edu/exhibitions/nick-cave",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-hirshhorn-pendleton-2025",
+    "title": "Adam Pendleton: Love, Queen",
+    "artist_ids": [
+      "art-adam-pendleton"
+    ],
+    "venue_id": "ven-hirshhorn",
+    "city": "Washington DC",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-04-04",
+    "end_date": "2027-01-03",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "installation",
+      "film"
+    ],
+    "focus": "diaspora",
+    "url": "https://hirshhorn.si.edu/exhibitions/adam-pendleton-love-queen/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "description": "",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-hammer-jafa-2026",
+    "title": "Arthur Jafa: The White Album",
+    "artist_ids": [
+      "art-arthur-jafa"
+    ],
+    "venue_id": "ven-hammer-museum",
+    "city": "Los Angeles",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-03-14",
+    "end_date": "2026-08-30",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "film",
+      "installation"
+    ],
+    "focus": "diaspora",
+    "url": "https://hammer.ucla.edu/exhibitions/2026/arthur-jafa-white-album",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "description": "",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-high-museum-sherald-2026",
+    "title": "Amy Sherald: American Sublime",
+    "artist_ids": [
+      "art-amy-sherald"
+    ],
+    "venue_id": "ven-high-museum",
+    "city": "Atlanta",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-05-15",
+    "end_date": "2026-09-27",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "diaspora",
+    "description": "Final stop of the national tour (SFMOMA, Whitney, BMA). Mid-career retrospective, 35+ paintings from 2007-2024.",
+    "url": "https://high.org/exhibition/amy-sherald-american-sublime/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-hauser-wirth-la-norton-2026",
+    "title": "Destiny Is a Rose: The Eileen Harris Norton Collection",
+    "artist_ids": [
+      "art-mark-bradford",
+      "art-david-hammons",
+      "art-glenn-ligon",
+      "art-kerry-james-marshall",
+      "art-senga-nengudi",
+      "art-lorraine-ogrady",
+      "art-betye-saar",
+      "art-amy-sherald",
+      "art-lorna-simpson",
+      "art-kara-walker",
+      "art-carrie-mae-weems"
+    ],
+    "venue_id": "ven-hauser-wirth-la",
+    "city": "Los Angeles",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-02-24",
+    "end_date": "2026-08-16",
+    "type": "group",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "mixed media"
+    ],
+    "focus": "diaspora",
+    "description": "80+ works from the Eileen Harris Norton Collection, celebrating African American artistic achievement.",
+    "url": "https://www.hauserwirth.com/hauser-wirth-exhibitions/destiny-is-a-rose-the-eileen-harris-norton-collection/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-walker-suzanne-jackson-2026",
+    "title": "Suzanne Jackson: What Is Love",
+    "artist_ids": [
+      "art-suzanne-jackson"
+    ],
+    "venue_id": "ven-walker-art-center",
+    "city": "Minneapolis",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-05-14",
+    "end_date": "2026-08-23",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "drawing"
+    ],
+    "focus": "diaspora",
+    "description": "First major retrospective. 80+ paintings and drawings from the 1960s to present. Travels to MFA Boston next.",
+    "url": "https://www.walkerart.org/press-releases/walker-art-center-to-present-suzanne-jackson/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-ica-boston-aamarp-2026",
+    "title": "Say It Loud: AAMARP, 1977 to Now",
+    "artist_ids": [],
+    "venue_id": "ven-ica-boston",
+    "city": "Boston",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-02-12",
+    "end_date": "2026-08-02",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "mixed media"
+    ],
+    "focus": "diaspora",
+    "description": "50+ works by 39 African American artists from the African American Master Artists-in-Residence Program.",
+    "url": "https://www.icaboston.org/exhibitions/african-american-master-artist-in-residence-program/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-everson-deborah-roberts-2026",
+    "title": "Deborah Roberts: Consequences of Being",
+    "artist_ids": [
+      "art-deborah-roberts"
+    ],
+    "venue_id": "ven-everson-museum",
+    "city": "Syracuse",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-05-16",
+    "end_date": "2026-09-27",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "works on paper",
+      "ceramics"
+    ],
+    "focus": "diaspora",
+    "description": "Large-format paintings, works on paper, and -- for the first time -- ceramic sculpture.",
+    "url": "https://everson.org/explore/upcoming-exhibitions/deborah-roberts-consequences-of-being/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-mca-chicago-shiokava-2026",
+    "title": "Kenzi Shiokava",
+    "artist_ids": [
+      "art-kenzi-shiokava"
+    ],
+    "venue_id": "ven-mca-chicago",
+    "city": "Chicago",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-06-27",
+    "end_date": "2027-01-31",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "sculpture"
+    ],
+    "focus": "diaspora",
+    "description": "First solo museum exhibition, 50+ sculptures spanning five decades by the Afro-Japanese Brazilian sculptor.",
+    "url": "https://visit.mcachicago.org/exhibitions/kenzi-shiokava/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-pamm-this-is-america-2026",
+    "title": "This Is America",
+    "artist_ids": [
+      "art-howardena-pindell",
+      "art-carrie-mae-weems"
+    ],
+    "venue_id": "ven-pamm",
+    "city": "Miami",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-05-28",
+    "end_date": "2027-05-23",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "photography",
+      "film",
+      "mixed media"
+    ],
+    "focus": "diaspora",
+    "description": "70 artists, 80 works examining US politics, Black American experience, and artistic representation.",
+    "url": "https://www.pamm.org/en/exhibitions/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-moad-broxton-2026",
+    "title": "Demetri Broxton: Ancestral Echoes - Crops of Empire",
+    "artist_ids": [
+      "art-demetri-broxton"
+    ],
+    "venue_id": "ven-moad-sf",
+    "city": "San Francisco",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-06-10",
+    "end_date": "2026-08-16",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "mixed media",
+      "installation"
+    ],
+    "focus": "diaspora",
+    "url": "https://www.moadsf.org/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "description": "",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-nmaahc-revelation-2026",
+    "title": "Revelation: A Journey into Abstraction",
+    "artist_ids": [
+      "art-theaster-gates",
+      "art-sam-gilliam",
+      "art-simone-leigh",
+      "art-julie-mehretu",
+      "art-howardena-pindell"
+    ],
+    "venue_id": "ven-nmaahc",
+    "city": "Washington DC",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-06-12",
+    "end_date": "2027-06-12",
+    "type": "group",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "mixed media"
+    ],
+    "focus": "diaspora",
+    "description": "41 works by 38 African American artists from the NMAAHC permanent collection, exploring abstraction across five thematic sections.",
+    "url": "https://nmaahc.si.edu/explore/exhibitions/revelation",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-ago-dawoud-bey-2026",
+    "title": "Dawoud Bey: Material Histories, Living Landscapes",
+    "artist_ids": [
+      "art-dawoud-bey"
+    ],
+    "venue_id": "ven-ago-toronto",
+    "city": "Toronto",
+    "country": "Canada",
+    "region": "North America",
+    "start_date": "2026-07-24",
+    "end_date": "2027-04-01",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "photography",
+      "film"
+    ],
+    "focus": "diaspora",
+    "description": "23 photographs, a two-channel film, and 4 African sculptures. Part of the 2026 Toronto Biennial of Art.",
+    "url": "https://ago.ca/exhibitions/dawoud-bey-material-histories-living-landscapes",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-mfa-boston-suzanne-jackson-2026",
+    "title": "Suzanne Jackson: What Is Love",
+    "artist_ids": [
+      "art-suzanne-jackson"
+    ],
+    "venue_id": "ven-mfa-boston",
+    "city": "Boston",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-09-26",
+    "end_date": "2027-02-07",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "drawing"
+    ],
+    "focus": "diaspora",
+    "description": "Suzanne Jackson retrospective touring from Walker Art Center.",
+    "url": "https://www.mfa.org/news/advance-exhibition-schedule",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-ps1-hard-art-2026",
+    "title": "Hard Art",
+    "artist_ids": [
+      "art-frank-bowling",
+      "art-mark-bradford",
+      "art-melvin-edwards",
+      "art-suzanne-jackson",
+      "art-sam-gilliam"
+    ],
+    "venue_id": "ven-moma-ps1",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-11-05",
+    "end_date": "2027-05-01",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "sculpture"
+    ],
+    "focus": "diaspora",
+    "description": "Legacy of abstract painting by Black artists in the US from 1969 to today. 40+ artists across three generations.",
+    "url": "https://www.momaps1.org/en/programs/744-hard-art",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-ago-sunday-best-2026",
+    "title": "Sunday Best: The Power & The Glory of Black Style",
+    "artist_ids": [],
+    "venue_id": "ven-ago-toronto",
+    "city": "Toronto",
+    "country": "Canada",
+    "region": "North America",
+    "start_date": "2026-10-07",
+    "end_date": "2027-02-28",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "fashion",
+      "photography",
+      "painting"
+    ],
+    "focus": "diaspora",
+    "description": "Fashion, visual art, and ephemera exploring Black diasporic style from the 1880s to present. 50+ garments, 70 photos, 10 paintings. Travels to Philadelphia Art Museum Spring 2027.",
+    "url": "https://ago.ca/press-release/ago-announces-2026-exhibition-line-featuring-paul-mccartney-monet-and-melissa-auf-der",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-pamm-anina-major-2026",
+    "title": "Anina Major: The Sacred Mangrove",
+    "artist_ids": [
+      "art-anina-major"
+    ],
+    "venue_id": "ven-pamm",
+    "city": "Miami",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-10-08",
+    "end_date": "2027-08-01",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "ceramics",
+      "sculpture",
+      "installation"
+    ],
+    "focus": "diaspora",
+    "description": "Ceramics, sculpture, and installation based on Caribbean weaving traditions.",
+    "url": "https://www.pamm.org/en/press/perez-art-museum-miami-announces-2026-exhibitions/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-pma-el-anatsui-2026",
+    "title": "El Anatsui: Prints and Play",
+    "artist_ids": [
+      "art-el-anatsui"
+    ],
+    "venue_id": "ven-pma",
+    "city": "Philadelphia",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-12-01",
+    "end_date": "2027-05-01",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "printmaking"
+    ],
+    "focus": "dedicated",
+    "description": "First comprehensive museum survey of El Anatsui's printmaking practice.",
+    "url": "https://press.philamuseum.org/philadelphia-art-museum-announces-2026-exhibitions/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-armory-show-2026",
+    "title": "The Armory Show 2026",
+    "artist_ids": [],
+    "venue_id": "ven-javits-center",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-09-24",
+    "end_date": "2026-09-27",
+    "type": "fair",
+    "admission": "paid",
+    "mediums": [],
+    "focus": "significant",
+    "description": "32nd edition. 230+ international galleries opening the NYC fall art season.",
+    "url": "https://www.thearmoryshow.com/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-art-basel-miami-2026",
+    "title": "Art Basel Miami Beach 2026",
+    "artist_ids": [],
+    "venue_id": "ven-miami-beach-convention",
+    "city": "Miami Beach",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-12-04",
+    "end_date": "2026-12-06",
+    "type": "fair",
+    "admission": "paid",
+    "mediums": [],
+    "focus": "significant",
+    "description": "250+ galleries from 35 countries, 4,000+ artists.",
+    "url": "https://www.artbasel.com/miami-beach",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-afrikin-miami-2026",
+    "title": "AfriKin Art Fair 2026",
+    "artist_ids": [],
+    "venue_id": "ven-afrikin-miami",
+    "city": "Miami",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-11-30",
+    "end_date": "2026-12-06",
+    "type": "fair",
+    "admission": "paid",
+    "mediums": [],
+    "focus": "dedicated",
+    "description": "12th edition. Curated exhibitions, immersive installations, live performances, and fashion celebrating contemporary African and diasporic art.",
+    "url": "https://afrikin.org",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-zeitz-mocaa-protea-2025",
+    "title": "A Protea Is Not a Flower",
+    "artist_ids": [
+      "art-lerato-shadi",
+      "art-robin-rhode"
+    ],
+    "venue_id": "ven-zeitz-mocaa",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "start_date": "2025-10-16",
+    "end_date": "2026-11-15",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "performance",
+      "video",
+      "drawing",
+      "photography"
+    ],
+    "focus": "dedicated",
+    "description": "Multigenerational dialogue on exile, memory, and the Black Modernist Intellectual Movement, responding to Gerard Sekoto, Bessie Head, and Don Mattera.",
+    "url": "https://zeitzmocaa.museum/exhibition/exhibitions/a-protea-is-not-a-flower/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-zeitz-mocaa-spring-rebellious-2025",
+    "title": "Spring Is Rebellious: The Art & Life of Albie Sachs",
+    "artist_ids": [],
+    "venue_id": "ven-zeitz-mocaa",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "start_date": "2025-07-24",
+    "end_date": "2026-08-23",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "mixed media",
+      "photography",
+      "painting"
+    ],
+    "focus": "dedicated",
+    "description": "Works from the Mayibuye Archives and Constitutional Court Art Collection examining art, justice, and the anti-apartheid struggle.",
+    "url": "https://zeitzmocaa.museum/exhibition/spring-is-rebellious-the-art-life-of-albie-sachs/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-goodman-ct-masamvu-2026",
+    "title": "Misheck Masamvu: Naked",
+    "artist_ids": [
+      "art-misheck-masamvu"
+    ],
+    "venue_id": "ven-goodman-gallery-cape-town",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "start_date": "2026-05-30",
+    "end_date": "2026-09-26",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
+    "url": "https://goodman-gallery.com/exhibitions",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "description": "",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-goodman-joburg-ernest-cole-2026",
+    "title": "Ernest Cole: Black America Unseen",
+    "artist_ids": [
+      "art-ernest-cole"
+    ],
+    "venue_id": "ven-goodman-gallery-joburg",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "start_date": "2026-06-06",
+    "end_date": "2026-08-08",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "photography"
+    ],
+    "focus": "dedicated",
+    "url": "https://goodman-gallery.com/exhibitions/black-america-unseen-ernest-cole",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "description": "",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-zeitz-mocaa-imprint-2026",
+    "title": "IMPRINT",
+    "artist_ids": [],
+    "venue_id": "ven-zeitz-mocaa",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "start_date": "2026-10-01",
+    "end_date": "2028-03-28",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "mixed media",
+      "printmaking"
+    ],
+    "focus": "dedicated",
+    "description": "Artist-led studio residency convening Cape Town publishing collectives. Co-curated by Nathalie Viruly and Dr Greer Valley.",
+    "url": "https://zeitzmocaa.museum/exhibition/zeitz-mocaa-announces-upcoming-exhibition-season-2026-2027/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-zeitz-mocaa-turning-sun-2026",
+    "title": "Turning Towards the Sun",
+    "artist_ids": [
+      "art-zeresenay-berhane-mehari",
+      "art-mati-diop",
+      "art-jim-chuchu",
+      "art-wanuri-kahiu"
+    ],
+    "venue_id": "ven-zeitz-mocaa",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "start_date": "2026-12-10",
+    "end_date": "2027-08-15",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "film"
+    ],
+    "focus": "dedicated",
+    "description": "Newly commissioned films by five filmmakers from across the African continent. Curated by Khanyi Mawhayi.",
+    "url": "https://zeitzmocaa.museum/exhibition/zeitz-mocaa-announces-upcoming-exhibition-season-2026-2027/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-fnb-art-joburg-2026",
+    "title": "FNB Art Joburg 2026",
+    "artist_ids": [],
+    "venue_id": "ven-sandton-convention",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "start_date": "2026-09-04",
+    "end_date": "2026-09-06",
+    "type": "fair",
+    "admission": "paid",
+    "mediums": [],
+    "focus": "dedicated",
+    "description": "19th edition of South Africa's leading art fair.",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "url": "",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-macaal-balbzioui-2026",
+    "title": "Yassine Balbzioui: Crazy Lines",
+    "artist_ids": [
+      "art-yassine-balbzioui"
+    ],
+    "venue_id": "ven-macaal-marrakech",
+    "city": "Marrakech",
+    "country": "Morocco",
+    "region": "North Africa",
+    "start_date": "2026-02-08",
+    "end_date": "2027-01-08",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "installation"
+    ],
+    "focus": "dedicated",
+    "description": "In-situ mural installation by the Moroccan artist, part of MACAAL's Seven Contours, One Collection programme.",
+    "url": "https://macaal.org/en/expositions",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-sharjah-koraichi-2026",
+    "title": "Rachid Koraichi",
+    "artist_ids": [
+      "art-rachid-koraichi"
+    ],
+    "venue_id": "ven-sharjah-art-foundation",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "region": "Middle East",
+    "start_date": "2026-03-28",
+    "end_date": "2026-08-30",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "installation",
+      "painting",
+      "sculpture"
+    ],
+    "focus": "dedicated",
+    "description": "Signs, symbols, and Islamic mysticism installations by the Algerian artist. Curated by Salah M. Hassan.",
+    "url": "https://www.sharjahart.org/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-biennale-lubumbashi-2026",
+    "title": "Biennale de Lubumbashi (9th edition)",
+    "artist_ids": [],
+    "venue_id": "ven-lubumbashi-multiple",
+    "city": "Lubumbashi",
+    "country": "Democratic Republic of the Congo",
+    "region": "Central Africa",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-31",
+    "type": "biennial",
+    "admission": "free",
+    "mediums": [],
+    "focus": "dedicated",
+    "description": "9th edition curated by Sorana Munsya and Jermay Michael Gabriel.",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "url": "",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-bamako-encounters-2026",
+    "title": "Bamako Encounters (15th edition): REFABULATION(S)",
+    "artist_ids": [],
+    "venue_id": "ven-bamako-multiple",
+    "city": "Bamako",
+    "country": "Mali",
+    "region": "West Africa",
+    "start_date": "2026-11-26",
+    "end_date": "2027-01-26",
+    "type": "biennial",
+    "admission": "paid",
+    "mediums": [
+      "photography"
+    ],
+    "focus": "dedicated",
+    "description": "Africa's premier photography biennial. 15th edition curated by Armelle Dakouo, first Francophone African woman to lead the biennial's artistic direction.",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "url": "",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-sharjah-biennial-17-2027",
+    "title": "Sharjah Biennial 17: What remains, sits restive",
+    "artist_ids": [],
+    "venue_id": "ven-sharjah-art-foundation",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "region": "Middle East",
+    "start_date": "2027-01-21",
+    "end_date": "2027-06-13",
+    "type": "biennial",
+    "admission": "free",
+    "mediums": [],
+    "focus": "significant",
+    "description": "109 participants. Co-curated by Angela Harutyunyan and Paula Nascimento (Angolan curator).",
+    "url": "https://www.sharjahart.org/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-space-un-mwizerwa-2026",
+    "title": "Richard Mwizerwa: We Don't Recall a Horizon",
+    "artist_ids": [
+      "art-richard-mwizerwa"
+    ],
+    "venue_id": "ven-space-un-tokyo",
+    "city": "Tokyo",
+    "country": "Japan",
+    "region": "Asia",
+    "start_date": "2026-06-27",
+    "end_date": "2026-08-09",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
+    "description": "Debut solo exhibition in Tokyo by Rwandan visual artist, featuring abstract heavily textured pieces.",
+    "url": "https://spaceun.tokyo/en/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-hauser-wirth-hk-bowling-2026",
+    "title": "Frank Bowling: Like Water",
+    "artist_ids": [
+      "art-frank-bowling"
+    ],
+    "venue_id": "ven-hauser-wirth-hk",
+    "city": "Hong Kong",
+    "country": "China",
+    "region": "Asia",
+    "start_date": "2026-06-11",
+    "end_date": "2026-08-29",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting"
+    ],
+    "focus": "diaspora",
+    "description": "Bowling's first solo exhibition in East Asia, featuring works from the 1960s to 2020.",
+    "url": "https://www.hauserwirth.com/artists/30000-frank-bowling/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "current"
+  },
+  {
+    "id": "exh-gwangju-biennale-2026",
+    "title": "16th Gwangju Biennale: You Must Change Your Life",
+    "artist_ids": [
+      "art-christian-nyampeta"
+    ],
+    "venue_id": "ven-gwangju-biennale",
+    "city": "Gwangju",
+    "country": "South Korea",
+    "region": "Asia",
+    "start_date": "2026-09-05",
+    "end_date": "2026-11-15",
+    "type": "biennial",
+    "admission": "paid",
+    "mediums": [
+      "installation",
+      "film",
+      "performance",
+      "sculpture"
+    ],
+    "focus": "featured",
+    "description": "16th edition led by Ho Tzu Nyen. 43 artists from around the world. Title from Rilke's poem.",
+    "url": "https://www.e-flux.com/announcements/6787431/16th-gwangju-biennaleyou-must-change-your-life",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-ngv-atong-atem-2026",
+    "title": "Passage: The Art of Atong Atem",
+    "artist_ids": [
+      "art-atong-atem"
+    ],
+    "venue_id": "ven-ngv-australia",
+    "city": "Melbourne",
+    "country": "Australia",
+    "region": "Oceania",
+    "start_date": "2026-10-30",
+    "end_date": "2027-06-14",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "photography",
+      "installation"
+    ],
+    "focus": "dedicated",
+    "description": "First major solo exhibition. 65+ works exploring identity, mythmaking, and intergenerational storytelling.",
+    "url": "https://www.ngv.vic.gov.au/exhibition/passage-the-art-of-atong-atem/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-ngv-triennial-2026",
+    "title": "NGV Triennial 2026",
+    "artist_ids": [
+      "art-zanele-muholi",
+      "art-kresiah-mukwazhi"
+    ],
+    "venue_id": "ven-ngv-international",
+    "city": "Melbourne",
+    "country": "Australia",
+    "region": "Oceania",
+    "start_date": "2026-12-13",
+    "end_date": "2027-04-11",
+    "type": "group",
+    "admission": "free",
+    "mediums": [
+      "sculpture",
+      "textiles",
+      "mixed media"
+    ],
+    "focus": "featured",
+    "description": "Nearly 100 artists from 35 countries, 25 world-premiere commissions. Zanele Muholi presents Umkhuseli (The Protector), a 3.3m sculpture.",
+    "url": "https://www.ngv.vic.gov.au/exhibition/triennial-2026/",
+    "source": "manual",
+    "added_date": "2026-07-13",
+    "image_url": "",
+    "status": "upcoming"
   }
 ]

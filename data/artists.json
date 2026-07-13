@@ -2195,5 +2195,742 @@
     "birth_year": 0,
     "website": "",
     "notes": "German-Nigerian artist. Suspended sculptures and textile works exploring memory and migration"
+  },
+  {
+    "id": "art-carrie-mae-weems",
+    "name": "Carrie Mae Weems",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "is_diaspora": true,
+    "mediums": [
+      "photography",
+      "film",
+      "installation"
+    ],
+    "birth_year": 1953,
+    "based_in": [],
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-amoako-boafo",
+    "name": "Amoako Boafo",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Vienna",
+      "Austria"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1984,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-keith-piper",
+    "name": "Keith Piper",
+    "origin_country": "United Kingdom",
+    "origin_region": "Afro-Caribbean",
+    "is_diaspora": true,
+    "mediums": [
+      "multimedia",
+      "installation",
+      "digital art"
+    ],
+    "birth_year": 1960,
+    "based_in": [],
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-leasho-johnson",
+    "name": "Leasho Johnson",
+    "origin_country": "Jamaica",
+    "origin_region": "Afro-Caribbean",
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "drawing",
+      "collage"
+    ],
+    "birth_year": 1984,
+    "based_in": [],
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-inji-efflatoun",
+    "name": "Inji Efflatoun",
+    "origin_country": "Egypt",
+    "origin_region": "North Africa",
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1924,
+    "notes": "Egyptian feminist artist and political activist (1924-1989)",
+    "based_in": [],
+    "website": ""
+  },
+  {
+    "id": "art-zanele-muholi",
+    "name": "Zanele Muholi",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Johannesburg",
+      "South Africa"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "photography",
+      "sculpture"
+    ],
+    "birth_year": 1972,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-ibrahim-mahama",
+    "name": "Ibrahim Mahama",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Tamale",
+      "Ghana"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "installation",
+      "sculpture",
+      "mixed media"
+    ],
+    "birth_year": 1987,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-nick-cave-artist",
+    "name": "Nick Cave",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "Chicago",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "sculpture",
+      "installation",
+      "performance",
+      "textiles"
+    ],
+    "birth_year": 1959,
+    "notes": "Visual and performance artist known for Soundsuits",
+    "website": ""
+  },
+  {
+    "id": "art-adam-pendleton",
+    "name": "Adam Pendleton",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "installation",
+      "film"
+    ],
+    "birth_year": 1984,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-suzanne-jackson",
+    "name": "Suzanne Jackson",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "drawing"
+    ],
+    "birth_year": 1944,
+    "based_in": [],
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-kenzi-shiokava",
+    "name": "Kenzi Shiokava",
+    "origin_country": "Brazil",
+    "origin_region": "Afro-Brazilian",
+    "is_diaspora": true,
+    "mediums": [
+      "sculpture"
+    ],
+    "birth_year": 1938,
+    "notes": "Afro-Japanese Brazilian sculptor",
+    "based_in": [],
+    "website": ""
+  },
+  {
+    "id": "art-anina-major",
+    "name": "Anina Major",
+    "origin_country": "Bahamas",
+    "origin_region": "Afro-Caribbean",
+    "is_diaspora": true,
+    "mediums": [
+      "ceramics",
+      "sculpture",
+      "installation"
+    ],
+    "based_in": [],
+    "website": "",
+    "notes": "",
+    "birth_year": null
+  },
+  {
+    "id": "art-dawoud-bey",
+    "name": "Dawoud Bey",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "Chicago",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "photography",
+      "film"
+    ],
+    "birth_year": 1953,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-richard-mwizerwa",
+    "name": "Richard Mwizerwa",
+    "origin_country": "Rwanda",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Kigali",
+      "Rwanda"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "website": "",
+    "notes": "",
+    "birth_year": null
+  },
+  {
+    "id": "art-atong-atem",
+    "name": "Atong Atem",
+    "origin_country": "South Sudan",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Melbourne",
+      "Australia"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "photography",
+      "installation"
+    ],
+    "website": "",
+    "notes": "",
+    "birth_year": null
+  },
+  {
+    "id": "art-lerato-shadi",
+    "name": "Lerato Shadi",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Berlin",
+      "Germany"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "performance",
+      "video",
+      "installation"
+    ],
+    "website": "",
+    "notes": "",
+    "birth_year": null
+  },
+  {
+    "id": "art-robin-rhode",
+    "name": "Robin Rhode",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Berlin",
+      "Germany"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "drawing",
+      "photography",
+      "performance"
+    ],
+    "birth_year": 1976,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-misheck-masamvu",
+    "name": "Misheck Masamvu",
+    "origin_country": "Zimbabwe",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Harare",
+      "Zimbabwe"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1980,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-ernest-cole",
+    "name": "Ernest Cole",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "is_diaspora": false,
+    "mediums": [
+      "photography"
+    ],
+    "birth_year": 1940,
+    "notes": "South African documentary photographer (1940-1990)",
+    "based_in": [],
+    "website": ""
+  },
+  {
+    "id": "art-rachid-koraichi",
+    "name": "Rachid Koraichi",
+    "origin_country": "Algeria",
+    "origin_region": "North Africa",
+    "based_in": [
+      "Paris",
+      "France"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "installation",
+      "painting",
+      "sculpture"
+    ],
+    "birth_year": 1947,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-yassine-balbzioui",
+    "name": "Yassine Balbzioui",
+    "origin_country": "Morocco",
+    "origin_region": "North Africa",
+    "is_diaspora": false,
+    "mediums": [
+      "painting",
+      "installation"
+    ],
+    "birth_year": 1972,
+    "based_in": [],
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-mark-bradford",
+    "name": "Mark Bradford",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "Los Angeles",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "mixed media",
+      "installation"
+    ],
+    "birth_year": 1961,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-glenn-ligon",
+    "name": "Glenn Ligon",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "neon",
+      "mixed media"
+    ],
+    "birth_year": 1960,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-lorraine-ogrady",
+    "name": "Lorraine O'Grady",
+    "origin_country": "United States",
+    "origin_region": "Afro-Caribbean",
+    "is_diaspora": true,
+    "mediums": [
+      "performance",
+      "photography",
+      "installation"
+    ],
+    "birth_year": 1934,
+    "based_in": [],
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-betye-saar",
+    "name": "Betye Saar",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "Los Angeles",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "assemblage",
+      "mixed media",
+      "installation"
+    ],
+    "birth_year": 1926,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-lorna-simpson",
+    "name": "Lorna Simpson",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "photography",
+      "film",
+      "painting"
+    ],
+    "birth_year": 1960,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-howardena-pindell",
+    "name": "Howardena Pindell",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "mixed media"
+    ],
+    "birth_year": 1943,
+    "based_in": [],
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-julie-mehretu",
+    "name": "Julie Mehretu",
+    "origin_country": "Ethiopia",
+    "origin_region": "East Africa",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "drawing"
+    ],
+    "birth_year": 1970,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-simone-leigh",
+    "name": "Simone Leigh",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "sculpture",
+      "ceramics",
+      "installation"
+    ],
+    "birth_year": 1967,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-christian-nyampeta",
+    "name": "Christian Nyampeta",
+    "origin_country": "Rwanda",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Amsterdam",
+      "Netherlands"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "film",
+      "installation",
+      "painting"
+    ],
+    "website": "",
+    "notes": "",
+    "birth_year": null
+  },
+  {
+    "id": "art-kresiah-mukwazhi",
+    "name": "Kresiah Mukwazhi",
+    "origin_country": "Zimbabwe",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Harare",
+      "Zimbabwe"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "textiles",
+      "mixed media"
+    ],
+    "birth_year": 1992,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-unathi-mkonto",
+    "name": "Unathi Mkonto",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "based_in": [],
+    "website": "",
+    "notes": "",
+    "birth_year": null
+  },
+  {
+    "id": "art-demetri-broxton",
+    "name": "Demetri Broxton",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "is_diaspora": true,
+    "mediums": [
+      "mixed media",
+      "installation"
+    ],
+    "based_in": [],
+    "website": "",
+    "notes": "",
+    "birth_year": null
+  },
+  {
+    "id": "art-steve-mcqueen",
+    "name": "Steve McQueen",
+    "origin_country": "United Kingdom",
+    "origin_region": "Afro-Caribbean",
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "film",
+      "installation",
+      "photography"
+    ],
+    "birth_year": 1969,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-maud-sulter",
+    "name": "Maud Sulter",
+    "origin_country": "United Kingdom",
+    "origin_region": "Afro-European",
+    "is_diaspora": true,
+    "mediums": [
+      "photography",
+      "mixed media"
+    ],
+    "birth_year": 1960,
+    "notes": "Scottish-Ghanaian artist (1960-2008)",
+    "based_in": [],
+    "website": ""
+  },
+  {
+    "id": "art-claudette-johnson",
+    "name": "Claudette Johnson",
+    "origin_country": "United Kingdom",
+    "origin_region": "Afro-Caribbean",
+    "based_in": [
+      "Manchester",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "drawing",
+      "painting"
+    ],
+    "birth_year": 1959,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-zeresenay-berhane-mehari",
+    "name": "Zeresenay Berhane Mehari",
+    "origin_country": "Ethiopia",
+    "origin_region": "East Africa",
+    "is_diaspora": false,
+    "mediums": [
+      "film"
+    ],
+    "based_in": [],
+    "website": "",
+    "notes": "",
+    "birth_year": null
+  },
+  {
+    "id": "art-mati-diop",
+    "name": "Mati Diop",
+    "origin_country": "Senegal",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Paris",
+      "France"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "film"
+    ],
+    "birth_year": 1982,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-jim-chuchu",
+    "name": "Jim Chuchu",
+    "origin_country": "Kenya",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Nairobi",
+      "Kenya"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "film",
+      "photography"
+    ],
+    "website": "",
+    "notes": "",
+    "birth_year": null
+  },
+  {
+    "id": "art-wanuri-kahiu",
+    "name": "Wanuri Kahiu",
+    "origin_country": "Kenya",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Nairobi",
+      "Kenya"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "film"
+    ],
+    "website": "",
+    "notes": "",
+    "birth_year": null
+  },
+  {
+    "id": "art-roy-decarava",
+    "name": "Roy DeCarava",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "is_diaspora": true,
+    "mediums": [
+      "photography"
+    ],
+    "birth_year": 1919,
+    "notes": "African American photographer (1919-2009), Harlem",
+    "based_in": [],
+    "website": ""
+  },
+  {
+    "id": "art-wangechi-mutu",
+    "name": "Wangechi Mutu",
+    "origin_country": "Kenya",
+    "origin_region": "East Africa",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "sculpture",
+      "collage",
+      "painting",
+      "film"
+    ],
+    "birth_year": 1972,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-david-hammons",
+    "name": "David Hammons",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "sculpture",
+      "installation",
+      "mixed media"
+    ],
+    "birth_year": 1943,
+    "website": "",
+    "notes": ""
   }
 ]

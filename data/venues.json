@@ -1213,5 +1213,356 @@
     "type": "museum",
     "website": "",
     "notes": "Museum of Modern and Contemporary Art, Ikoyi. Designed by Tosin Oshinowo. Opening October 2026"
+  },
+  {
+    "id": "ven-kunsthaus-zurich",
+    "name": "Kunsthaus Zurich",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "type": "museum",
+    "website": "https://www.kunsthaus.ch",
+    "notes": ""
+  },
+  {
+    "id": "ven-liljevalchs",
+    "name": "Liljevalchs Konsthal",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "type": "museum",
+    "website": "https://liljevalchs.se",
+    "notes": ""
+  },
+  {
+    "id": "ven-mcba-lausanne",
+    "name": "MCBA Lausanne",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "type": "museum",
+    "website": "https://www.mcba.ch",
+    "notes": ""
+  },
+  {
+    "id": "ven-fundacio-joan-miro",
+    "name": "Fundacio Joan Miro",
+    "city": "Barcelona",
+    "country": "Spain",
+    "type": "museum",
+    "website": "https://www.fmirobcn.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-palazzo-grimani",
+    "name": "Museo di Palazzo Grimani",
+    "city": "Venice",
+    "country": "Italy",
+    "type": "museum",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-lisson-gallery-london",
+    "name": "Lisson Gallery",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "https://www.lissongallery.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-niru-ratnam-london",
+    "name": "Niru Ratnam",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "gallery",
+    "website": "https://www.niruratnam.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-thyssen-madrid",
+    "name": "Museo Thyssen-Bornemisza",
+    "city": "Madrid",
+    "country": "Spain",
+    "type": "museum",
+    "website": "https://www.museothyssen.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-hasselblad-center",
+    "name": "Hasselblad Center",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "type": "museum",
+    "website": "https://www.hasselbladfoundation.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-fondation-cartier",
+    "name": "Fondation Cartier pour l'art contemporain",
+    "city": "Paris",
+    "country": "France",
+    "type": "museum",
+    "website": "https://www.fondationcartier.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-regents-park-london",
+    "name": "The Regent's Park (Frieze)",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "fair",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-kanal-centre-pompidou",
+    "name": "KANAL-Centre Pompidou",
+    "city": "Brussels",
+    "country": "Belgium",
+    "type": "museum",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-saam",
+    "name": "Smithsonian American Art Museum",
+    "city": "Washington DC",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://americanart.si.edu",
+    "notes": ""
+  },
+  {
+    "id": "ven-hirshhorn",
+    "name": "Hirshhorn Museum and Sculpture Garden",
+    "city": "Washington DC",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://hirshhorn.si.edu",
+    "notes": ""
+  },
+  {
+    "id": "ven-nga-dc",
+    "name": "National Gallery of Art",
+    "city": "Washington DC",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.nga.gov",
+    "notes": ""
+  },
+  {
+    "id": "ven-hammer-museum",
+    "name": "Hammer Museum",
+    "city": "Los Angeles",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://hammer.ucla.edu",
+    "notes": ""
+  },
+  {
+    "id": "ven-high-museum",
+    "name": "High Museum of Art",
+    "city": "Atlanta",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://high.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-hauser-wirth-la",
+    "name": "Hauser & Wirth Los Angeles",
+    "city": "Los Angeles",
+    "country": "United States",
+    "type": "gallery",
+    "website": "https://www.hauserwirth.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-walker-art-center",
+    "name": "Walker Art Center",
+    "city": "Minneapolis",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.walkerart.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-everson-museum",
+    "name": "Everson Museum of Art",
+    "city": "Syracuse",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://everson.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-mca-chicago",
+    "name": "Museum of Contemporary Art Chicago",
+    "city": "Chicago",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://mcachicago.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-pamm",
+    "name": "Perez Art Museum Miami",
+    "city": "Miami",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.pamm.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-ago-toronto",
+    "name": "Art Gallery of Ontario",
+    "city": "Toronto",
+    "country": "Canada",
+    "type": "museum",
+    "website": "https://ago.ca",
+    "notes": ""
+  },
+  {
+    "id": "ven-mfa-boston",
+    "name": "Museum of Fine Arts, Boston",
+    "city": "Boston",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.mfa.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-javits-center",
+    "name": "Javits Center",
+    "city": "New York",
+    "country": "United States",
+    "type": "fair",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-miami-beach-convention",
+    "name": "Miami Beach Convention Center",
+    "city": "Miami Beach",
+    "country": "United States",
+    "type": "fair",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-pma",
+    "name": "Philadelphia Museum of Art",
+    "city": "Philadelphia",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.philamuseum.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-space-un-tokyo",
+    "name": "space Un",
+    "city": "Tokyo",
+    "country": "Japan",
+    "type": "gallery",
+    "website": "https://spaceun.tokyo",
+    "notes": ""
+  },
+  {
+    "id": "ven-hauser-wirth-hk",
+    "name": "Hauser & Wirth Hong Kong",
+    "city": "Hong Kong",
+    "country": "China",
+    "type": "gallery",
+    "website": "https://www.hauserwirth.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-gwangju-biennale",
+    "name": "Gwangju Biennale Exhibition Hall",
+    "city": "Gwangju",
+    "country": "South Korea",
+    "type": "biennial-venue",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-ngv-australia",
+    "name": "The Ian Potter Centre: NGV Australia",
+    "city": "Melbourne",
+    "country": "Australia",
+    "type": "museum",
+    "website": "https://www.ngv.vic.gov.au",
+    "notes": ""
+  },
+  {
+    "id": "ven-ngv-international",
+    "name": "NGV International",
+    "city": "Melbourne",
+    "country": "Australia",
+    "type": "museum",
+    "website": "https://www.ngv.vic.gov.au",
+    "notes": ""
+  },
+  {
+    "id": "ven-macaal-marrakech",
+    "name": "MACAAL",
+    "city": "Marrakech",
+    "country": "Morocco",
+    "type": "museum",
+    "website": "https://macaal.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-sharjah-art-foundation",
+    "name": "Sharjah Art Foundation",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "type": "institution",
+    "website": "https://www.sharjahart.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-lubumbashi-multiple",
+    "name": "Multiple venues across Lubumbashi",
+    "city": "Lubumbashi",
+    "country": "Democratic Republic of the Congo",
+    "type": "biennial-venue",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-bamako-multiple",
+    "name": "Multiple venues across Bamako",
+    "city": "Bamako",
+    "country": "Mali",
+    "type": "biennial-venue",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-afrikin-miami",
+    "name": "Scott Galvin Community Center",
+    "city": "Miami",
+    "country": "United States",
+    "type": "fair",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-coex-seoul",
+    "name": "COEX",
+    "city": "Seoul",
+    "country": "South Korea",
+    "type": "fair",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-stevenson-joburg",
+    "name": "Stevenson",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "type": "gallery",
+    "website": "https://www.stevenson.info",
+    "notes": ""
   }
 ]
