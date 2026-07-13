@@ -33,7 +33,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -96,7 +96,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "verified": false,
       "verified_date": "2026-06-24",
       "confidence": "low"
@@ -158,7 +158,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -191,7 +191,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming",
+      "status": "current",
       "verified": false,
       "verified_date": "2026-06-24",
       "confidence": "low"
@@ -279,7 +279,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -397,7 +397,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "upcoming",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -776,7 +776,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "verified": false,
       "verified_date": "2026-06-24",
       "confidence": "low"
@@ -922,7 +922,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "verified": false,
       "verified_date": "2026-06-24",
       "confidence": "low"
@@ -1225,7 +1225,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -1339,7 +1339,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -1370,7 +1370,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "verified": false,
       "verified_date": "2026-06-24",
       "confidence": "low"
@@ -1545,7 +1545,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "verified": false,
       "verified_date": "2026-06-24",
       "confidence": "low"
@@ -1817,7 +1817,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "focus": "diaspora",
       "verified": true,
       "verified_date": "2026-06-24",
@@ -1847,7 +1847,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "focus": "diaspora",
       "verified": "pending",
       "verified_date": "2026-06-24",
@@ -2914,7 +2914,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "focus": "dedicated",
       "verified": true,
       "verified_date": "2026-06-24",
@@ -4114,7 +4114,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
-      "status": "current",
+      "status": "past",
       "focus": "significant",
       "verified": true,
       "verified_date": "2026-06-24",
@@ -4494,7 +4494,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
-      "status": "current",
+      "status": "past",
       "focus": "dedicated",
       "verified": true,
       "verified_date": "2026-06-24",
@@ -4898,7 +4898,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
-      "status": "current",
+      "status": "past",
       "focus": "significant",
       "verified": true,
       "verified_date": "2026-06-24",
@@ -4928,7 +4928,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
-      "status": "current",
+      "status": "past",
       "focus": "significant",
       "verified": true,
       "verified_date": "2026-06-24",
@@ -5017,7 +5017,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
-      "status": "current",
+      "status": "past",
       "focus": "dedicated",
       "verified": true,
       "verified_date": "2026-06-24",
@@ -5044,7 +5044,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
-      "status": "current",
+      "status": "past",
       "focus": "dedicated",
       "verified": true,
       "verified_date": "2026-06-24",
@@ -5104,7 +5104,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming",
+      "status": "current",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -5132,7 +5132,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -5161,7 +5161,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
+      "status": "past",
       "verified": false,
       "verified_date": "2026-06-24",
       "confidence": "low"
@@ -5190,7 +5190,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming",
+      "status": "current",
       "verified": false,
       "verified_date": "2026-06-24",
       "confidence": "low"
@@ -5247,7 +5247,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming",
+      "status": "current",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -5275,7 +5275,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming",
+      "status": "current",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -5303,7 +5303,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming",
+      "status": "current",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -5332,7 +5332,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming",
+      "status": "current",
       "verified": false,
       "verified_date": "2026-06-24",
       "confidence": "low"
@@ -5422,7 +5422,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
+      "status": "past",
       "verified": "pending",
       "verified_date": "2026-06-24",
       "confidence": "medium"
@@ -5481,7 +5481,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -5592,7 +5592,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -5623,7 +5623,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -5653,7 +5653,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -5767,7 +5767,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-06-24",
       "confidence": "high"
@@ -9360,5 +9360,5 @@ const WSW_DATA = {
       "notes": "Museum of Modern and Contemporary Art, Ikoyi. Designed by Tosin Oshinowo. Opening October 2026"
     }
   ],
-  "generated": "2026-06-24 03:23"
+  "generated": "2026-07-13 01:10"
 };
