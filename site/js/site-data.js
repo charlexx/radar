@@ -35,7 +35,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -68,9 +68,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "verified": false,
-      "verified_date": "2026-04-11",
-      "confidence": "low"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-brooklyn-museum-seydou-keita-2025",
@@ -98,7 +98,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -130,7 +130,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -160,7 +160,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -193,7 +193,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -220,9 +220,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-somerset-house-1-54-london-2026",
@@ -252,7 +252,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -281,7 +281,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -311,7 +311,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -341,7 +341,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -370,7 +370,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -398,9 +398,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "verified": false,
-      "verified_date": "2026-04-11",
-      "confidence": "low"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-white-cube-seoul-el-anatsui-2026",
@@ -428,7 +428,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -457,7 +457,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -485,7 +485,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -515,9 +515,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-venice-gb-lubaina-himid-2026",
@@ -544,9 +544,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-moma-odili-donald-odita-2026",
@@ -573,7 +573,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -603,7 +603,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -632,7 +632,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -662,7 +662,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -690,9 +690,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-expo-chicago-2026",
@@ -720,7 +720,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -750,7 +750,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -777,9 +777,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "verified": true,
-      "verified_date": "2026-04-11",
-      "confidence": "high"
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-met-arts-of-africa-2025",
@@ -807,7 +807,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -836,7 +836,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -864,7 +864,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -892,7 +892,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -923,9 +923,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "verified": true,
-      "verified_date": "2026-04-11",
-      "confidence": "high"
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-ysp-kentridge-2025",
@@ -954,9 +954,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-fondation-h-shonibare-2025",
@@ -988,7 +988,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1017,7 +1017,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1045,7 +1045,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1074,7 +1074,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1104,7 +1104,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1132,9 +1132,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "verified": true,
-      "verified_date": "2026-04-11",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-06-24",
+      "confidence": "medium"
     },
     {
       "id": "exh-234-art-fair-lagos-2026",
@@ -1162,7 +1162,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1195,7 +1195,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1227,7 +1227,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1256,7 +1256,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1284,7 +1284,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1313,7 +1313,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1341,7 +1341,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1372,7 +1372,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -1400,9 +1400,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-zeitz-mocaa-opoku-2025",
@@ -1430,9 +1430,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-richmond-diaspora-2026",
@@ -1460,7 +1460,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1488,7 +1488,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -1517,7 +1517,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -1546,9 +1546,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "verified": true,
-      "verified_date": "2026-04-11",
-      "confidence": "high"
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-tate-britain-hurvin-anderson-2026",
@@ -1575,7 +1575,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1609,7 +1609,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1639,7 +1639,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1669,7 +1669,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1699,7 +1699,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1729,9 +1729,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
-      "verified": true,
-      "verified_date": "2026-04-11",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-06-24",
+      "confidence": "medium"
     },
     {
       "id": "exh-tafeta-delano-2026",
@@ -1757,9 +1757,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
-      "verified": true,
-      "verified_date": "2026-04-11",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-06-24",
+      "confidence": "medium"
     },
     {
       "id": "exh-turner-prize-2025",
@@ -1790,7 +1790,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1819,9 +1819,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "focus": "diaspora",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-gasworks-nengudi-2026",
@@ -1850,7 +1850,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "diaspora",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -1881,7 +1881,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -1909,9 +1909,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "diaspora",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-hayward-mickalene-thomas-2025",
@@ -1941,7 +1941,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -1968,9 +1968,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "diaspora",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-gallery1957-fadugba-2025",
@@ -1998,7 +1998,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2027,7 +2027,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2055,7 +2055,7 @@ const WSW_DATA = {
       "status": "upcoming",
       "focus": "diaspora",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -2083,7 +2083,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2111,7 +2111,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -2138,9 +2138,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "significant",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-rosenfeld-figuration-2026",
@@ -2167,7 +2167,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -2196,7 +2196,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2224,7 +2224,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2254,7 +2254,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -2283,7 +2283,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "featured",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2310,7 +2310,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -2338,9 +2338,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-cca-lagos-reopening-2025",
@@ -2365,9 +2365,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-ko-obodo-2025",
@@ -2394,9 +2394,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-rele-emore-2025",
@@ -2424,7 +2424,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2456,7 +2456,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -2484,7 +2484,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2512,9 +2512,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-thought-pyramid-auchi-2025",
@@ -2540,7 +2540,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2568,7 +2568,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -2596,7 +2596,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2626,7 +2626,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2655,7 +2655,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -2682,9 +2682,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-rele-ahiakwo-2025",
@@ -2710,9 +2710,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-affinity-wolf-2025",
@@ -2740,7 +2740,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -2772,7 +2772,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -2803,7 +2803,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2832,7 +2832,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2861,7 +2861,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2888,7 +2888,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -2916,9 +2916,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-lgw-2026",
@@ -2947,7 +2947,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -2976,7 +2976,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -3004,9 +3004,9 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
-      "verified": false,
-      "verified_date": "2026-04-11",
-      "confidence": "low"
+      "verified": "pending",
+      "verified_date": "2026-06-24",
+      "confidence": "medium"
     },
     {
       "id": "exh-nomadic-ayihawu-2026",
@@ -3033,7 +3033,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -3060,7 +3060,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -3089,7 +3089,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3118,7 +3118,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3147,7 +3147,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -3174,7 +3174,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -3201,7 +3201,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3232,7 +3232,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3262,7 +3262,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3292,7 +3292,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3322,7 +3322,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -3350,7 +3350,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3380,7 +3380,7 @@ const WSW_DATA = {
       "status": "upcoming",
       "focus": "featured",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3412,7 +3412,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "featured",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3442,7 +3442,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "featured",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3472,7 +3472,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "featured",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3504,7 +3504,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3532,7 +3532,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3561,7 +3561,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3593,7 +3593,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3623,7 +3623,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -3653,9 +3653,9 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-lafayette-bennani-2025",
@@ -3682,9 +3682,9 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-mep-dennis-morris-2025",
@@ -3710,9 +3710,9 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "diaspora",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-white-cube-paris-gates-2026",
@@ -3739,9 +3739,9 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "diaspora",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-hauser-wirth-bowling-2025",
@@ -3768,7 +3768,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -3796,7 +3796,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -3826,7 +3826,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "featured",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3855,9 +3855,9 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
-      "verified": true,
-      "verified_date": "2026-04-11",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-06-24",
+      "confidence": "medium"
     },
     {
       "id": "exh-mariane-ibrahim-paris-cosmos-2025",
@@ -3886,7 +3886,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -3913,9 +3913,9 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "significant",
-      "verified": "pending",
-      "verified_date": "2026-04-11",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-gallery1957-ali-2025",
@@ -3943,7 +3943,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -3972,7 +3972,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4001,7 +4001,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -4029,7 +4029,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4058,7 +4058,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -4087,7 +4087,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4117,7 +4117,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4144,7 +4144,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4172,7 +4172,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -4199,7 +4199,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -4227,7 +4227,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4256,7 +4256,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4284,7 +4284,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4318,7 +4318,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -4348,7 +4348,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -4377,9 +4377,9 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
-      "verified": true,
-      "verified_date": "2026-04-11",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-06-24",
+      "confidence": "medium"
     },
     {
       "id": "exh-partcours-dakar-2025",
@@ -4408,7 +4408,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -4436,7 +4436,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4468,7 +4468,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4496,9 +4496,9 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "current",
       "focus": "dedicated",
-      "verified": false,
-      "verified_date": "2026-04-11",
-      "confidence": "low"
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-ps1-goliath-2025",
@@ -4526,7 +4526,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4556,7 +4556,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4589,7 +4589,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4619,7 +4619,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4648,7 +4648,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4675,7 +4675,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4701,7 +4701,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4726,9 +4726,9 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
-      "verified": true,
-      "verified_date": "2026-04-11",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-06-24",
+      "confidence": "medium"
     },
     {
       "id": "exh-studio-museum-kiwanga-2026",
@@ -4756,7 +4756,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4785,7 +4785,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4814,7 +4814,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4843,7 +4843,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4872,7 +4872,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4901,7 +4901,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4931,7 +4931,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -4960,7 +4960,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": false,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "low"
     },
     {
@@ -4990,7 +4990,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "medium"
     },
     {
@@ -5020,7 +5020,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -5047,7 +5047,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -5076,7 +5076,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-04-11",
+      "verified_date": "2026-06-24",
       "confidence": "high"
     },
     {
@@ -5104,7 +5104,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-pippy-houldsworth-omuku-2026",
@@ -5129,7 +5132,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-almas-ts-ahmed-2026",
@@ -5155,7 +5161,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-orsay-youssef-nabil-2026",
@@ -5181,7 +5190,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-quai-branly-kwame-akoto-2026",
@@ -5206,7 +5218,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-afikaris-onuzulike-2026",
@@ -5232,7 +5247,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-templon-diagne-2026",
@@ -5257,7 +5275,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-palais-de-tokyo-sarre-2026",
@@ -5282,7 +5303,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-hauser-wirth-paris-gaines-2026",
@@ -5308,7 +5332,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-flag-deborah-roberts-2026",
@@ -5335,7 +5362,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-lisson-akomfrah-2026",
@@ -5362,7 +5392,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-stevenson-ct-ndzube-2026",
@@ -5389,7 +5422,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": "pending",
+      "verified_date": "2026-06-24",
+      "confidence": "medium"
     },
     {
       "id": "exh-zeitz-mocaa-cauleen-smith-2026",
@@ -5416,7 +5452,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-goodman-ct-nicodemus-2026",
@@ -5442,7 +5481,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-norval-zvavahera-2026",
@@ -5467,7 +5509,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-smithsonian-makonnen-2026",
@@ -5493,7 +5538,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-nmaahc-vanguard-2026",
@@ -5518,7 +5566,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-getty-black-arts-movement-2026",
@@ -5541,7 +5592,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-rele-akpojotor-2026",
@@ -5569,7 +5623,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-nubuke-amenuke-2026",
@@ -5596,7 +5653,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-ncai-kamwathi-2026",
@@ -5622,7 +5682,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-eastafab-nairobi-2026",
@@ -5647,7 +5710,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-smo-arami-celebration-2026",
@@ -5673,7 +5739,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-ko-spring-salon-2026",
@@ -5698,7 +5767,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-thought-pyramid-nok8-2026",
@@ -5723,7 +5795,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-adegbola-efuru-2026",
@@ -5748,7 +5823,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
-      "status": "past"
+      "status": "past",
+      "verified": "pending",
+      "verified_date": "2026-06-24",
+      "confidence": "medium"
     },
     {
       "id": "exh-rele-sanni-adeniyi-2026",
@@ -5773,7 +5851,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-affinity-amusan-2026",
@@ -5800,7 +5881,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
-      "status": "past"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     },
     {
       "id": "exh-akete-collection-opening-2026",
@@ -5826,7 +5910,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-06-24",
+      "confidence": "low"
     },
     {
       "id": "exh-design-week-lagos-2026",
@@ -5851,7 +5938,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-06-24",
+      "confidence": "high"
     }
   ],
   "artists": [
@@ -9270,5 +9360,5 @@ const WSW_DATA = {
       "notes": "Museum of Modern and Contemporary Art, Ikoyi. Designed by Tosin Oshinowo. Opening October 2026"
     }
   ],
-  "generated": "2026-05-11 00:27"
+  "generated": "2026-06-24 03:23"
 };
