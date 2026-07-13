@@ -107,5 +107,8 @@ Results saved to exhibitions.json as `verified`, `verified_date`, `confidence` f
 - Safari does not support `overflow-x: clip` reliably — avoid it.
 - Always test mobile layout in Safari (iPhone) not just Chrome DevTools.
 
+## Git hooks
+- **pre-commit** (`.git/hooks/pre-commit`): Automatically refreshes exhibition statuses (upcoming/current/past) based on today's date, rebuilds the site if any changed, and stages the updated files. Runs on every commit — no manual status updates needed.
+
 ## Commit discipline
-Run `python cli/wsw.py validate` before every commit.
+Run `python cli/wsw.py validate` before every commit. The pre-commit hook handles status refresh and rebuild automatically.
