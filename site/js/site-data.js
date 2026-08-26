@@ -1482,7 +1482,7 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "5th edition directed by Folakunle Oshun. Interrogates what makes certain artworks visible while others remain obscured by market forces.",
-      "url": "",
+      "url": "https://lagos-biennial.org/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
@@ -1511,7 +1511,7 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Seven specialized sections. Followed by 16-day Open City citywide initiative across Johannesburg.",
-      "url": "",
+      "url": "https://artjoburg.com/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
@@ -3830,36 +3830,6 @@ const WSW_DATA = {
       "confidence": "medium"
     },
     {
-      "id": "exh-fakhoury-reindorf-2025",
-      "title": "Na Chainkua Reindorf: Strange Flesh",
-      "artist_ids": [
-        "art-na-chainkua-reindorf"
-      ],
-      "venue_id": "ven-galerie-cecile-fakhoury",
-      "city": "Paris",
-      "country": "France",
-      "region": "Europe",
-      "start_date": "2025-06-01",
-      "end_date": "2025-09-30",
-      "type": "solo",
-      "admission": "free",
-      "mediums": [
-        "tapestry",
-        "sculpture",
-        "painting"
-      ],
-      "description": "Ghanaian artist conjures a fictional female masquerade society through tapestries, sculptures and paintings. Galerie Cecile Fakhoury operates across Abidjan, Dakar and Paris.",
-      "url": "https://cecilefakhoury.com/en/exhibitions/108-strange-flesh-na-chainkua-reindorf-dakar/overview/",
-      "image_url": "",
-      "source": "manual",
-      "added_date": "2026-04-11",
-      "status": "past",
-      "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-08-27",
-      "confidence": "medium"
-    },
-    {
       "id": "exh-mariane-ibrahim-paris-cosmos-2025",
       "title": "Door to the Cosmos",
       "artist_ids": [
@@ -4121,8 +4091,8 @@ const WSW_DATA = {
       "confidence": "high"
     },
     {
-      "id": "exh-circle-art-new-discoveries-2025",
-      "title": "New Discoveries: 6 New Artists",
+      "id": "exh-circle-art-new-visions-2025",
+      "title": "New Visions",
       "artist_ids": [],
       "venue_id": "ven-circle-art-nairobi",
       "city": "Nairobi",
@@ -4149,7 +4119,7 @@ const WSW_DATA = {
     },
     {
       "id": "exh-one-off-muriithi-2025",
-      "title": "Simon Muriithi: Troubled Neighbours",
+      "title": "Simon Muriithi: My Troubled Neighbour",
       "artist_ids": [
         "art-simon-muriithi"
       ],
@@ -4165,7 +4135,7 @@ const WSW_DATA = {
         "printmaking"
       ],
       "description": "Masterful print show by veteran printmaker. One of few artists in the region producing etchings with embossing. Investigates animals, birds, and humans who struggle to co-exist.",
-      "url": "",
+      "url": "https://www.oneoffcontemporaryartgallery.com/simon-muriithi---my-troubled-neighbour.html",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
@@ -4322,8 +4292,8 @@ const WSW_DATA = {
       "confidence": "low"
     },
     {
-      "id": "exh-raw-material-opoku-2025",
-      "title": "Zohra Opoku: With Every Fiber of (my) Being",
+      "id": "exh-raw-material-opoku-2024",
+      "title": "Zohra Opoku: With Every Fibre of (My) Being",
       "artist_ids": [
         "art-zohra-opoku"
       ],
@@ -4331,8 +4301,8 @@ const WSW_DATA = {
       "city": "Dakar",
       "country": "Senegal",
       "region": "West Africa",
-      "start_date": "2025-05-01",
-      "end_date": "2025-08-31",
+      "start_date": "2024-05-19",
+      "end_date": "2024-06-16",
       "type": "solo",
       "admission": "free",
       "mediums": [
@@ -4352,7 +4322,7 @@ const WSW_DATA = {
       "confidence": "low"
     },
     {
-      "id": "exh-fakhoury-dakar-reindorf-2025",
+      "id": "exh-fakhoury-dakar-reindorf-2024",
       "title": "Na Chainkua Reindorf: Strange Flesh (Dakar)",
       "artist_ids": [
         "art-na-chainkua-reindorf"
@@ -4361,8 +4331,8 @@ const WSW_DATA = {
       "city": "Dakar",
       "country": "Senegal",
       "region": "West Africa",
-      "start_date": "2025-05-01",
-      "end_date": "2025-08-31",
+      "start_date": "2024-05-15",
+      "end_date": "2024-10-12",
       "type": "solo",
       "admission": "free",
       "mediums": [
@@ -4401,7 +4371,7 @@ const WSW_DATA = {
         "installation"
       ],
       "description": "Annual Dakar gallery circuit coordinating simultaneous openings across commercial galleries and independent spaces. A key moment for the Dakar art market outside biennial years.",
-      "url": "",
+      "url": "https://partcours.art/annee/2025/?post_type=editions",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
@@ -4706,21 +4676,21 @@ const WSW_DATA = {
     },
     {
       "id": "exh-studio-museum-expanding-walls-2025",
-      "title": "Expanding the Walls: Photography, History, and Community",
+      "title": "at an arm's length: Expanding the Walls 2025",
       "artist_ids": [],
       "venue_id": "ven-studio-museum-harlem",
       "city": "New York",
       "country": "United States",
       "region": "North America",
-      "start_date": "2025-11-15",
-      "end_date": "2026-04-12",
+      "start_date": "2025-07-29",
+      "end_date": "2026-06-21",
       "type": "group",
-      "admission": "paid",
+      "admission": "free",
       "mediums": [
         "photography"
       ],
       "description": "Works by teen participants from the Museum's free photography programme shown alongside images by celebrated Harlem photographer James Van Der Zee.",
-      "url": "https://www.studiomuseum.org/exhibitions/expanding-the-walls-making-connections-between-photography-history-and-community",
+      "url": "https://www.studiomuseum.org/exhibitions/at-an-arms-length-expanding-the-walls-2025",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
@@ -5906,7 +5876,7 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Opening of Lagos's first dedicated museum of modern and contemporary African art. Designed by Tosin Oshinowo. Will serve as main exhibition hub during the Lagos Biennial 2026.",
-      "url": "",
+      "url": "https://lagos-biennial.org/lagos-biennial-announces-the-akete-collection/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
@@ -6527,7 +6497,7 @@ const WSW_DATA = {
       "description": "Fourth and final stop of the touring exhibition examining Pan-Africanism's influence on visual art and culture.",
       "source": "manual",
       "added_date": "2026-07-13",
-      "url": "",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet-the-art-and-culture-of-panafrica",
       "image_url": "",
       "status": "upcoming",
       "verified": false,
@@ -7342,7 +7312,7 @@ const WSW_DATA = {
       "description": "19th edition of South Africa's leading art fair.",
       "source": "manual",
       "added_date": "2026-07-13",
-      "url": "",
+      "url": "https://artjoburg.com/",
       "image_url": "",
       "status": "upcoming",
       "verified": false,
@@ -7425,7 +7395,7 @@ const WSW_DATA = {
       "description": "9th edition curated by Sorana Munsya and Jermay Michael Gabriel.",
       "source": "manual",
       "added_date": "2026-07-13",
-      "url": "",
+      "url": "https://biennialfoundation.org/2026/05/lubumbashi-biennale-2026-announces-curators-sorana-munsya-and-jermay-michael-gabriel/",
       "image_url": "",
       "status": "upcoming",
       "verified": false,
@@ -7451,7 +7421,7 @@ const WSW_DATA = {
       "description": "Africa's premier photography biennial. 15th edition curated by Armelle Dakouo, first Francophone African woman to lead the biennial's artistic direction.",
       "source": "manual",
       "added_date": "2026-07-13",
-      "url": "",
+      "url": "https://biennialfoundation.org/2026/06/bamako-encounters-african-biennale-of-photography-announces-open-call-for-applications/",
       "image_url": "",
       "status": "upcoming",
       "verified": false,
@@ -12134,5 +12104,5 @@ const WSW_DATA = {
       "notes": ""
     }
   ],
-  "generated": "2026-08-27 00:41"
+  "generated": "2026-08-27 00:52"
 };
