@@ -35,7 +35,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -67,10 +67,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "status": "past",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-brooklyn-museum-seydou-keita-2025",
@@ -98,7 +98,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -124,13 +124,13 @@ const WSW_DATA = {
       ],
       "focus": "diaspora",
       "description": "Explores the intersections of Blackness and the cosmos across three floors. Features artists including Lorna Simpson, Rashaad Newsome, Harmonia Rosales, and Gustavo Nazareno.",
-      "url": "https://www.moadsf.org/exhibitions",
+      "url": "https://www.moadsf.org/exhibitions/unbound-art-blackness-the-universe",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -160,7 +160,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -193,7 +193,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -221,7 +221,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -252,7 +252,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -281,7 +281,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -311,7 +311,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -341,7 +341,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -370,7 +370,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -399,7 +399,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -428,7 +428,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -457,7 +457,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -485,7 +485,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -515,9 +515,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "verified": false,
-      "verified_date": "2026-06-24",
-      "confidence": "low"
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-venice-gb-lubaina-himid-2026",
@@ -545,7 +545,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -572,9 +572,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-investec-cape-town-art-fair-2026",
@@ -597,13 +597,13 @@ const WSW_DATA = {
       ],
       "focus": "significant",
       "description": "Africa's largest art fair, bringing together galleries from across the continent and internationally. Features curated sections, talks, and collector programmes.",
-      "url": "https://investeccapetownartfair.co.za",
+      "url": "https://www.investeccapetownartfair.co.za/story/6913134fd367148f741d1292",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -632,7 +632,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -662,7 +662,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -691,7 +691,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -720,7 +720,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -750,7 +750,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -778,7 +778,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -807,7 +807,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -836,7 +836,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -864,7 +864,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -892,7 +892,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -923,9 +923,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "verified": false,
-      "verified_date": "2026-06-24",
-      "confidence": "low"
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-ysp-kentridge-2025",
@@ -955,7 +955,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -988,7 +988,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1017,7 +1017,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1044,9 +1044,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-goodman-nyc-nhlengethwa-2026",
@@ -1074,7 +1074,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1104,7 +1104,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1127,13 +1127,13 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Solo by the South African artist known for assemblage, drawing and installation exploring displacement and belonging.",
-      "url": "https://www.stevenson.info/exhibitions-upcoming",
+      "url": "https://stevenson.info/exhibition/10497",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -1162,7 +1162,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1195,7 +1195,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1227,7 +1227,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1256,7 +1256,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1284,7 +1284,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1313,7 +1313,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1341,7 +1341,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1372,7 +1372,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -1401,7 +1401,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1431,7 +1431,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1460,7 +1460,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1488,7 +1488,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "upcoming",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -1517,7 +1517,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -1547,7 +1547,7 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -1572,10 +1572,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1609,7 +1609,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1639,7 +1639,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1669,7 +1669,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1692,14 +1692,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Third installment of twelve-part narrative series reimagining global history. Counter-historiography by Frohawk Two Feathers.",
-      "url": "https://www.tiwani.co.uk/exhibitions/",
+      "url": "https://www.tiwani.co.uk/exhibitions/105-umar-rashid-the-epoch-of-totalitarianism-part-3-the/overview/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1723,15 +1723,15 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Group show with Zana Masombuka, Eddy Kamuanga Ilunga, Alexis Peskine and Djibril Drame exploring identity as heritage.",
-      "url": "https://www.octobergallery.co.uk/",
+      "url": "https://www.octobergallery.co.uk/exhibitions/inheriting-the-future",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-06-24",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-tafeta-delano-2026",
@@ -1751,14 +1751,14 @@ const WSW_DATA = {
         "painting"
       ],
       "description": "First solo at TAFETA. Paintings of cows in Nigeria as signifiers of human instinct, honesty, beauty and roughness.",
-      "url": "https://www.tafeta.com",
+      "url": "https://www.tafeta.com/past-exhibitions/project-one-f5w4d-z9nem-s3jda-eyssk-73f62-tmxz9-yyga7-5xtk7-mmm6h-f7gm7-xl3n7-yxnsl-pdcan-l332z-dzz3n-4r62g-hwnjc-skmab-9xzmp-b7xc3",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -1790,7 +1790,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1820,7 +1820,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1850,7 +1850,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -1878,10 +1878,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1910,7 +1910,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -1934,14 +1934,14 @@ const WSW_DATA = {
         "photography"
       ],
       "description": "Major solo at Hayward Gallery. Rhinestone-studded portraits and environments celebrating Black women and queer identity.",
-      "url": "https://www.southbankcentre.co.uk/venues/hayward-gallery",
+      "url": "https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/mickalene-thomas-all-about-love/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "diaspora",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -1969,7 +1969,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -1998,7 +1998,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2027,7 +2027,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2055,7 +2055,7 @@ const WSW_DATA = {
       "status": "upcoming",
       "focus": "diaspora",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -2076,42 +2076,42 @@ const WSW_DATA = {
         "painting"
       ],
       "description": "Haitian-Canadian painter's second solo at Pilar Corrias. Invited by Koyo Kouoh to the 2026 Venice Biennale.",
-      "url": "https://www.pilarcorrias.com/exhibitions/",
+      "url": "https://www.pilarcorrias.com/exhibitions/498-manuel-mathieu-bury-your-masters/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
-      "id": "exh-gagosian-gordon-parks-2026",
+      "id": "exh-alison-jacques-gordon-parks-2026",
       "title": "Gordon Parks: We Shall Not Be Moved",
       "artist_ids": [
         "art-gordon-parks"
       ],
-      "venue_id": "ven-gagosian-london",
+      "venue_id": "ven-alison-jacques-london",
       "city": "London",
       "country": "United Kingdom",
       "region": "Europe",
-      "start_date": "2026-01-15",
-      "end_date": "2026-04-30",
+      "start_date": "2026-03-05",
+      "end_date": "2026-04-11",
       "type": "solo",
       "admission": "free",
       "mediums": [
         "photography"
       ],
       "description": "Curated by Bryan Stevenson (Equal Justice Initiative founder). Parks' most celebrated works documenting the struggle, resilience and striving of Black Americans.",
-      "url": "https://gagosian.com",
+      "url": "https://alisonjacques.com/exhibitions/gordon-parks-we-shall-not-be-moved",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "diaspora",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -2139,7 +2139,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2167,7 +2167,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -2189,14 +2189,14 @@ const WSW_DATA = {
         "installation"
       ],
       "description": "In Focus presentation. Charcoal drawings influenced by photography's evidential value, referencing 19th-century daguerreotype plates.",
-      "url": "https://www.tiwani.co.uk/exhibitions/",
+      "url": "https://www.tiwani.co.uk/exhibitions/101-in-focus-felix-shumba-for-want-of-a-horse-a-button-was/overview/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2224,7 +2224,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2247,14 +2247,14 @@ const WSW_DATA = {
         "textiles"
       ],
       "description": "Annual London edition during Frieze Week. The only art fair dedicated exclusively to contemporary African and diasporic art.",
-      "url": "https://www.1-54.com/",
+      "url": "https://www.1-54.com/london/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -2276,14 +2276,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Annual fair with African Art Hub section. 2026 edition featured Anya Paintsil and other diaspora artists highlighted across satellite shows.",
-      "url": "https://www.londonartfair.co.uk/",
+      "url": "https://www.londonartfair.co.uk/2026-galleries/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "featured",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2310,7 +2310,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -2339,7 +2339,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2366,7 +2366,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2395,7 +2395,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2424,7 +2424,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2456,7 +2456,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -2484,7 +2484,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2513,7 +2513,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2540,7 +2540,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2568,7 +2568,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -2596,7 +2596,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2626,7 +2626,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2648,14 +2648,14 @@ const WSW_DATA = {
         "ceramics"
       ],
       "description": "SMO Contemporary Art restored and curated 70+ large-scale modernist artworks plus 1,000+ historic objects. Opened by President Tinubu. Most significant public collection of modernist art in Nigeria.",
-      "url": "https://nationaltheatre.gov.ng/",
+      "url": "https://nationaltheatre.gov.ng/wolesoyinkacentre",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -2683,7 +2683,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -2711,7 +2711,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2733,14 +2733,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "South African artist Lulama Wolf's first solo in Nigeria. Explores duality of fragility and endurance. Curated by Anelisa Mangcu.",
-      "url": "https://galleryaffinity.com/",
+      "url": "https://galleryaffinity.com/exhibition/lulama-solo.html",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -2772,7 +2772,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -2796,14 +2796,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "First solo show in Lagos by internationally acclaimed designer Nifemi Marcus-Bello. Practice interrogates material histories and identity. Co-presented by Tiwani and Marta Los Angeles.",
-      "url": "https://www.tiwani.co.uk/exhibitions/",
+      "url": "https://www.tiwani.co.uk/exhibitions/104-nifemi-marcus-bello-material-affirmations-oriki-acts-i-iii/overview/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2832,7 +2832,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2861,7 +2861,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2881,14 +2881,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "11th edition of Rele Arts Foundation's Young Contemporaries programme. Three emerging artists from the Foundation's residency in Ekiti State.",
-      "url": "https://www.rele.co/exhibitions/",
+      "url": "https://www.rele.co/exhibitions/92-young-contemporaries-2026-lagos/overview/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -2917,7 +2917,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2947,7 +2947,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -2976,7 +2976,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -3005,7 +3005,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -3033,7 +3033,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -3060,7 +3060,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -3082,14 +3082,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Tiwani Contemporary Lagos's opening show of 2025. Ghanaian-British artist Emma Prempeh exploring belonging, identity, and in-betweenness.",
-      "url": "https://www.tiwani.co.uk/exhibitions/",
+      "url": "https://www.tiwani.co.uk/exhibitions/97-emma-prempeh-belonging-in-between/overview/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3118,7 +3118,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3140,14 +3140,14 @@ const WSW_DATA = {
         "installation"
       ],
       "description": "Multi-year programme at Europe's most important space for African and diasporic art. Five acts spanning exhibitions, performances and research projects. Now under direction of Lema Sikod.",
-      "url": "https://savvy-contemporary.com/en/projects/",
+      "url": "https://savvy-contemporary.com/en/projects/2026/desacta/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -3167,14 +3167,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Research and exhibition marking 140 years since the Berlin Conference (1884-85) that partitioned Africa. Artists and researchers examining colonial legacy.",
-      "url": "https://savvy-contemporary.com/en/projects/2025/",
+      "url": "https://savvy-contemporary.com/en/projects/2026/desacta/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -3194,14 +3194,14 @@ const WSW_DATA = {
         "performance"
       ],
       "description": "Six-month programme of sonic interventions and listening sessions featuring Chimurenga, Matana Roberts, Chicoco Radio and other artists.",
-      "url": "https://savvy-contemporary.com/en/projects/2025/",
+      "url": "https://savvy-contemporary.com/en/projects/2025/re-mixing-the-stage/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3225,14 +3225,14 @@ const WSW_DATA = {
         "performance"
       ],
       "description": "First comprehensive solo in Germany. Punk meets glamour, queer activism meets Black counter-culture. Large-scale installations spanning Davis's expansive oeuvre.",
-      "url": "https://www.berlinerfestspiele.de/en/gropius-bau/programm/2025/ausstellungen",
+      "url": "https://www.berlinerfestspiele.de/en/gropius-bau/programm/2025/ausstellungen/vaginal-davis",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3255,14 +3255,14 @@ const WSW_DATA = {
         "film"
       ],
       "description": "Most comprehensive solo to date. Afro-Caribbean artist and choreographer who is a central figure in redefining performance within visual arts. Combines live installation and film.",
-      "url": "https://www.berlinerfestspiele.de/en/gropius-bau/programm/2025/ausstellungen",
+      "url": "https://www.berlinerfestspiele.de/en/gropius-bau/programm/2025/ausstellungen/ligia-lewis",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3292,7 +3292,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3315,14 +3315,14 @@ const WSW_DATA = {
         "sound"
       ],
       "description": "Solo at Hamburger Bahnhof as part of the museum's 30th anniversary programme. French-Algerian artist works across installation, sculpture and sound.",
-      "url": "https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/exhibitions/current/",
+      "url": "https://www.smb.museum/en/exhibitions/detail/saadane-afif/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -3350,7 +3350,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3380,7 +3380,7 @@ const WSW_DATA = {
       "status": "upcoming",
       "focus": "featured",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3405,14 +3405,14 @@ const WSW_DATA = {
         "installation"
       ],
       "description": "22nd edition. 57 galleries open simultaneously. Kara Walker at Spruth Magers featured as highlight. New 'Perspectives' format launching.",
-      "url": "https://www.gallery-weekend-berlin.de/",
+      "url": "https://www.gallery-weekend-berlin.de/journal/save-the-date-gallery-weekend-berlin-2026/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "featured",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3435,14 +3435,14 @@ const WSW_DATA = {
         "installation"
       ],
       "description": "Annual city-wide art week with 140,000+ visitors. Includes Hamburger Bahnhof, KW, Gropius Bau, SAVVY Contemporary, and galleries across the city.",
-      "url": "https://www.berlin.de/en/exhibitions/",
+      "url": "https://berlinartweek.de/en/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "featured",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3465,15 +3465,15 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Long-running Nationalgalerie collection presentation. Berlin's art scene in global dialogue from 1989 to today. International artists including African and diaspora works.",
-      "url": "https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/exhibitions/current/",
+      "url": "https://www.smb.museum/en/exhibitions/detail/museum-in-motion/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "focus": "featured",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-pompidou-paris-noir-2025",
@@ -3504,7 +3504,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3532,7 +3532,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3561,7 +3561,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3593,7 +3593,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3623,7 +3623,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -3654,7 +3654,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3683,7 +3683,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3711,7 +3711,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3740,7 +3740,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "diaspora",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3761,14 +3761,14 @@ const WSW_DATA = {
         "painting"
       ],
       "description": "Exhibition at Hauser and Wirth Paris concurrent with Paris Noir. Guyanese-British painter known for large-scale abstract works exploring Caribbean and diasporic identity.",
-      "url": "https://www.hauserwirth.com",
+      "url": "https://www.hauserwirth.com/hauser-wirth-exhibitions/frank-bowling-collage-paris/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "diaspora",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -3789,14 +3789,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Exhibition on wax fabric: its history and influence on fashion, art and design. Explores the complex colonial and postcolonial trajectories of this African-identified material.",
-      "url": "https://www.museedelhomme.fr",
+      "url": "https://www.museedelhomme.fr/en/node/991",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -3819,15 +3819,15 @@ const WSW_DATA = {
         "installation"
       ],
       "description": "Third edition of Art Basel's Paris fair during Paris Art Week. Major international galleries including those representing African and diaspora artists.",
-      "url": "https://www.artbasel.com",
+      "url": "https://www.artbasel.com/paris",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "featured",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-fakhoury-reindorf-2025",
@@ -3849,14 +3849,14 @@ const WSW_DATA = {
         "painting"
       ],
       "description": "Ghanaian artist conjures a fictional female masquerade society through tapestries, sculptures and paintings. Galerie Cecile Fakhoury operates across Abidjan, Dakar and Paris.",
-      "url": "https://www.cecilefakhoury.com",
+      "url": "https://cecilefakhoury.com/en/exhibitions/108-strange-flesh-na-chainkua-reindorf-dakar/overview/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -3879,14 +3879,14 @@ const WSW_DATA = {
         "installation"
       ],
       "description": "Group exhibition tracing constellations across past, present and future. Works traversing antiquity, speculative futures and cosmic realms. Features Zohra Opoku and others.",
-      "url": "https://marianeibrahim.com/exhibitions/",
+      "url": "https://marianeibrahim.com/exhibitions/110-door-to-the-cosmos-group-exhibition/overview/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -3914,7 +3914,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3943,7 +3943,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -3972,7 +3972,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4001,7 +4001,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -4022,14 +4022,14 @@ const WSW_DATA = {
         "painting"
       ],
       "description": "Quaicoe returns to Ghana with work celebrating Black leisure, joy, and the radical act of rest. First solo exhibition in his country of birth. A homecoming and meditation on water's capacity to hold and transform.",
-      "url": "https://www.gallery1957.com/exhibitions/current/",
+      "url": "https://www.gallery1957.com/exhibitions/131-otis-kwame-kye-quaicoe-where-the-waters-gallery-ii-accra",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4051,14 +4051,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Draws on family archive of photographs from 1960s-70s depicting Ghana's post-independence period. Transforms vintage photographs into tactile records using image transfer techniques.",
-      "url": "https://www.gallery1957.com/exhibitions/current/",
+      "url": "https://www.gallery1957.com/exhibitions/132-denyse-gawu-mensah-lightyears-of-us-curated-by-angelica-litta-modignani-gallery-i/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -4080,15 +4080,15 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Almost a decade after inaugurating Gallery 1957 with his debut solo in 2016, Clottey returns to take over the entire 1,400 sqm Unlimited Gallery. The first and only solo exhibition in this massive space.",
-      "url": "https://www.gallery1957.com/exhibitions/current/",
+      "url": "https://www.gallery1957.com/exhibitions/133-serge-attukwei-clottey-dis-appearing-rituals-an-open-co-curated-by-allotey-bruce-konuah-and-ato-annan/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-limbo-museum-sylvester-2025",
@@ -4117,7 +4117,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4137,14 +4137,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Circle Art Gallery introduces six emerging artists from across East Africa: Kenya, Uganda, Ethiopia, Tanzania.",
-      "url": "https://circleartagency.com/exhibitions/",
+      "url": "https://circleartagency.com/exhibitions/70-new-visions-circle-art-gallery/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4172,7 +4172,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -4199,7 +4199,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -4220,14 +4220,14 @@ const WSW_DATA = {
         "painting"
       ],
       "description": "Major exhibition covering 60-year career of the Ugandan painter. Long-discussed project between the gallery and artist. Significant institutional-scale presentation.",
-      "url": "https://circleartagency.com/exhibitions/",
+      "url": "https://circleartagency.com/exhibitions/72-theresa-musoke-the-presence-of-living-things-circle-art-gallery/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4249,14 +4249,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Kenyan photographer who has exhibited across continents. Previous solos at Management Gallery NYC and Circle Art. Participated in Dak'Art Biennale 2024.",
-      "url": "https://circleartagency.com/exhibitions/",
+      "url": "https://circleartagency.com/exhibitions/75-tahir-karmali-hang-me-between-your-windows-circle-art-gallery/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4277,14 +4277,14 @@ const WSW_DATA = {
         "painting"
       ],
       "description": "Two concurrent presentations: 'Heaven Can Wait Two' and 'Untold Stories'. Soi's practice functions as a visual diary offering sharp satirical commentary on Nairobi's social and political landscape.",
-      "url": "https://circleartagency.com/exhibitions/",
+      "url": "https://circleartagency.com/exhibitions/78-michael-soi-heaven-can-wait-two-circle-art-gallery-one/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4318,7 +4318,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -4341,14 +4341,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "African textiles trailing off large-scale photographic prints. Standing-room-only roundtable on fabric in African contemporary art. At Raw Material Company, founded by Koyo Kouoh.",
-      "url": "https://www.rawmaterialcompany.org/",
+      "url": "https://www.rawmaterialcompany.org/_4477?lang=en",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -4371,14 +4371,14 @@ const WSW_DATA = {
         "painting"
       ],
       "description": "Ghanaian artist conjures a fictional female masquerade society. Part of the Dak'Art OFF programme at Galerie Cecile Fakhoury's Dakar space.",
-      "url": "https://www.cecilefakhoury.com",
+      "url": "https://cecilefakhoury.com/en/exhibitions/108-strange-flesh-na-chainkua-reindorf-dakar/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -4408,7 +4408,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -4436,7 +4436,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4468,7 +4468,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4496,9 +4496,9 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-ps1-goliath-2025",
@@ -4526,7 +4526,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4553,10 +4553,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
-      "status": "current",
+      "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4589,7 +4589,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4616,10 +4616,10 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
-      "status": "current",
+      "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4641,14 +4641,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "First comprehensive presentation of the Studio Museum's permanent collection in the new building. Traces creativity by artists of African descent across multiple decades.",
-      "url": "https://www.studiomuseum.org/",
+      "url": "https://www.studiomuseum.org/exhibitions/permanent-collection",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
-      "status": "current",
+      "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4668,15 +4668,15 @@ const WSW_DATA = {
         "archival"
       ],
       "description": "Presentation of archival photographs and ephemera spanning the Studio Museum's 56-year history of exhibitions, events, and programmes.",
-      "url": "https://www.studiomuseum.org/",
+      "url": "https://www.studiomuseum.org/exhibitions/studio-museum-archives",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
       "focus": "dedicated",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-studio-museum-air-works-2025",
@@ -4694,14 +4694,14 @@ const WSW_DATA = {
         "works on paper"
       ],
       "description": "Newly created works on paper by nearly all former artists-in-residence, installed in 4th-floor studios. Reflects on the history and impact of the Museum's signature AIR programme.",
-      "url": "https://www.studiomuseum.org/",
+      "url": "https://www.studiomuseum.org/exhibitions/artist-in-residence-alumni-installation",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4720,15 +4720,15 @@ const WSW_DATA = {
         "photography"
       ],
       "description": "Works by teen participants from the Museum's free photography programme shown alongside images by celebrated Harlem photographer James Van Der Zee.",
-      "url": "https://www.studiomuseum.org/",
+      "url": "https://www.studiomuseum.org/exhibitions/expanding-the-walls-making-connections-between-photography-history-and-community",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
-      "verified": "pending",
-      "verified_date": "2026-06-24",
-      "confidence": "medium"
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-studio-museum-kiwanga-2026",
@@ -4756,7 +4756,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4785,7 +4785,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4814,7 +4814,7 @@ const WSW_DATA = {
       "status": "current",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4843,7 +4843,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4871,9 +4871,9 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-bronx-museum-aim-2026",
@@ -4894,14 +4894,14 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Seventh edition of the AIM (Artists in the Marketplace) Biennial. Since 1980, over 1,200 emerging NYC artists have participated in the fellowship programme.",
-      "url": "https://bronxmuseum.org/exhibitions/",
+      "url": "https://bronxmuseum.org/exhibition/seventh-aim-biennial/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4931,7 +4931,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -4960,7 +4960,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "significant",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -4983,14 +4983,14 @@ const WSW_DATA = {
         "works on paper"
       ],
       "description": "Group exhibition spanning over a century of Black art in America. Includes work by Sam Gilliam and other significant African American artists.",
-      "url": "https://www.acagalleries.com",
+      "url": "https://acagalleries.com/exhibitions/83-continuum-over-100-years-of-black-art-173-tenth-avenue/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "dedicated",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -5020,7 +5020,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5047,7 +5047,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5076,7 +5076,7 @@ const WSW_DATA = {
       "status": "past",
       "focus": "dedicated",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5106,7 +5106,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5134,7 +5134,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5163,7 +5163,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "past",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -5192,7 +5192,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "current",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -5220,7 +5220,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5243,14 +5243,14 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Second solo at AFIKARIS. Explores the shield as cultural object across African societies - addressing colonialism, migration, and global warming through ceramic art.",
-      "url": "https://afikaris.com/exhibitions/",
+      "url": "https://afikaris.com/exhibitions/57-shields-ozioma-onuzulike/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "status": "past",
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-templon-diagne-2026",
@@ -5271,14 +5271,14 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Solo by the founder of the Figuro-Abstro movement, combining figuration and abstraction with calligraphic motifs. Previously represented Senegal at the 60th Venice Biennale.",
-      "url": "https://www.templon.com/exhibitions/",
+      "url": "https://www.templon.com/exhibitions/saytou",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "status": "past",
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-palais-de-tokyo-sarre-2026",
@@ -5305,7 +5305,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5334,7 +5334,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "current",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -5364,7 +5364,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5394,7 +5394,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5418,13 +5418,13 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Solo exhibition by Cape Town-born, LA-based artist at Stevenson Cape Town.",
-      "url": "https://www.stevenson.info/exhibitions-current",
+      "url": "https://www.stevenson.info/exhibition/10549",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
       "status": "past",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -5454,7 +5454,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5477,13 +5477,13 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Solo exhibition by Tanzanian-Swedish artist at Goodman Gallery Cape Town.",
-      "url": "https://goodman-gallery.com/exhibitions",
+      "url": "https://goodman-gallery.com/exhibitions/without-history-everlyn-nicodemus",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5505,13 +5505,13 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Deeply expressive paintings by Harare-based artist moving between the physical and spiritual, giving visual form to dreams, memories and lived experiences.",
-      "url": "https://www.norvalfoundation.org/exhibitions/",
+      "url": "https://www.norvalfoundation.org/exhibitions/portia-zvavahera-tanda-rima/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
       "status": "current",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5534,13 +5534,13 @@ const WSW_DATA = {
       ],
       "focus": "diaspora",
       "description": "Sculptures exploring the dehumanization of Black women and themes of motherhood and sisterly solidarity by Ethiopian-American artist.",
-      "url": "https://africa.si.edu/exhibitions/current-exhibitions/",
+      "url": "https://africa.si.edu/exhibitions/tsedaye-makonnen-sanctuary-maqedase-mekdes",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
+      "status": "past",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -5562,13 +5562,13 @@ const WSW_DATA = {
       ],
       "focus": "diaspora",
       "description": "Collections from five HBCUs: Clark Atlanta, Florida A&M, Jackson State, Texas Southern, and Tuskegee. Stories of artistry, resistance and innovation.",
-      "url": "https://nmaahc.si.edu/explore/exhibitions",
+      "url": "https://nmaahc.si.edu/explore/exhibitions/vanguard",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
+      "status": "past",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -5594,7 +5594,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5619,13 +5619,13 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Two-person exhibition marking ten years of shared life and practice. Marcellina works with layered fabric and archival imagery; Patrick approaches painting through the logic of building.",
-      "url": "https://www.rele.co/",
+      "url": "https://www.rele.co/exhibitions/96-woven-and-built-in-tandem-lagos/overview/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5649,13 +5649,13 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Part of Nubuke Foundation's 20th-anniversary programming, curated by Ngone Fall. Large-scale installations of fibres, textiles, discarded clothing, and organic materials exploring mapping and intangible heritage.",
-      "url": "https://nubukefoundation.com/",
+      "url": "https://nubukefoundation.com/dreaming-is-a-map",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5682,9 +5682,9 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-10",
-      "status": "current",
+      "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5712,7 +5712,7 @@ const WSW_DATA = {
       "added_date": "2026-05-10",
       "status": "upcoming",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5735,13 +5735,13 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Group exhibition by SMO Contemporary exploring the intersection of contemporary African art and fine dining. 15 artists from Nigeria, Uganda, Cameroon, South Africa, and the diaspora. Works in textile, wood, metal, bronze, and ceramic.",
-      "url": "https://smocontemporaryart.com/exhibitions/",
+      "url": "https://smocontemporaryart.com/exhibitions/88-celebration/overview/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
-      "status": "current",
+      "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5763,13 +5763,13 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Revisits prominent artists featured in Arthouse Contemporary auctions (2008-2021), highlighting Nigeria's leading artists whose careers blossomed over the past two decades.",
-      "url": "https://ko-artspace.com/exhibitions/",
+      "url": "https://ko-artspace.com/exhibitions/51-spring-salon-arthouse-reframed/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5796,9 +5796,9 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-05-11",
       "status": "past",
-      "verified": true,
-      "verified_date": "2026-06-24",
-      "confidence": "high"
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-adegbola-efuru-2026",
@@ -5819,13 +5819,13 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Drawing from Flora Nwapa's 1966 novel Efuru, celebrates women artists from the 1940s to the present. Features Ladi Kwali, Peju Alatise, Nengi Omuku, Ndidi Emefiele, and others. Curated by Adekepemi Aderemi.",
-      "url": "https://adegbola.com/",
+      "url": "https://adegbola.com/exhibitions/16-efuru-and-the-woman-of-the-lake-curated-by-adekepemi-aderemi/works/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
       "status": "past",
       "verified": "pending",
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "medium"
     },
     {
@@ -5847,13 +5847,13 @@ const WSW_DATA = {
       ],
       "focus": "dedicated",
       "description": "Solo debut. Paintings feature fragmented, fluid figures exploring existential angst, coming of age, and the tension between tangible and intangible. Title from her own poem.",
-      "url": "https://www.rele.co/exhibitions/",
+      "url": "https://www.rele.co/exhibitions/95-between-a-prayer-and-a-song-lagos/overview/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-05-11",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5883,7 +5883,7 @@ const WSW_DATA = {
       "added_date": "2026-05-11",
       "status": "past",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5912,7 +5912,7 @@ const WSW_DATA = {
       "added_date": "2026-05-11",
       "status": "upcoming",
       "verified": false,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "low"
     },
     {
@@ -5940,7 +5940,7 @@ const WSW_DATA = {
       "added_date": "2026-05-11",
       "status": "upcoming",
       "verified": true,
-      "verified_date": "2026-06-24",
+      "verified_date": "2026-08-27",
       "confidence": "high"
     },
     {
@@ -5966,7 +5966,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-mam-paris-marshall-2026",
@@ -5991,7 +5994,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-liljevalchs-when-we-see-us-2025",
@@ -6018,7 +6024,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-vanda-east-carrie-mae-weems-2026",
@@ -6044,7 +6053,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-mcba-nkanga-2026",
@@ -6071,7 +6083,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-joan-miro-kiwanga-2026",
@@ -6098,7 +6113,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-palazzo-grimani-boafo-2026",
@@ -6123,7 +6141,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-lisson-himid-zanzibar-2026",
@@ -6149,7 +6170,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-niru-ratnam-piper-2026",
@@ -6176,7 +6200,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-mariane-ibrahim-johnson-2026",
@@ -6199,11 +6226,14 @@ const WSW_DATA = {
       ],
       "focus": "diaspora",
       "description": "Johnson's first solo exhibition in Europe, exploring Jamaican folklore through the figure of Anansi.",
-      "url": "https://marianeibrahim.com/exhibitions/current/",
+      "url": "https://marianeibrahim.com/exhibitions/120-leasho-johnson-i-am-a-place-as-much-as-i/overview/",
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-thyssen-black-planet-2026",
@@ -6239,32 +6269,39 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
-      "id": "exh-goodman-london-mkonto-2026",
+      "id": "exh-goodman-joburg-mkonto-2026",
       "title": "Unathi Mkonto: If Joburg had a beach, who would go?",
       "artist_ids": [
         "art-unathi-mkonto"
       ],
-      "venue_id": "ven-goodman-gallery-london",
-      "city": "London",
-      "country": "United Kingdom",
-      "region": "Europe",
-      "start_date": "2026-07-16",
-      "end_date": "2026-09-12",
+      "venue_id": "ven-goodman-gallery-joburg",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "region": "Southern Africa",
+      "start_date": "2026-06-06",
+      "end_date": "2026-08-15",
       "type": "solo",
       "admission": "free",
       "mediums": [
-        "painting"
+        "sculpture",
+        "installation"
       ],
       "focus": "dedicated",
-      "url": "https://goodman-gallery.com/exhibitions",
+      "url": "https://www.goodman-gallery.com/exhibitions/if-joburg-had-a-beach-who-would-go-unathi-mkonto",
       "source": "manual",
       "added_date": "2026-07-13",
       "description": "",
       "image_url": "",
-      "status": "upcoming"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-tate-britain-the-90s-2026",
@@ -6294,7 +6331,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-whitechapel-efflatoun-2026",
@@ -6319,7 +6359,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-hasselblad-muholi-2026",
@@ -6345,7 +6388,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-fondation-cartier-mahama-2026",
@@ -6375,7 +6421,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-frieze-london-2026",
@@ -6396,7 +6445,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-art-basel-paris-2026",
@@ -6417,7 +6469,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-1-54-london-oct-2026",
@@ -6438,7 +6493,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-kanal-black-planet-2026",
@@ -6471,7 +6529,10 @@ const WSW_DATA = {
       "added_date": "2026-07-13",
       "url": "",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-saam-nick-cave-2026",
@@ -6498,7 +6559,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-hirshhorn-pendleton-2025",
@@ -6525,7 +6589,10 @@ const WSW_DATA = {
       "added_date": "2026-07-13",
       "description": "",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-hammer-jafa-2026",
@@ -6551,7 +6618,10 @@ const WSW_DATA = {
       "added_date": "2026-07-13",
       "description": "",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-high-museum-sherald-2026",
@@ -6576,7 +6646,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-hauser-wirth-la-norton-2026",
@@ -6614,7 +6687,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-walker-suzanne-jackson-2026",
@@ -6640,7 +6716,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-ica-boston-aamarp-2026",
@@ -6665,7 +6744,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-everson-deborah-roberts-2026",
@@ -6692,7 +6774,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-mca-chicago-shiokava-2026",
@@ -6717,7 +6802,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-pamm-this-is-america-2026",
@@ -6742,11 +6830,14 @@ const WSW_DATA = {
       ],
       "focus": "diaspora",
       "description": "70 artists, 80 works examining US politics, Black American experience, and artistic representation.",
-      "url": "https://www.pamm.org/en/exhibitions/",
+      "url": "https://www.pamm.org/en/exhibition/this-is-america-selections-from-pamms-collection/",
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-moad-broxton-2026",
@@ -6767,12 +6858,15 @@ const WSW_DATA = {
         "installation"
       ],
       "focus": "diaspora",
-      "url": "https://www.moadsf.org/",
+      "url": "https://www.moadsf.org/exhibitions/ancestral-echoes",
       "source": "manual",
       "added_date": "2026-07-13",
       "description": "",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-nmaahc-revelation-2026",
@@ -6803,7 +6897,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-ago-dawoud-bey-2026",
@@ -6829,7 +6926,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-mfa-boston-suzanne-jackson-2026",
@@ -6855,7 +6955,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-ps1-hard-art-2026",
@@ -6885,7 +6988,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-ago-sunday-best-2026",
@@ -6910,7 +7016,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-pamm-anina-major-2026",
@@ -6937,7 +7046,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-pma-el-anatsui-2026",
@@ -6962,7 +7074,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-armory-show-2026",
@@ -6983,7 +7098,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-art-basel-miami-2026",
@@ -7004,7 +7122,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-afrikin-miami-2026",
@@ -7021,11 +7142,14 @@ const WSW_DATA = {
       "mediums": [],
       "focus": "dedicated",
       "description": "12th edition. Curated exhibitions, immersive installations, live performances, and fashion celebrating contemporary African and diasporic art.",
-      "url": "https://afrikin.org",
+      "url": "https://afrikin.org/afrikin-artfair.html",
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-zeitz-mocaa-protea-2025",
@@ -7054,7 +7178,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-zeitz-mocaa-spring-rebellious-2025",
@@ -7079,7 +7206,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-goodman-ct-masamvu-2026",
@@ -7099,12 +7229,15 @@ const WSW_DATA = {
         "painting"
       ],
       "focus": "dedicated",
-      "url": "https://goodman-gallery.com/exhibitions",
+      "url": "https://goodman-gallery.com/exhibitions/naked-misheck-masamvu",
       "source": "manual",
       "added_date": "2026-07-13",
       "description": "",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-goodman-joburg-ernest-cole-2026",
@@ -7129,7 +7262,10 @@ const WSW_DATA = {
       "added_date": "2026-07-13",
       "description": "",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-zeitz-mocaa-imprint-2026",
@@ -7153,7 +7289,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-zeitz-mocaa-turning-sun-2026",
@@ -7181,7 +7320,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-fnb-art-joburg-2026",
@@ -7202,7 +7344,10 @@ const WSW_DATA = {
       "added_date": "2026-07-13",
       "url": "",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-macaal-balbzioui-2026",
@@ -7228,7 +7373,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-sharjah-koraichi-2026",
@@ -7255,7 +7403,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-biennale-lubumbashi-2026",
@@ -7276,7 +7427,10 @@ const WSW_DATA = {
       "added_date": "2026-07-13",
       "url": "",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-bamako-encounters-2026",
@@ -7299,7 +7453,10 @@ const WSW_DATA = {
       "added_date": "2026-07-13",
       "url": "",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-sharjah-biennial-17-2027",
@@ -7316,11 +7473,14 @@ const WSW_DATA = {
       "mediums": [],
       "focus": "significant",
       "description": "109 participants. Co-curated by Angela Harutyunyan and Paula Nascimento (Angolan curator).",
-      "url": "https://www.sharjahart.org/",
+      "url": "https://www.sharjahart.org/en/sharjah-biennial/sb-17",
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-space-un-mwizerwa-2026",
@@ -7345,7 +7505,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "past",
+      "verified": "pending",
+      "verified_date": "2026-08-27",
+      "confidence": "medium"
     },
     {
       "id": "exh-hauser-wirth-hk-bowling-2026",
@@ -7370,7 +7533,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current"
+      "status": "current",
+      "verified": false,
+      "verified_date": "2026-08-27",
+      "confidence": "low"
     },
     {
       "id": "exh-gwangju-biennale-2026",
@@ -7398,7 +7564,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-ngv-atong-atem-2026",
@@ -7424,7 +7593,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     },
     {
       "id": "exh-ngv-triennial-2026",
@@ -7452,7 +7624,10 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "upcoming"
+      "status": "upcoming",
+      "verified": true,
+      "verified_date": "2026-08-27",
+      "confidence": "high"
     }
   ],
   "artists": [
@@ -10960,13 +11135,13 @@ const WSW_DATA = {
       "notes": ""
     },
     {
-      "id": "ven-gagosian-london",
-      "name": "Gagosian London",
+      "id": "ven-alison-jacques-london",
+      "name": "Alison Jacques",
       "city": "London",
       "country": "United Kingdom",
       "type": "gallery",
-      "website": "https://gagosian.com",
-      "notes": "Grosvenor Hill"
+      "website": "https://alisonjacques.com",
+      "notes": ""
     },
     {
       "id": "ven-rosenfeld-london",
@@ -11959,5 +12134,5 @@ const WSW_DATA = {
       "notes": ""
     }
   ],
-  "generated": "2026-07-13 02:49"
+  "generated": "2026-08-27 00:41"
 };
