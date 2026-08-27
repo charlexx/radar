@@ -10723,7 +10723,8 @@ const WSW_DATA = {
       "based_in": [
         "Brussels",
         "Belgium"
-      ]
+      ],
+      "is_diaspora": false
     }
   ],
   "venues": [
@@ -12276,5 +12277,5 @@ const WSW_DATA = {
       "notes": ""
     }
   ],
-  "generated": "2026-08-27 14:33"
+  "generated": "2026-08-27 17:33"
 };

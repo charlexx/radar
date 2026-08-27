@@ -346,11 +346,11 @@ def _render_exhibition_page(exh, artist_map, venue_map, all_exhibitions=None):
   <meta property="og:title" content="{title} — Radar">
   <meta property="og:description" content="{h(og_desc)}">
   <meta property="og:url" content="{BASE_URL}/exhibition/{h(exh_id)}.html">
-  <meta property="og:image" content="{BASE_URL}/static/og-image.svg">
+  <meta property="og:image" content="{BASE_URL}/static/og-image.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{title} — Radar">
   <meta name="twitter:description" content="{h(og_desc)}">
-  <meta name="twitter:image" content="{BASE_URL}/static/og-image.svg">
+  <meta name="twitter:image" content="{BASE_URL}/static/og-image.png">
   <title>{title} — Radar</title>
   <link rel="stylesheet" href="../css/styles.css">
   <script type="application/ld+json">
