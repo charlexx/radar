@@ -153,7 +153,7 @@ const WSW_DATA = {
         "textiles",
         "works on paper"
       ],
-      "focus": "dedicated",
+      "focus": "diaspora",
       "description": "Showcases over 100 works across four decades from the Turner Prize winning artist, including recently rediscovered works from the 1980s.",
       "url": "https://www.whitechapelgallery.org/exhibitions/veronica-ryan-multiple-conversations/",
       "image_url": "",
@@ -1592,7 +1592,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
@@ -2241,7 +2241,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
@@ -3106,7 +3106,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
@@ -4432,7 +4432,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
@@ -4464,7 +4464,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
@@ -4493,7 +4493,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": false,
       "verified_date": "2026-08-27",
       "confidence": "low"
@@ -4615,7 +4615,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
@@ -4810,7 +4810,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "current",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
@@ -4839,7 +4839,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
@@ -4868,7 +4868,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": false,
       "verified_date": "2026-08-27",
       "confidence": "low"
@@ -4991,7 +4991,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-04-11",
       "status": "past",
-      "focus": "dedicated",
+      "focus": "diaspora",
       "verified": "pending",
       "verified_date": "2026-08-27",
       "confidence": "medium"
@@ -12277,5 +12277,5 @@ const WSW_DATA = {
       "notes": ""
     }
   ],
-  "generated": "2026-08-27 17:33"
+  "generated": "2026-08-28 00:01"
 };
