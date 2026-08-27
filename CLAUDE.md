@@ -29,6 +29,12 @@ Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framewo
 - Confidence field (verified, verified_date, confidence) is internal only — never render on public exhibition pages
 - Artist lists on exhibition pages show only African/diaspora artists Radar tracks, not every artist in the show. The description and "group" tag communicate broader scope. No "...and more" suffixes.
 
+## Working with this codebase
+- CLAUDE.md is the single source of truth for all defaults, hard rules, schemas, and architectural constraints
+- Before making any changes to files, code, or data, read CLAUDE.md in full first — even for tasks that seem small or self-contained
+- If a rule in CLAUDE.md conflicts with a session instruction, ask for clarification rather than choosing silently
+- If CLAUDE.md is missing a rule that a decision requires, propose adding the rule to CLAUDE.md as part of the change, so future sessions have the same context
+
 ## ID format
 - Exhibitions: exh-{venue-slug}-{artist-or-title-slug}-{year} e.g. exh-tate-modern-el-anatsui-2026
 - Artists: art-{name-slug} e.g. art-el-anatsui
