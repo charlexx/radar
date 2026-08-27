@@ -348,7 +348,9 @@ const WSW_DATA = {
     {
       "id": "exh-zeitz-mocaa-gala-2026",
       "title": "Zeitz MOCAA Annual Exhibition 2026",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-zohra-opoku"
+      ],
       "venue_id": "ven-zeitz-mocaa",
       "city": "Cape Town",
       "country": "South Africa",
@@ -1440,7 +1442,21 @@ const WSW_DATA = {
     {
       "id": "exh-richmond-diaspora-2026",
       "title": "Art of the African Diaspora 2026",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-nick-cave-artist",
+        "art-toyin-ojih-odutola",
+        "art-amy-sherald",
+        "art-mickalene-thomas",
+        "art-gordon-parks",
+        "art-lorna-simpson",
+        "art-tschabalala-self",
+        "art-zohra-opoku",
+        "art-malick-sidibe",
+        "art-odili-donald-odita",
+        "art-deborah-roberts",
+        "art-arthur-jafa",
+        "art-sanle-sory"
+      ],
       "venue_id": "ven-richmond-art-center",
       "city": "Richmond",
       "country": "United States",
@@ -3541,7 +3557,16 @@ const WSW_DATA = {
     {
       "id": "exh-palais-de-tokyo-echo-delay-2025",
       "title": "ECHO DELAY REVERB: American Art and Francophone Thought",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-julie-mehretu",
+        "art-wangechi-mutu",
+        "art-lorna-simpson",
+        "art-david-hammons",
+        "art-glenn-ligon",
+        "art-lorraine-ogrady",
+        "art-charles-gaines",
+        "art-melvin-edwards"
+      ],
       "venue_id": "ven-palais-de-tokyo-paris",
       "city": "Paris",
       "country": "France",
@@ -4880,7 +4905,12 @@ const WSW_DATA = {
     {
       "id": "exh-new-museum-inaugural-2025",
       "title": "New Humans, Memories of the Future",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-wangechi-mutu",
+        "art-toyin-ojih-odutola",
+        "art-uche-okeke",
+        "art-portia-zvavahera"
+      ],
       "venue_id": "ven-new-museum",
       "city": "New York",
       "country": "United States",
@@ -4999,7 +5029,12 @@ const WSW_DATA = {
     {
       "id": "exh-co-berlin-world-in-common-2026",
       "title": "A World in Common: Contemporary African Photography",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-atong-atem",
+        "art-sammy-baloji",
+        "art-james-barnor",
+        "art-zohra-opoku"
+      ],
       "venue_id": "ven-co-berlin",
       "city": "Berlin",
       "country": "Germany",
@@ -5547,7 +5582,15 @@ const WSW_DATA = {
     {
       "id": "exh-getty-black-arts-movement-2026",
       "title": "Photography and the Black Arts Movement, 1955-1985",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-gordon-parks",
+        "art-roy-decarava",
+        "art-carrie-mae-weems",
+        "art-dawoud-bey",
+        "art-frank-bowling",
+        "art-betye-saar",
+        "art-lorna-simpson"
+      ],
       "venue_id": "ven-getty-center",
       "city": "Los Angeles",
       "country": "United States",
@@ -6972,7 +7015,10 @@ const WSW_DATA = {
     {
       "id": "exh-ago-sunday-best-2026",
       "title": "Sunday Best: The Power & The Glory of Black Style",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-gordon-parks",
+        "art-amy-sherald"
+      ],
       "venue_id": "ven-ago-toronto",
       "city": "Toronto",
       "country": "Canada",
@@ -12230,5 +12276,5 @@ const WSW_DATA = {
       "notes": ""
     }
   ],
-  "generated": "2026-08-27 01:07"
+  "generated": "2026-08-27 14:33"
 };
