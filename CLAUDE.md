@@ -28,6 +28,7 @@ Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framewo
 - All filtering is client-side
 - Confidence field (verified, verified_date, confidence) is internal only — never render on public exhibition pages
 - Artist lists on exhibition pages show only African/diaspora artists Radar tracks, not every artist in the show. The description and "group" tag communicate broader scope. No "...and more" suffixes.
+- `focus` encodes BOTH degree and geography. `dedicated` means specifically African/continental — NOT a general "wholly about" label. Diaspora-focused shows use `diaspora` even when the show is entirely about those artists. Do not widen `dedicated` to include Black diaspora; the distinction was set deliberately in commit 30b324d and is what keeps the `diaspora` filter meaningful.
 
 ## Working with this codebase
 - CLAUDE.md is the single source of truth for all defaults, hard rules, schemas, and architectural constraints

@@ -10,9 +10,9 @@ Radar is a lightweight exhibition tracker that catalogues solo shows, group exhi
 
 ## Who is it for?
 
-- Curators researching African artists on the international circuit
+- Curators researching African and Black diaspora artists on the international circuit
 - Collectors tracking exhibition histories
-- Students and researchers studying contemporary African art
+- Students and researchers studying contemporary African and Black diaspora art
 - Art tourists planning gallery visits worldwide
 
 ## CLI Usage
