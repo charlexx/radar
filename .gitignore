@@ -1,8 +1,25 @@
-__pycache__/
-*.pyc
+# macOS
 .DS_Store
-.env
-.venv/
-venv/
+**/.DS_Store
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
 *.egg-info/
+
+# Environment
+.env
+.env.local
+venv/
+.venv/
+
+# CC / agent files (kept locally, not committed)
+AGENTS.md
+
+# Editor / IDE
 .vscode/
+.idea/
+*.swp
