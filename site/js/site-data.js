@@ -105,7 +105,8 @@ const WSW_DATA = {
       "id": "exh-moad-unbound-2025",
       "title": "UNBOUND: Art, Blackness and the Universe",
       "artist_ids": [
-        "art-gustavo-nazareno"
+        "art-gustavo-nazareno",
+        "art-lorna-simpson"
       ],
       "venue_id": "ven-moad-sf",
       "city": "San Francisco",
@@ -491,7 +492,9 @@ const WSW_DATA = {
     {
       "id": "exh-venice-biennale-2026",
       "title": "Venice Biennale 2026: In Minor Keys",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-wangechi-mutu"
+      ],
       "venue_id": "ven-giardini-arsenale-venice",
       "city": "Venice",
       "country": "Italy",
@@ -5773,7 +5776,10 @@ const WSW_DATA = {
     {
       "id": "exh-adegbola-efuru-2026",
       "title": "Efuru and the Woman of the Lake",
-      "artist_ids": [],
+      "artist_ids": [
+        "art-ladi-kwali",
+        "art-nengi-omuku"
+      ],
       "venue_id": "ven-adegbola-gallery-lagos",
       "city": "Lagos",
       "country": "Nigeria",
@@ -7598,6 +7604,114 @@ const WSW_DATA = {
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
+    },
+    {
+      "id": "exh-venice-drc-pavilion-2026",
+      "title": "Simba Moto! Seize the Fire!",
+      "artist_ids": [
+        "art-geraldine-tobe",
+        "art-sammy-baloji"
+      ],
+      "venue_id": "ven-giardini-arsenale-venice",
+      "city": "Venice",
+      "country": "Italy",
+      "region": "Europe",
+      "start_date": "2026-05-09",
+      "end_date": "2026-11-22",
+      "type": "biennial",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "photography",
+        "installation",
+        "video",
+        "music"
+      ],
+      "focus": "dedicated",
+      "description": "DRC's inaugural national pavilion at Venice Biennale. Nine Congolese artists curated by Nadia Yala Kisukidi.",
+      "url": "https://www.labiennale.org/en/art/2026/congo-democratic-republic",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-08-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-david-zwirner-la-decarava-2026",
+      "title": "Roy DeCarava: the sound i saw",
+      "artist_ids": [
+        "art-roy-decarava"
+      ],
+      "venue_id": "ven-david-zwirner-la",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2026-09-19",
+      "end_date": "2026-10-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "photography"
+      ],
+      "focus": "diaspora",
+      "description": "Photographs exploring the relationship between the visual and the aural, from the late 1940s to the 1960s. Curated by Ebony L. Haynes.",
+      "url": "https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-08-27",
+      "status": "upcoming"
+    },
+    {
+      "id": "exh-national-gallery-mutu-2027",
+      "title": "Wangechi Mutu: National Gallery Contemporary Fellowship",
+      "artist_ids": [
+        "art-wangechi-mutu"
+      ],
+      "venue_id": "ven-national-gallery-london",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2027-10-09",
+      "end_date": "2028-02-06",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "sculpture",
+        "installation",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "First UK institutional exhibition. New work created in dialogue with the National Gallery and Whitworth collections. Tours to the Whitworth, Manchester in spring 2028.",
+      "url": "https://www.nationalgallery.org.uk/about-us/press-and-media/press-releases/artist-wangechi-mutu-receives-national-gallery-contemporary-fellowship-with-art-fund",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-08-27",
+      "status": "upcoming"
+    },
+    {
+      "id": "exh-nga-dc-chakaia-booker-2025",
+      "title": "In the Tower: Chakaia Booker - Treading New Ground",
+      "artist_ids": [
+        "art-chakaia-booker"
+      ],
+      "venue_id": "ven-nga-dc",
+      "city": "Washington",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2025-04-05",
+      "end_date": "2026-08-02",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "installation"
+      ],
+      "focus": "diaspora",
+      "description": "Rubber tire sculptures by Chakaia Booker in the NGA Tower. Curated by Kanitra Fletcher.",
+      "url": "https://www.nga.gov/exhibitions/tower-chakaia-booker",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-08-27",
+      "status": "past"
     }
   ],
   "artists": [
@@ -10534,6 +10648,36 @@ const WSW_DATA = {
       "birth_year": 1943,
       "website": "",
       "notes": ""
+    },
+    {
+      "id": "art-chakaia-booker",
+      "name": "Chakaia Booker",
+      "origin_country": "United States",
+      "origin_region": "African American",
+      "mediums": [
+        "sculpture",
+        "installation"
+      ],
+      "based_in": [
+        "New York",
+        "United States"
+      ],
+      "is_diaspora": true
+    },
+    {
+      "id": "art-sammy-baloji",
+      "name": "Sammy Baloji",
+      "origin_country": "Democratic Republic of the Congo",
+      "origin_region": "Central Africa",
+      "mediums": [
+        "photography",
+        "installation",
+        "video"
+      ],
+      "based_in": [
+        "Brussels",
+        "Belgium"
+      ]
     }
   ],
   "venues": [
@@ -10615,7 +10759,7 @@ const WSW_DATA = {
       "city": "New York",
       "country": "United States",
       "type": "fair",
-      "website": "",
+      "website": "https://starrett-lehigh.com",
       "notes": "Home of 1-54 New York"
     },
     {
@@ -10633,7 +10777,7 @@ const WSW_DATA = {
       "city": "Lagos",
       "country": "Nigeria",
       "type": "fair",
-      "website": "",
+      "website": "https://www.federalpalace.com",
       "notes": "Venue for Art X Lagos"
     },
     {
@@ -10651,7 +10795,7 @@ const WSW_DATA = {
       "city": "Johannesburg",
       "country": "South Africa",
       "type": "fair",
-      "website": "",
+      "website": "https://www.shepstonegardens.co.za",
       "notes": "Venue for RMB Latitudes art fair"
     },
     {
@@ -10705,7 +10849,7 @@ const WSW_DATA = {
       "city": "Cape Town",
       "country": "South Africa",
       "type": "fair",
-      "website": "",
+      "website": "https://www.cticc.co.za",
       "notes": "Venue for Investec Cape Town Art Fair"
     },
     {
@@ -10714,7 +10858,7 @@ const WSW_DATA = {
       "city": "Marrakech",
       "country": "Morocco",
       "type": "fair",
-      "website": "",
+      "website": "https://mamounia.com",
       "notes": ""
     },
     {
@@ -10732,7 +10876,7 @@ const WSW_DATA = {
       "city": "Chicago",
       "country": "United States",
       "type": "fair",
-      "website": "",
+      "website": "https://navypier.org",
       "notes": ""
     },
     {
@@ -10741,7 +10885,7 @@ const WSW_DATA = {
       "city": "Paris",
       "country": "France",
       "type": "fair",
-      "website": "",
+      "website": "https://www.lecarreaudutemple.eu",
       "notes": ""
     },
     {
@@ -10786,7 +10930,7 @@ const WSW_DATA = {
       "city": "Kassel",
       "country": "Germany",
       "type": "museum",
-      "website": "",
+      "website": "https://fridericianum.org",
       "notes": ""
     },
     {
@@ -10885,7 +11029,7 @@ const WSW_DATA = {
       "city": "Lagos",
       "country": "Nigeria",
       "type": "fair",
-      "website": "",
+      "website": "https://www.ecobank.com/ng",
       "notes": "Venue for +234 Art Fair"
     },
     {
@@ -10894,7 +11038,7 @@ const WSW_DATA = {
       "city": "Dubai",
       "country": "United Arab Emirates",
       "type": "gallery",
-      "website": "",
+      "website": "https://efiegallery.com",
       "notes": "Alserkal Avenue"
     },
     {
@@ -10957,7 +11101,7 @@ const WSW_DATA = {
       "city": "Johannesburg",
       "country": "South Africa",
       "type": "fair",
-      "website": "",
+      "website": "https://www.saconvention.co.za",
       "notes": "Venue for FNB Art Joburg"
     },
     {
@@ -10966,7 +11110,7 @@ const WSW_DATA = {
       "city": "Doha",
       "country": "Qatar",
       "type": "fair",
-      "website": "",
+      "website": "https://m7.org.qa",
       "notes": "Venue for Art Basel Qatar"
     },
     {
@@ -11119,7 +11263,7 @@ const WSW_DATA = {
       "city": "London",
       "country": "United Kingdom",
       "type": "gallery",
-      "website": "",
+      "website": "https://galleryrosenfeld.com",
       "notes": ""
     },
     {
@@ -11137,7 +11281,7 @@ const WSW_DATA = {
       "city": "Bradford",
       "country": "United Kingdom",
       "type": "museum",
-      "website": "",
+      "website": "https://bradfordmuseums.org/venue/cartwright-hall-art-gallery/",
       "notes": "Venue for Turner Prize 2025"
     },
     {
@@ -11155,7 +11299,7 @@ const WSW_DATA = {
       "city": "London",
       "country": "United Kingdom",
       "type": "institution",
-      "website": "",
+      "website": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square",
       "notes": "Public art commission"
     },
     {
@@ -11236,7 +11380,7 @@ const WSW_DATA = {
       "city": "Lagos",
       "country": "Nigeria",
       "type": "gallery",
-      "website": "",
+      "website": "https://adegbola.com",
       "notes": "Victoria Island. Founded October 2025."
     },
     {
@@ -11245,7 +11389,7 @@ const WSW_DATA = {
       "city": "Lagos",
       "country": "Nigeria",
       "type": "gallery",
-      "website": "",
+      "website": "https://thenahous.com",
       "notes": "Federal Palace Hotel east wing. Gallery + concept store + members club. Founded by Richard Vedelago."
     },
     {
@@ -11272,17 +11416,8 @@ const WSW_DATA = {
       "city": "Lagos",
       "country": "Nigeria",
       "type": "institution",
-      "website": "",
+      "website": "https://nationaltheatre.gov.ng",
       "notes": "Restored collection curated by SMO Contemporary Art. Reopened October 2025."
-    },
-    {
-      "id": "ven-national-museum-lagos",
-      "name": "National Museum Lagos",
-      "city": "Lagos",
-      "country": "Nigeria",
-      "type": "museum",
-      "website": "",
-      "notes": ""
     },
     {
       "id": "ven-alliance-francaise-lagos",
@@ -11290,7 +11425,7 @@ const WSW_DATA = {
       "city": "Lagos",
       "country": "Nigeria",
       "type": "institution",
-      "website": "",
+      "website": "https://www.afnigeria.org/lagos/",
       "notes": "Ikoyi"
     },
     {
@@ -11299,7 +11434,7 @@ const WSW_DATA = {
       "city": "Lagos",
       "country": "Nigeria",
       "type": "gallery",
-      "website": "",
+      "website": "https://nomadic-art.com",
       "notes": ""
     },
     {
@@ -11488,7 +11623,7 @@ const WSW_DATA = {
       "city": "Accra",
       "country": "Ghana",
       "type": "museum",
-      "website": "",
+      "website": "https://limbomuseum.org",
       "notes": "Newly opened. Brutalist concrete structure."
     },
     {
@@ -11497,17 +11632,8 @@ const WSW_DATA = {
       "city": "Nairobi",
       "country": "Kenya",
       "type": "gallery",
-      "website": "",
+      "website": "https://www.oneoffcontemporaryartgallery.com",
       "notes": "One of Nairobi's most established galleries"
-    },
-    {
-      "id": "ven-ardhi-gallery-nairobi",
-      "name": "Ardhi Gallery",
-      "city": "Nairobi",
-      "country": "Kenya",
-      "type": "gallery",
-      "website": "",
-      "notes": "Uses VR/immersive tech alongside traditional media"
     },
     {
       "id": "ven-raw-material-company",
@@ -11713,7 +11839,7 @@ const WSW_DATA = {
       "city": "Nairobi",
       "country": "Kenya",
       "type": "institution",
-      "website": "",
+      "website": "https://www.ncai254.com",
       "notes": "NCAI, Rosslyn Riviera Mall"
     },
     {
@@ -11731,17 +11857,8 @@ const WSW_DATA = {
       "city": "Lagos",
       "country": "Nigeria",
       "type": "project-space",
-      "website": "",
+      "website": "https://lorihospitality.com/restaurants/arami-lagos.html",
       "notes": "Rooftop dining space hosting SMO Contemporary exhibitions"
-    },
-    {
-      "id": "ven-angels-muse-lagos",
-      "name": "Angels & Muse",
-      "city": "Lagos",
-      "country": "Nigeria",
-      "type": "gallery",
-      "website": "",
-      "notes": "Ikoyi, Lagos"
     },
     {
       "id": "ven-akete-collection-lagos",
@@ -11749,7 +11866,7 @@ const WSW_DATA = {
       "city": "Lagos",
       "country": "Nigeria",
       "type": "museum",
-      "website": "",
+      "website": "https://lagos-biennial.org/akete-collection/",
       "notes": "Museum of Modern and Contemporary Art, Ikoyi. Designed by Tosin Oshinowo. Opening October 2026"
     },
     {
@@ -11794,7 +11911,7 @@ const WSW_DATA = {
       "city": "Venice",
       "country": "Italy",
       "type": "museum",
-      "website": "",
+      "website": "https://museogrimani.cultura.gov.it",
       "notes": ""
     },
     {
@@ -11848,7 +11965,7 @@ const WSW_DATA = {
       "city": "London",
       "country": "United Kingdom",
       "type": "fair",
-      "website": "",
+      "website": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill",
       "notes": ""
     },
     {
@@ -11857,7 +11974,7 @@ const WSW_DATA = {
       "city": "Brussels",
       "country": "Belgium",
       "type": "museum",
-      "website": "",
+      "website": "https://kanal.brussels",
       "notes": ""
     },
     {
@@ -11974,7 +12091,7 @@ const WSW_DATA = {
       "city": "New York",
       "country": "United States",
       "type": "fair",
-      "website": "",
+      "website": "https://www.javitscenter.com",
       "notes": ""
     },
     {
@@ -11983,7 +12100,7 @@ const WSW_DATA = {
       "city": "Miami Beach",
       "country": "United States",
       "type": "fair",
-      "website": "",
+      "website": "https://www.miamibeachconvention.com",
       "notes": ""
     },
     {
@@ -12019,7 +12136,7 @@ const WSW_DATA = {
       "city": "Gwangju",
       "country": "South Korea",
       "type": "biennial-venue",
-      "website": "",
+      "website": "https://www.gwangjubiennale.org",
       "notes": ""
     },
     {
@@ -12082,27 +12199,36 @@ const WSW_DATA = {
       "city": "Miami",
       "country": "United States",
       "type": "fair",
-      "website": "",
+      "website": "https://www.northmiamifl.gov/facilities/facility/details/Scott-Galvin-Community-Center-45",
       "notes": ""
     },
     {
-      "id": "ven-coex-seoul",
-      "name": "COEX",
-      "city": "Seoul",
-      "country": "South Korea",
-      "type": "fair",
-      "website": "",
+      "id": "ven-volklinger-hutte",
+      "name": "Volklinger Hutte",
+      "city": "Volklingen",
+      "country": "Germany",
+      "type": "museum",
+      "website": "https://voelklinger-huette.org",
+      "notes": "UNESCO World Heritage Site"
+    },
+    {
+      "id": "ven-galleria-borghese",
+      "name": "Galleria Borghese",
+      "city": "Rome",
+      "country": "Italy",
+      "type": "museum",
+      "website": "https://galleriaborghese.beniculturali.it",
       "notes": ""
     },
     {
-      "id": "ven-stevenson-joburg",
-      "name": "Stevenson",
-      "city": "Johannesburg",
-      "country": "South Africa",
-      "type": "gallery",
-      "website": "https://www.stevenson.info",
+      "id": "ven-national-gallery-london",
+      "name": "National Gallery",
+      "city": "London",
+      "country": "United Kingdom",
+      "type": "museum",
+      "website": "https://www.nationalgallery.org.uk",
       "notes": ""
     }
   ],
-  "generated": "2026-08-27 00:52"
+  "generated": "2026-08-27 01:07"
 };

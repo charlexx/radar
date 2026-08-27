@@ -103,7 +103,8 @@
     "id": "exh-moad-unbound-2025",
     "title": "UNBOUND: Art, Blackness and the Universe",
     "artist_ids": [
-      "art-gustavo-nazareno"
+      "art-gustavo-nazareno",
+      "art-lorna-simpson"
     ],
     "venue_id": "ven-moad-sf",
     "city": "San Francisco",
@@ -489,7 +490,9 @@
   {
     "id": "exh-venice-biennale-2026",
     "title": "Venice Biennale 2026: In Minor Keys",
-    "artist_ids": [],
+    "artist_ids": [
+      "art-wangechi-mutu"
+    ],
     "venue_id": "ven-giardini-arsenale-venice",
     "city": "Venice",
     "country": "Italy",
@@ -5771,7 +5774,10 @@
   {
     "id": "exh-adegbola-efuru-2026",
     "title": "Efuru and the Woman of the Lake",
-    "artist_ids": [],
+    "artist_ids": [
+      "art-ladi-kwali",
+      "art-nengi-omuku"
+    ],
     "venue_id": "ven-adegbola-gallery-lagos",
     "city": "Lagos",
     "country": "Nigeria",
@@ -7596,5 +7602,113 @@
     "verified": true,
     "verified_date": "2026-08-27",
     "confidence": "high"
+  },
+  {
+    "id": "exh-venice-drc-pavilion-2026",
+    "title": "Simba Moto! Seize the Fire!",
+    "artist_ids": [
+      "art-geraldine-tobe",
+      "art-sammy-baloji"
+    ],
+    "venue_id": "ven-giardini-arsenale-venice",
+    "city": "Venice",
+    "country": "Italy",
+    "region": "Europe",
+    "start_date": "2026-05-09",
+    "end_date": "2026-11-22",
+    "type": "biennial",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "photography",
+      "installation",
+      "video",
+      "music"
+    ],
+    "focus": "dedicated",
+    "description": "DRC's inaugural national pavilion at Venice Biennale. Nine Congolese artists curated by Nadia Yala Kisukidi.",
+    "url": "https://www.labiennale.org/en/art/2026/congo-democratic-republic",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-08-27",
+    "status": "current"
+  },
+  {
+    "id": "exh-david-zwirner-la-decarava-2026",
+    "title": "Roy DeCarava: the sound i saw",
+    "artist_ids": [
+      "art-roy-decarava"
+    ],
+    "venue_id": "ven-david-zwirner-la",
+    "city": "Los Angeles",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-09-19",
+    "end_date": "2026-10-31",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "photography"
+    ],
+    "focus": "diaspora",
+    "description": "Photographs exploring the relationship between the visual and the aural, from the late 1940s to the 1960s. Curated by Ebony L. Haynes.",
+    "url": "https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-08-27",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-national-gallery-mutu-2027",
+    "title": "Wangechi Mutu: National Gallery Contemporary Fellowship",
+    "artist_ids": [
+      "art-wangechi-mutu"
+    ],
+    "venue_id": "ven-national-gallery-london",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "start_date": "2027-10-09",
+    "end_date": "2028-02-06",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "sculpture",
+      "installation",
+      "mixed media"
+    ],
+    "focus": "dedicated",
+    "description": "First UK institutional exhibition. New work created in dialogue with the National Gallery and Whitworth collections. Tours to the Whitworth, Manchester in spring 2028.",
+    "url": "https://www.nationalgallery.org.uk/about-us/press-and-media/press-releases/artist-wangechi-mutu-receives-national-gallery-contemporary-fellowship-with-art-fund",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-08-27",
+    "status": "upcoming"
+  },
+  {
+    "id": "exh-nga-dc-chakaia-booker-2025",
+    "title": "In the Tower: Chakaia Booker - Treading New Ground",
+    "artist_ids": [
+      "art-chakaia-booker"
+    ],
+    "venue_id": "ven-nga-dc",
+    "city": "Washington",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-04-05",
+    "end_date": "2026-08-02",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "sculpture",
+      "installation"
+    ],
+    "focus": "diaspora",
+    "description": "Rubber tire sculptures by Chakaia Booker in the NGA Tower. Curated by Kanitra Fletcher.",
+    "url": "https://www.nga.gov/exhibitions/tower-chakaia-booker",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-08-27",
+    "status": "past"
   }
 ]

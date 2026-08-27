@@ -2932,5 +2932,35 @@
     "birth_year": 1943,
     "website": "",
     "notes": ""
+  },
+  {
+    "id": "art-chakaia-booker",
+    "name": "Chakaia Booker",
+    "origin_country": "United States",
+    "origin_region": "African American",
+    "mediums": [
+      "sculpture",
+      "installation"
+    ],
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true
+  },
+  {
+    "id": "art-sammy-baloji",
+    "name": "Sammy Baloji",
+    "origin_country": "Democratic Republic of the Congo",
+    "origin_region": "Central Africa",
+    "mediums": [
+      "photography",
+      "installation",
+      "video"
+    ],
+    "based_in": [
+      "Brussels",
+      "Belgium"
+    ]
   }
 ]
