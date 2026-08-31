@@ -179,7 +179,8 @@
     "name": "Chris Ofili",
     "origin_country": "Nigeria",
     "origin_region": [
-      "West Africa"
+      "West Africa",
+      "Afro-European"
     ],
     "based_in": [
       "Trinidad and Tobago"
@@ -198,7 +199,8 @@
     "name": "Yinka Shonibare",
     "origin_country": "Nigeria",
     "origin_region": [
-      "West Africa"
+      "West Africa",
+      "Afro-European"
     ],
     "based_in": [
       "London",
@@ -362,7 +364,8 @@
     "name": "Lubaina Himid",
     "origin_country": "Tanzania",
     "origin_region": [
-      "East Africa"
+      "East Africa",
+      "Afro-European"
     ],
     "based_in": [
       "Preston",
@@ -844,7 +847,8 @@
     "name": "Nnena Kalu",
     "origin_country": "Nigeria",
     "origin_region": [
-      "West Africa"
+      "West Africa",
+      "Afro-European"
     ],
     "based_in": [
       "London",
@@ -903,7 +907,8 @@
     "name": "Anya Paintsil",
     "origin_country": "United Kingdom",
     "origin_region": [
-      "West Africa"
+      "West Africa",
+      "Afro-European"
     ],
     "based_in": [
       "Wales",
@@ -1167,7 +1172,8 @@
     "name": "Olaolu Slawn",
     "origin_country": "Nigeria",
     "origin_region": [
-      "West Africa"
+      "West Africa",
+      "Afro-European"
     ],
     "based_in": [
       "London",
@@ -1247,7 +1253,8 @@
     "name": "Diana Ejaita",
     "origin_country": "Nigeria",
     "origin_region": [
-      "West Africa"
+      "West Africa",
+      "Afro-European"
     ],
     "based_in": [
       "Berlin",
@@ -1352,7 +1359,8 @@
     "name": "Saadane Afif",
     "origin_country": "France",
     "origin_region": [
-      "North Africa"
+      "North Africa",
+      "Afro-European"
     ],
     "based_in": [
       "Berlin",
@@ -2133,7 +2141,8 @@
     "name": "Zineb Sedira",
     "origin_country": "France",
     "origin_region": [
-      "North Africa"
+      "North Africa",
+      "Afro-European"
     ],
     "based_in": [
       "London",
@@ -2275,7 +2284,8 @@
     "name": "Lassana Sarre",
     "origin_country": "France",
     "origin_region": [
-      "West Africa"
+      "West Africa",
+      "Afro-European"
     ],
     "based_in": [
       "Paris",
@@ -2339,7 +2349,8 @@
     "name": "John Akomfrah",
     "origin_country": "Ghana",
     "origin_region": [
-      "West Africa"
+      "West Africa",
+      "Afro-European"
     ],
     "based_in": [
       "London",
@@ -3243,7 +3254,8 @@
     "name": "Maud Sulter",
     "origin_country": "United Kingdom",
     "origin_region": [
-      "West Africa"
+      "West Africa",
+      "Afro-European"
     ],
     "is_diaspora": true,
     "mediums": [

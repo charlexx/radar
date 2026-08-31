@@ -7913,7 +7913,8 @@ const WSW_DATA = {
       "name": "Chris Ofili",
       "origin_country": "Nigeria",
       "origin_region": [
-        "West Africa"
+        "West Africa",
+        "Afro-European"
       ],
       "based_in": [
         "Trinidad and Tobago"
@@ -7932,7 +7933,8 @@ const WSW_DATA = {
       "name": "Yinka Shonibare",
       "origin_country": "Nigeria",
       "origin_region": [
-        "West Africa"
+        "West Africa",
+        "Afro-European"
       ],
       "based_in": [
         "London",
@@ -8096,7 +8098,8 @@ const WSW_DATA = {
       "name": "Lubaina Himid",
       "origin_country": "Tanzania",
       "origin_region": [
-        "East Africa"
+        "East Africa",
+        "Afro-European"
       ],
       "based_in": [
         "Preston",
@@ -8578,7 +8581,8 @@ const WSW_DATA = {
       "name": "Nnena Kalu",
       "origin_country": "Nigeria",
       "origin_region": [
-        "West Africa"
+        "West Africa",
+        "Afro-European"
       ],
       "based_in": [
         "London",
@@ -8637,7 +8641,8 @@ const WSW_DATA = {
       "name": "Anya Paintsil",
       "origin_country": "United Kingdom",
       "origin_region": [
-        "West Africa"
+        "West Africa",
+        "Afro-European"
       ],
       "based_in": [
         "Wales",
@@ -8901,7 +8906,8 @@ const WSW_DATA = {
       "name": "Olaolu Slawn",
       "origin_country": "Nigeria",
       "origin_region": [
-        "West Africa"
+        "West Africa",
+        "Afro-European"
       ],
       "based_in": [
         "London",
@@ -8981,7 +8987,8 @@ const WSW_DATA = {
       "name": "Diana Ejaita",
       "origin_country": "Nigeria",
       "origin_region": [
-        "West Africa"
+        "West Africa",
+        "Afro-European"
       ],
       "based_in": [
         "Berlin",
@@ -9086,7 +9093,8 @@ const WSW_DATA = {
       "name": "Saadane Afif",
       "origin_country": "France",
       "origin_region": [
-        "North Africa"
+        "North Africa",
+        "Afro-European"
       ],
       "based_in": [
         "Berlin",
@@ -9867,7 +9875,8 @@ const WSW_DATA = {
       "name": "Zineb Sedira",
       "origin_country": "France",
       "origin_region": [
-        "North Africa"
+        "North Africa",
+        "Afro-European"
       ],
       "based_in": [
         "London",
@@ -10009,7 +10018,8 @@ const WSW_DATA = {
       "name": "Lassana Sarre",
       "origin_country": "France",
       "origin_region": [
-        "West Africa"
+        "West Africa",
+        "Afro-European"
       ],
       "based_in": [
         "Paris",
@@ -10073,7 +10083,8 @@ const WSW_DATA = {
       "name": "John Akomfrah",
       "origin_country": "Ghana",
       "origin_region": [
-        "West Africa"
+        "West Africa",
+        "Afro-European"
       ],
       "based_in": [
         "London",
@@ -10977,7 +10988,8 @@ const WSW_DATA = {
       "name": "Maud Sulter",
       "origin_country": "United Kingdom",
       "origin_region": [
-        "West Africa"
+        "West Africa",
+        "Afro-European"
       ],
       "is_diaspora": true,
       "mediums": [
@@ -12739,5 +12751,5 @@ const WSW_DATA = {
       "notes": ""
     }
   ],
-  "generated": "2026-08-31 18:49"
+  "generated": "2026-08-31 18:59"
 };
