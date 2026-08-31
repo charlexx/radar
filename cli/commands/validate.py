@@ -55,8 +55,16 @@ def run_validate(args):
         _check_required(a, ARTIST_REQUIRED, "Artist", errors)
         if not a.get("id", "").startswith("art-"):
             errors.append(f"Artist {a.get('id', '?')}: invalid ID format")
-        if a.get("origin_region") and a["origin_region"] not in ORIGIN_REGIONS:
-            errors.append(f"Artist {a['id']}: invalid origin_region '{a['origin_region']}'")
+        or_val = a.get("origin_region")
+        if or_val is not None:
+            if isinstance(or_val, str):
+                errors.append(f"Artist {a['id']}: origin_region must be an array, got bare string '{or_val}'")
+            elif not isinstance(or_val, list) or not or_val:
+                errors.append(f"Artist {a['id']}: origin_region must be a non-empty array")
+            else:
+                for region in or_val:
+                    if region not in ORIGIN_REGIONS:
+                        errors.append(f"Artist {a['id']}: invalid origin_region value '{region}'")
         if "mediums" in a and (not isinstance(a["mediums"], list) or not a["mediums"]):
             errors.append(f"Artist {a['id']}: mediums must be a non-empty array")
 
@@ -121,7 +129,11 @@ def run_validate(args):
         for aid in aids:
             a = artist_map.get(aid)
             if a and a.get("origin_region"):
-                origins.add(a["origin_region"])
+                or_val = a["origin_region"]
+                if isinstance(or_val, list):
+                    origins.update(or_val)
+                else:
+                    origins.add(or_val)
         if not origins:
             continue
         focus = e.get("focus", "")

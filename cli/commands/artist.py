@@ -47,7 +47,7 @@ def register(subparsers):
     add_p = sub.add_parser("add", help="Add an artist")
     add_p.add_argument("--name")
     add_p.add_argument("--origin-country")
-    add_p.add_argument("--origin-region", choices=ORIGIN_REGIONS)
+    add_p.add_argument("--origin-region", nargs="+", metavar="REGION")
     add_p.add_argument("--mediums", nargs="+")
     add_p.add_argument("--based-in", nargs=2, metavar=("CITY", "COUNTRY"))
     add_p.add_argument("--is-diaspora", action="store_true", default=False)
@@ -88,7 +88,15 @@ def add_artist(args):
 
     name = args.name or _prompt_required("Name")
     origin_country = args.origin_country or _prompt_required("Origin country")
-    origin_region = args.origin_region or _prompt_required("Origin region", choices=ORIGIN_REGIONS)
+    if args.origin_region:
+        origin_region = args.origin_region
+    else:
+        raw = _prompt_required("Origin region(s) (comma-separated)", choices=ORIGIN_REGIONS)
+        origin_region = [r.strip() for r in raw.split(",") if r.strip()]
+    for r in origin_region:
+        if r not in ORIGIN_REGIONS:
+            print(f"Error: invalid origin_region '{r}'", file=sys.stderr)
+            return 1
 
     if args.mediums:
         mediums = args.mediums
@@ -146,7 +154,7 @@ def list_artists(args):
         filtered = [a for a in filtered
                     if a.get("origin_country", "").lower() == args.country.lower()]
     if args.region:
-        filtered = [a for a in filtered if a.get("origin_region") == args.region]
+        filtered = [a for a in filtered if args.region in (a.get("origin_region") or [])]
     print(json.dumps(filtered, indent=2, ensure_ascii=False))
     return 0
 
@@ -178,7 +186,7 @@ def edit_artist(args):
     for entry in data:
         if entry["id"] == args.id:
             print(f"Editing {args.id} (press Enter to keep current value)", file=sys.stderr)
-            for field in ["name", "origin_country", "origin_region", "birth_year",
+            for field in ["name", "origin_country", "birth_year",
                           "website", "notes"]:
                 current = entry.get(field, "")
                 new_val = _prompt(field, default=str(current) if current else "")
@@ -187,6 +195,17 @@ def edit_artist(args):
                         entry[field] = int(new_val)
                     else:
                         entry[field] = new_val
+            # origin_region (array)
+            current_regions = ", ".join(entry.get("origin_region", []))
+            print(f"  Options: {', '.join(ORIGIN_REGIONS)}", file=sys.stderr)
+            new_regions = _prompt("origin_region (comma-separated)", default=current_regions)
+            if new_regions and new_regions != current_regions:
+                parsed = [r.strip() for r in new_regions.split(",") if r.strip()]
+                bad = [r for r in parsed if r not in ORIGIN_REGIONS]
+                if bad:
+                    print(f"  Invalid region(s): {', '.join(bad)} -- keeping current", file=sys.stderr)
+                else:
+                    entry["origin_region"] = parsed
             # Mediums
             current_mediums = ", ".join(entry.get("mediums", []))
             new_mediums = _prompt("mediums (comma-separated)", default=current_mediums)

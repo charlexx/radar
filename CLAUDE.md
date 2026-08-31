@@ -58,9 +58,10 @@ source values: manual | submission | scrape | api
 region values: West Africa | East Africa | Southern Africa | North Africa | Central Africa | Europe | North America | South America | Caribbean | Middle East | Asia | Oceania
 
 ### Artist (data/artists.json)
-Required fields: id, name, origin_country, origin_region, mediums (array)
+Required fields: id, name, origin_country, origin_region (array of one or more values), mediums (array)
 Optional fields: based_in (array [city, country]), is_diaspora (boolean, default false), birth_year, website, notes
 origin_region values: West Africa | East Africa | Southern Africa | North Africa | Central Africa | African American | Afro-Caribbean | Afro-Brazilian | Afro-European | Afro-Latinx
+Most artists have one origin_region. Artists born or raised in a diaspora community with African parentage may have two (e.g. Chris Ofili: ["West Africa", "Afro-European"]). Assigning second values is a curatorial decision, not a mechanical one.
 
 ### Venue (data/venues.json)
 Required fields: id, name, city, country, type
