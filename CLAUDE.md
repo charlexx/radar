@@ -4,6 +4,11 @@
 A curated exhibition tracker for African and Black diaspora artists showing worldwide.
 Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framework.
 
+## Editorial scope
+- Radar's scope is African AND Black diaspora artists. Inclusion is determined by DESCENT (origin_region), not by self-identification -- an artist need not identify as African to be in scope. The `identity` field records how they describe themselves; origin_region records lineage.
+- Artists with confirmed non-African/non-Black-diaspora descent are out of scope and must be removed (e.g. Kenzi Shiokava, Japanese-Brazilian, removed 2026-08-31).
+- Seed prompts and research agents MUST verify African or Black diaspora descent before adding any artist. Do not infer descent from subject matter, collaborators, or the scene an artist is associated with.
+
 ## Architecture
 - Data: JSON files in data/ (exhibitions.json, artists.json, venues.json)
 - CLI: Python, entry point is cli/wsw.py
@@ -59,9 +64,12 @@ region values: West Africa | East Africa | Southern Africa | North Africa | Cent
 
 ### Artist (data/artists.json)
 Required fields: id, name, origin_country, origin_region (array of one or more values), mediums (array)
-Optional fields: based_in (array [city, country]), is_diaspora (boolean, default false), birth_year, website, notes
+Optional fields: based_in (array [city, country]), is_diaspora (boolean, default false), birth_year, website, notes, identity (string, free text)
 origin_region values: West Africa | East Africa | Southern Africa | North Africa | Central Africa | African American | Afro-Caribbean | Afro-Brazilian | Afro-European | Afro-Latinx
-Most artists have one origin_region. Artists born or raised in a diaspora community with African parentage may have two (e.g. Chris Ofili: ["West Africa", "Afro-European"]). Assigning second values is a curatorial decision, not a mechanical one.
+  Afro-European -- African descent in a European context where the specific continental origin is not documented. Use ONLY when heritage cannot be sourced; where it can be, use the continental or community value.
+Most artists have one origin_region. Artists born or raised in a diaspora community with African parentage may have two (e.g. Chris Ofili: ["West Africa", "Afro-Caribbean"]). Assigning second values is a curatorial decision, not a mechanical one.
+identity: free-text field for the artist's self-described dual identity (e.g. "British-Nigerian", "French-Algerian"). NOT a controlled vocabulary. NOT used for filtering or validation. Populated only where existing fields are inadequate -- do not add "Ghanaian" for a Ghana-based Ghanaian artist. Never infer heritage from surname, birth country, or current city; source to the artist's own words or an institutional biography. Leave empty and flag for curatorial review if unsourced.
+Display fallback order on exhibition pages: (1) identity if present, (2) origin_region[0] if it is a community identity (African American, Afro-Caribbean, Afro-Brazilian, Afro-Latinx), (3) origin_country.
 
 ### Venue (data/venues.json)
 Required fields: id, name, city, country, type

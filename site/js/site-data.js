@@ -6799,34 +6799,6 @@ const WSW_DATA = {
       "confidence": "low"
     },
     {
-      "id": "exh-mca-chicago-shiokava-2026",
-      "title": "Kenzi Shiokava",
-      "artist_ids": [
-        "art-kenzi-shiokava"
-      ],
-      "venue_id": "ven-mca-chicago",
-      "city": "Chicago",
-      "country": "United States",
-      "region": "North America",
-      "start_date": "2026-06-27",
-      "end_date": "2027-01-31",
-      "type": "solo",
-      "admission": "paid",
-      "mediums": [
-        "sculpture"
-      ],
-      "focus": "diaspora",
-      "description": "First solo museum exhibition, 50+ sculptures spanning five decades by the Afro-Japanese Brazilian sculptor.",
-      "url": "https://visit.mcachicago.org/exhibitions/kenzi-shiokava/",
-      "source": "manual",
-      "added_date": "2026-07-13",
-      "image_url": "",
-      "status": "current",
-      "verified": true,
-      "verified_date": "2026-08-27",
-      "confidence": "high"
-    },
-    {
       "id": "exh-pamm-this-is-america-2026",
       "title": "This Is America",
       "artist_ids": [
@@ -7776,7 +7748,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1917,
       "website": "",
-      "notes": "First African modernist to gain international recognition"
+      "notes": "First African modernist to gain international recognition",
+      "identity": ""
     },
     {
       "id": "art-el-anatsui",
@@ -7796,7 +7769,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1944,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-uche-okeke",
@@ -7813,7 +7787,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1933,
       "website": "",
-      "notes": "Zaria Art Society co-founder, uli art pioneer"
+      "notes": "Zaria Art Society co-founder, uli art pioneer",
+      "identity": ""
     },
     {
       "id": "art-ladi-kwali",
@@ -7829,7 +7804,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1925,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-uzo-egonu",
@@ -7848,7 +7824,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1931,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-seydou-keita",
@@ -7867,7 +7844,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1921,
       "website": "",
-      "notes": "Premier studio photographer of 20th-century Africa"
+      "notes": "Premier studio photographer of 20th-century Africa",
+      "identity": ""
     },
     {
       "id": "art-malick-sidibe",
@@ -7886,7 +7864,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1936,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-njideka-akunyili-crosby",
@@ -7906,7 +7885,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1983,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-samuel-fosso",
@@ -7925,7 +7905,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1962,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-chris-ofili",
@@ -7943,7 +7924,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1968,
       "website": "",
-      "notes": "Turner Prize winner 1998"
+      "notes": "Turner Prize winner 1998",
+      "identity": "British-Nigerian"
     },
     {
       "id": "art-yinka-shonibare",
@@ -7964,7 +7946,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1962,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": "British-Nigerian"
     },
     {
       "id": "art-veronica-ryan",
@@ -7985,7 +7968,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1956,
       "website": "",
-      "notes": "Turner Prize winner 2022. Born in Montserrat, Caribbean heritage"
+      "notes": "Turner Prize winner 2022. Born in Montserrat, Caribbean heritage",
+      "identity": ""
     },
     {
       "id": "art-jean-depara",
@@ -8004,7 +7988,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1928,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-sanle-sory",
@@ -8023,7 +8008,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1943,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-james-barnor",
@@ -8042,7 +8028,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1929,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-jd-okhai-ojeikere",
@@ -8061,7 +8048,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1930,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-gustavo-nazareno",
@@ -8080,7 +8068,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Afro-Brazilian, paintings of Orishas"
+      "notes": "Afro-Brazilian, paintings of Orishas",
+      "identity": ""
     },
     {
       "id": "art-cinga-samson",
@@ -8099,7 +8088,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1986,
       "website": "",
-      "notes": "Represented by White Cube"
+      "notes": "Represented by White Cube",
+      "identity": ""
     },
     {
       "id": "art-lubaina-himid",
@@ -8119,7 +8109,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1954,
       "website": "",
-      "notes": "Turner Prize winner 2017. Born Zanzibar, raised UK. Representing Great Britain at Venice Biennale 2026"
+      "notes": "Turner Prize winner 2017. Born Zanzibar, raised UK. Representing Great Britain at Venice Biennale 2026",
+      "identity": ""
     },
     {
       "id": "art-odili-donald-odita",
@@ -8138,7 +8129,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1966,
       "website": "",
-      "notes": "Known for geometric abstractions exploring colour and identity"
+      "notes": "Known for geometric abstractions exploring colour and identity",
+      "identity": ""
     },
     {
       "id": "art-bruce-clarke",
@@ -8159,7 +8151,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1959,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-ifeyinwa-joy-chiamonwu",
@@ -8179,7 +8172,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Hyperrealist charcoal artist. Represented by Jack Shainman Gallery"
+      "notes": "Hyperrealist charcoal artist. Represented by Jack Shainman Gallery",
+      "identity": ""
     },
     {
       "id": "art-portia-zvavahera",
@@ -8199,7 +8193,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1985,
       "website": "",
-      "notes": "Represented by David Zwirner and Stevenson"
+      "notes": "Represented by David Zwirner and Stevenson",
+      "identity": ""
     },
     {
       "id": "art-william-kentridge",
@@ -8222,7 +8217,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1955,
       "website": "",
-      "notes": "Represented by Goodman Gallery"
+      "notes": "Represented by Goodman Gallery",
+      "identity": ""
     },
     {
       "id": "art-iba-ndiaye",
@@ -8238,7 +8234,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1928,
       "website": "",
-      "notes": "Leading Senegalese Modernist (1928-2008)"
+      "notes": "Leading Senegalese Modernist (1928-2008)",
+      "identity": ""
     },
     {
       "id": "art-toyin-ojih-odutola",
@@ -8258,7 +8255,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1985,
       "website": "",
-      "notes": "Represented by Jack Shainman Gallery"
+      "notes": "Represented by Jack Shainman Gallery",
+      "identity": "Nigerian-American"
     },
     {
       "id": "art-tesfaye-bekele",
@@ -8277,7 +8275,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-sam-nhlengethwa",
@@ -8297,7 +8296,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1955,
       "website": "",
-      "notes": "Known for jazz-infused collage works"
+      "notes": "Known for jazz-infused collage works",
+      "identity": ""
     },
     {
       "id": "art-ghada-amer",
@@ -8318,7 +8318,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1963,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-moshekwa-langa",
@@ -8339,7 +8340,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1975,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-michael-soi",
@@ -8358,7 +8360,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1972,
       "website": "",
-      "notes": "Satirist offering commentary on Nairobi social and political dynamics"
+      "notes": "Satirist offering commentary on Nairobi social and political dynamics",
+      "identity": ""
     },
     {
       "id": "art-abdoulaye-konate",
@@ -8378,7 +8381,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1953,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-eva-obodo",
@@ -8398,7 +8402,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1963,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-mouhcine-rahaoui",
@@ -8416,7 +8421,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1990,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-sthenjwa-luthuli",
@@ -8436,7 +8442,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Self-taught printmaker and wood carver"
+      "notes": "Self-taught printmaker and wood carver",
+      "identity": ""
     },
     {
       "id": "art-zohra-opoku",
@@ -8457,7 +8464,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1976,
       "website": "",
-      "notes": "German-Ghanaian artist"
+      "notes": "German-Ghanaian artist",
+      "identity": ""
     },
     {
       "id": "art-kate-gottgens",
@@ -8476,7 +8484,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1965,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-kapwani-kiwanga",
@@ -8497,7 +8506,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1978,
       "website": "",
-      "notes": "Canadian-Tanzanian, based in Paris. Marcel Duchamp Prize 2020"
+      "notes": "Canadian-Tanzanian, based in Paris. Marcel Duchamp Prize 2020",
+      "identity": "Canadian-Tanzanian"
     },
     {
       "id": "art-hurvin-anderson",
@@ -8516,14 +8526,15 @@ const WSW_DATA = {
       ],
       "birth_year": 1965,
       "website": "",
-      "notes": "British-Jamaican painter. Birmingham-born."
+      "notes": "British-Jamaican painter. Birmingham-born.",
+      "identity": "British-Jamaican"
     },
     {
       "id": "art-sonia-boyce",
       "name": "Sonia Boyce",
       "origin_country": "United Kingdom",
       "origin_region": [
-        "Afro-European"
+        "Afro-Caribbean"
       ],
       "based_in": [
         "London",
@@ -8537,7 +8548,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1962,
       "website": "",
-      "notes": "Golden Lion Venice 2022 for British Pavilion"
+      "notes": "Golden Lion Venice 2022 for British Pavilion",
+      "identity": "British-Barbadian-Guyanese"
     },
     {
       "id": "art-virginia-chihota",
@@ -8558,7 +8570,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1983,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-nnena-kalu",
@@ -8578,7 +8591,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Turner Prize winner 2025. British-Nigerian. First learning-disabled artist to win."
+      "notes": "Turner Prize winner 2025. British-Nigerian. First learning-disabled artist to win.",
+      "identity": "British-Nigerian"
     },
     {
       "id": "art-oluwasemilore-delano",
@@ -8594,7 +8608,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-modupeola-fadugba",
@@ -8614,7 +8629,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "2025 Norval Sovereign African Art Prize winner"
+      "notes": "2025 Norval Sovereign African Art Prize winner",
+      "identity": ""
     },
     {
       "id": "art-anya-paintsil",
@@ -8635,7 +8651,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Welsh-Ghanaian textile artist"
+      "notes": "Welsh-Ghanaian textile artist",
+      "identity": "Welsh-Ghanaian"
     },
     {
       "id": "art-tschabalala-self",
@@ -8656,7 +8673,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1990,
       "website": "",
-      "notes": "Fourth Plinth commission 2026. Represented by Pilar Corrias."
+      "notes": "Fourth Plinth commission 2026. Represented by Pilar Corrias.",
+      "identity": ""
     },
     {
       "id": "art-manuel-mathieu",
@@ -8675,7 +8693,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1986,
       "website": "",
-      "notes": "Haitian-Canadian. Invited to Venice Biennale 2026 by Koyo Kouoh."
+      "notes": "Haitian-Canadian. Invited to Venice Biennale 2026 by Koyo Kouoh.",
+      "identity": "Haitian-Canadian"
     },
     {
       "id": "art-gordon-parks",
@@ -8691,7 +8710,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1912,
       "website": "",
-      "notes": "Pioneering photographer, filmmaker. 1912-2006."
+      "notes": "Pioneering photographer, filmmaker. 1912-2006.",
+      "identity": ""
     },
     {
       "id": "art-donald-locke",
@@ -8710,7 +8730,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1930,
       "website": "",
-      "notes": "Guyanese-British. Windrush generation. 1930-2010."
+      "notes": "Guyanese-British. Windrush generation. 1930-2010.",
+      "identity": "Guyanese-British"
     },
     {
       "id": "art-felix-shumba",
@@ -8727,7 +8748,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-eddy-kamuanga-ilunga",
@@ -8746,7 +8768,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1991,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-kerry-james-marshall",
@@ -8766,7 +8789,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1955,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-noah-davis",
@@ -8782,7 +8806,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1983,
       "website": "",
-      "notes": "1983-2015. Co-founded Underground Museum, LA."
+      "notes": "1983-2015. Co-founded Underground Museum, LA.",
+      "identity": ""
     },
     {
       "id": "art-senga-nengudi",
@@ -8803,7 +8828,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1943,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-mickalene-thomas",
@@ -8825,7 +8851,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1971,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-gerald-chukwuma",
@@ -8846,7 +8873,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Known for wood burning, chiselling, Uli and Nsibidi symbols"
+      "notes": "Known for wood burning, chiselling, Uli and Nsibidi symbols",
+      "identity": ""
     },
     {
       "id": "art-lulama-wolf",
@@ -8865,7 +8893,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-olaolu-slawn",
@@ -8885,7 +8914,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "British-Nigerian artist"
+      "notes": "British-Nigerian artist",
+      "identity": "British-Nigerian"
     },
     {
       "id": "art-yoma-emore",
@@ -8904,7 +8934,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-kenny-adewuyi",
@@ -8923,7 +8954,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Known for elongated bronze figures"
+      "notes": "Known for elongated bronze figures",
+      "identity": ""
     },
     {
       "id": "art-ugo-ahiakwo",
@@ -8941,7 +8973,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Works from discarded vehicle parts"
+      "notes": "Works from discarded vehicle parts",
+      "identity": ""
     },
     {
       "id": "art-diana-ejaita",
@@ -8962,7 +8995,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Nigerian-Italian artist"
+      "notes": "Nigerian-Italian artist",
+      "identity": "Nigerian-Italian"
     },
     {
       "id": "art-nifemi-marcus-bello",
@@ -8983,7 +9017,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Designer and sculptor"
+      "notes": "Designer and sculptor",
+      "identity": ""
     },
     {
       "id": "art-salomon-moneyang",
@@ -9001,7 +9036,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-paul-ayihawu",
@@ -9019,7 +9055,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-kara-walker",
@@ -9041,7 +9078,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1969,
       "website": "",
-      "notes": "Known for cut-paper silhouettes exploring race, gender, and American history"
+      "notes": "Known for cut-paper silhouettes exploring race, gender, and American history",
+      "identity": ""
     },
     {
       "id": "art-saadane-afif",
@@ -9062,12 +9100,13 @@ const WSW_DATA = {
       ],
       "birth_year": 1970,
       "website": "",
-      "notes": "French-Algerian. Marcel Duchamp Prize 2009."
+      "notes": "French-Algerian. Marcel Duchamp Prize 2009.",
+      "identity": "French-Algerian"
     },
     {
       "id": "art-thomias-radin",
       "name": "Thomias Radin",
-      "origin_country": "Haiti",
+      "origin_country": "Guadeloupe",
       "origin_region": [
         "Afro-Caribbean"
       ],
@@ -9080,7 +9119,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Haitian-American. Explores Vodou, memory and diasporic experience."
+      "notes": "Born Abymes, Guadeloupe. Explores Gwo Ka drum tradition and Caribbean identity. Based in Berlin.",
+      "identity": ""
     },
     {
       "id": "art-vaginal-davis",
@@ -9102,7 +9142,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1969,
       "website": "",
-      "notes": "Berlin-based. Punk, queer activism, Black counter-culture."
+      "notes": "Berlin-based. Punk, queer activism, Black counter-culture.",
+      "identity": ""
     },
     {
       "id": "art-ligia-lewis",
@@ -9123,7 +9164,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1983,
       "website": "",
-      "notes": "Afro-Caribbean. Choreographer and artist redefining performance within visual arts."
+      "notes": "Afro-Caribbean. Choreographer and artist redefining performance within visual arts.",
+      "identity": ""
     },
     {
       "id": "art-melvin-edwards",
@@ -9142,7 +9184,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1937,
       "website": "",
-      "notes": "African American sculptor. Lynch Fragments series. Lives between Baltimore, NY and Dakar."
+      "notes": "African American sculptor. Lynch Fragments series. Lives between Baltimore, NY and Dakar.",
+      "identity": ""
     },
     {
       "id": "art-meriem-bennani",
@@ -9163,7 +9206,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1988,
       "website": "",
-      "notes": "Moroccan-born, New York-based"
+      "notes": "Moroccan-born, New York-based",
+      "identity": ""
     },
     {
       "id": "art-otobong-nkanga",
@@ -9185,7 +9229,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1974,
       "website": "",
-      "notes": "Duchamp Prize context 2025"
+      "notes": "Duchamp Prize context 2025",
+      "identity": ""
     },
     {
       "id": "art-na-chainkua-reindorf",
@@ -9206,7 +9251,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-theaster-gates",
@@ -9228,7 +9274,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1973,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-frank-bowling",
@@ -9247,7 +9294,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1934,
       "website": "",
-      "notes": "Guyanese-British. RA member."
+      "notes": "Guyanese-British. RA member.",
+      "identity": "Guyanese-British"
     },
     {
       "id": "art-dennis-morris",
@@ -9266,7 +9314,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1960,
       "website": "",
-      "notes": "British-Jamaican photographer. Bob Marley, Sex Pistols, Black British culture."
+      "notes": "British-Jamaican photographer. Bob Marley, Sex Pistols, Black British culture.",
+      "identity": "British-Jamaican"
     },
     {
       "id": "art-geraldine-tobe",
@@ -9286,7 +9335,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-jeremiah-quarshie",
@@ -9306,7 +9356,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-otis-kwame-kye-quaicoe",
@@ -9325,7 +9376,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1988,
       "website": "",
-      "notes": "Also represented by Pace Gallery"
+      "notes": "Also represented by Pace Gallery",
+      "identity": ""
     },
     {
       "id": "art-serge-attukwei-clottey",
@@ -9346,7 +9398,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1985,
       "website": "",
-      "notes": "Afrogallonist practice. Yellow gallon jerrycans."
+      "notes": "Afrogallonist practice. Yellow gallon jerrycans.",
+      "identity": ""
     },
     {
       "id": "art-denyse-gawu-mensah",
@@ -9366,7 +9419,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-theresa-musoke",
@@ -9385,7 +9439,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "60-year career. Major East African painter."
+      "notes": "60-year career. Major East African painter.",
+      "identity": ""
     },
     {
       "id": "art-tahir-karmali",
@@ -9405,7 +9460,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Participated in Dak'Art Biennale 2024"
+      "notes": "Participated in Dak'Art Biennale 2024",
+      "identity": ""
     },
     {
       "id": "art-simon-muriithi",
@@ -9425,7 +9481,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "One of few artists in the region producing etchings with embossing"
+      "notes": "One of few artists in the region producing etchings with embossing",
+      "identity": ""
     },
     {
       "id": "art-amy-sherald",
@@ -9444,7 +9501,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "African American. Painted official portrait of Michelle Obama. Known for grey-toned skin palette."
+      "notes": "African American. Painted official portrait of Michelle Obama. Known for grey-toned skin palette.",
+      "identity": ""
     },
     {
       "id": "art-rashid-johnson",
@@ -9467,7 +9525,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "African American. Anxious Men series, Broken Men, Cosmic Slops."
+      "notes": "African American. Anxious Men series, Broken Men, Cosmic Slops.",
+      "identity": ""
     },
     {
       "id": "art-arthur-jafa",
@@ -9489,7 +9548,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "African American. Turner Prize nominee. Love Is the Message, The Message Is Death."
+      "notes": "African American. Turner Prize nominee. Love Is the Message, The Message Is Death.",
+      "identity": ""
     },
     {
       "id": "art-gabrielle-goliath",
@@ -9510,7 +9570,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Representing South Africa at 2026 Venice Biennale. Work addresses patriarchal violence."
+      "notes": "Representing South Africa at 2026 Venice Biennale. Work addresses patriarchal violence.",
+      "identity": ""
     },
     {
       "id": "art-precious-okoyomon",
@@ -9531,7 +9592,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "Nigerian-American artist and poet. Featured in Whitney Biennial 2026."
+      "notes": "Nigerian-American artist and poet. Featured in Whitney Biennial 2026.",
+      "identity": "Nigerian-American"
     },
     {
       "id": "art-tom-lloyd",
@@ -9549,7 +9611,8 @@ const WSW_DATA = {
       "based_in": [],
       "birth_year": 1929,
       "website": "",
-      "notes": "African American. Pioneer of electronic art. Subject of Studio Museum's very first exhibition in 1968. Died 1996."
+      "notes": "African American. Pioneer of electronic art. Subject of Studio Museum's very first exhibition in 1968. Died 1996.",
+      "identity": ""
     },
     {
       "id": "art-camille-norment",
@@ -9569,7 +9632,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "African American. Sound artist and composer based in Oslo. Represented Norway at 2015 Venice Biennale."
+      "notes": "African American. Sound artist and composer based in Oslo. Represented Norway at 2015 Venice Biennale.",
+      "identity": ""
     },
     {
       "id": "art-sam-gilliam",
@@ -9587,7 +9651,8 @@ const WSW_DATA = {
       "based_in": [],
       "birth_year": 1933,
       "website": "",
-      "notes": "African American. Pioneered Drape paintings. Washington Color School. Died 2022."
+      "notes": "African American. Pioneered Drape paintings. Washington Color School. Died 2022.",
+      "identity": ""
     },
     {
       "id": "art-mcarthur-binion",
@@ -9607,7 +9672,8 @@ const WSW_DATA = {
       ],
       "birth_year": null,
       "website": "",
-      "notes": "African American. Layers personal documents beneath oil stick and ink abstractions."
+      "notes": "African American. Layers personal documents beneath oil stick and ink abstractions.",
+      "identity": ""
     },
     {
       "id": "art-jean-katambayi-mukendi",
@@ -9628,7 +9694,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1974,
       "website": "",
-      "notes": "Trained electrician. Practice informed by engineering, mathematics, and resource extraction. Afrolampe series."
+      "notes": "Trained electrician. Practice informed by engineering, mathematics, and resource extraction. Afrolampe series.",
+      "identity": ""
     },
     {
       "id": "art-sokari-douglas-camp",
@@ -9648,7 +9715,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1958,
       "website": "",
-      "notes": "Nigerian-born, London-based sculptor known for steel sculptures exploring Kalabari culture"
+      "notes": "Nigerian-born, London-based sculptor known for steel sculptures exploring Kalabari culture",
+      "identity": ""
     },
     {
       "id": "art-tam-joseph",
@@ -9668,7 +9736,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1947,
       "website": "",
-      "notes": "Dominican-British painter, key figure in the BLK Art Group"
+      "notes": "Dominican-British painter, key figure in the BLK Art Group",
+      "identity": "Dominican-British"
     },
     {
       "id": "art-winston-branch",
@@ -9687,7 +9756,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1947,
       "website": "",
-      "notes": "Saint Lucian-British painter. OBE. Slade-trained, Guggenheim Fellow"
+      "notes": "Saint Lucian-British painter. OBE. Slade-trained, Guggenheim Fellow",
+      "identity": "Saint Lucian-British"
     },
     {
       "id": "art-buqaqawuli-nobakada",
@@ -9707,7 +9777,8 @@ const WSW_DATA = {
       ],
       "birth_year": 2000,
       "website": "",
-      "notes": "Acrylic on laced paper, centering Black femininity"
+      "notes": "Acrylic on laced paper, centering Black femininity",
+      "identity": ""
     },
     {
       "id": "art-emma-prempeh",
@@ -9726,7 +9797,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1996,
       "website": "",
-      "notes": "British-Ghanaian-Vincentian. Uses schlag metal gold leaf in large-scale paintings"
+      "notes": "British-Ghanaian-Vincentian. Uses schlag metal gold leaf in large-scale paintings",
+      "identity": "British-Ghanaian-Vincentian"
     },
     {
       "id": "art-awanle-ayiboro-hawa-ali",
@@ -9745,7 +9817,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1997,
       "website": "",
-      "notes": "Explores women in Ghana's informal economy. Represented by Gallery 1957"
+      "notes": "Explores women in Ghana's informal economy. Represented by Gallery 1957",
+      "identity": ""
     },
     {
       "id": "art-reginald-sylvester-ii",
@@ -9765,7 +9838,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1987,
       "website": "",
-      "notes": "African American. Abstraction on military tent shells and rubber"
+      "notes": "African American. Abstraction on military tent shells and rubber",
+      "identity": ""
     },
     {
       "id": "art-umar-rashid",
@@ -9785,7 +9859,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1976,
       "website": "",
-      "notes": "Also known as Frohawk Two Feathers. Reimagines colonial history through fictional narratives"
+      "notes": "Also known as Frohawk Two Feathers. Reimagines colonial history through fictional narratives",
+      "identity": ""
     },
     {
       "id": "art-zineb-sedira",
@@ -9806,7 +9881,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1963,
       "website": "",
-      "notes": "French-Algerian. Represented France at 59th Venice Biennale"
+      "notes": "French-Algerian. Represented France at 59th Venice Biennale",
+      "identity": "French-Algerian"
     },
     {
       "id": "art-nengi-omuku",
@@ -9825,7 +9901,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1987,
       "website": "",
-      "notes": "Paints on sanyan (Yoruba Aso-oke fabric)"
+      "notes": "Paints on sanyan (Yoruba Aso-oke fabric)",
+      "identity": ""
     },
     {
       "id": "art-ts-ahmed",
@@ -9842,7 +9919,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1933,
       "website": "",
-      "notes": "Sudanese modernist (1933-2015)"
+      "notes": "Sudanese modernist (1933-2015)",
+      "identity": ""
     },
     {
       "id": "art-youssef-nabil",
@@ -9862,7 +9940,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1972,
       "website": "",
-      "notes": "Hand-colored photographs exploring memory, exile, Mediterranean identity"
+      "notes": "Hand-colored photographs exploring memory, exile, Mediterranean identity",
+      "identity": ""
     },
     {
       "id": "art-kwame-akoto",
@@ -9881,7 +9960,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1950,
       "website": "",
-      "notes": "Ghanaian painter and preacher. Style born from sign painting"
+      "notes": "Ghanaian painter and preacher. Style born from sign painting",
+      "identity": ""
     },
     {
       "id": "art-ozioma-onuzulike",
@@ -9901,7 +9981,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1972,
       "website": "",
-      "notes": "Leading Nigerian ceramic artist from Achi, Enugu State"
+      "notes": "Leading Nigerian ceramic artist from Achi, Enugu State",
+      "identity": ""
     },
     {
       "id": "art-alioune-diagne",
@@ -9920,14 +10001,15 @@ const WSW_DATA = {
       ],
       "birth_year": 1985,
       "website": "",
-      "notes": "Founder of Figuro-Abstro movement. Represented Senegal at 60th Venice Biennale"
+      "notes": "Founder of Figuro-Abstro movement. Represented Senegal at 60th Venice Biennale",
+      "identity": ""
     },
     {
       "id": "art-lassana-sarre",
       "name": "Lassana Sarre",
       "origin_country": "France",
       "origin_region": [
-        "Afro-European"
+        "West Africa"
       ],
       "based_in": [
         "Paris",
@@ -9939,7 +10021,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1994,
       "website": "",
-      "notes": "French artist of African descent. Large-format acrylic paintings"
+      "notes": "French-Malian. Mother from Mali. Large-format acrylic paintings",
+      "identity": ""
     },
     {
       "id": "art-charles-gaines",
@@ -9960,7 +10043,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1944,
       "website": "",
-      "notes": "Pioneering African American conceptual artist. Numbers and Trees series"
+      "notes": "Pioneering African American conceptual artist. Numbers and Trees series",
+      "identity": ""
     },
     {
       "id": "art-deborah-roberts",
@@ -9981,7 +10065,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1962,
       "website": "",
-      "notes": "African American. Explores representations of Black childhood and colonialism"
+      "notes": "African American. Explores representations of Black childhood and colonialism",
+      "identity": ""
     },
     {
       "id": "art-john-akomfrah",
@@ -10002,7 +10087,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1957,
       "website": "",
-      "notes": "Ghanaian-British filmmaker. Founding member of Black Audio Film Collective"
+      "notes": "Ghanaian-British filmmaker. Founding member of Black Audio Film Collective",
+      "identity": "Ghanaian-British"
     },
     {
       "id": "art-simphiwe-ndzube",
@@ -10023,7 +10109,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1990,
       "website": "",
-      "notes": "Cape Town-born, LA-based. Mixed media assemblages"
+      "notes": "Cape Town-born, LA-based. Mixed media assemblages",
+      "identity": ""
     },
     {
       "id": "art-cauleen-smith",
@@ -10044,7 +10131,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1967,
       "website": "",
-      "notes": "African American multidisciplinary artist"
+      "notes": "African American multidisciplinary artist",
+      "identity": ""
     },
     {
       "id": "art-everlyn-nicodemus",
@@ -10064,7 +10152,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1954,
       "website": "",
-      "notes": "Tanzanian-Swedish artist"
+      "notes": "Tanzanian-Swedish artist",
+      "identity": ""
     },
     {
       "id": "art-tsedaye-makonnen",
@@ -10084,7 +10173,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1983,
       "website": "",
-      "notes": "Ethiopian-American sculptor exploring Black womanhood"
+      "notes": "Ethiopian-American sculptor exploring Black womanhood",
+      "identity": "Ethiopian-American"
     },
     {
       "id": "art-peterson-kamwathi",
@@ -10104,7 +10194,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1980,
       "website": "",
-      "notes": "Densely packed compositions of anonymous silhouettes"
+      "notes": "Densely packed compositions of anonymous silhouettes",
+      "identity": ""
     },
     {
       "id": "art-dorothy-akpene-amenuke",
@@ -10125,7 +10216,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1965,
       "website": "",
-      "notes": "Large-scale installations with fibres, textiles, discarded clothing"
+      "notes": "Large-scale installations with fibres, textiles, discarded clothing",
+      "identity": ""
     },
     {
       "id": "art-marcellina-akpojotor",
@@ -10145,7 +10237,8 @@ const WSW_DATA = {
       ],
       "birth_year": 0,
       "website": "",
-      "notes": "Layered fabric works drawing on family photographs and archival imagery"
+      "notes": "Layered fabric works drawing on family photographs and archival imagery",
+      "identity": ""
     },
     {
       "id": "art-patrick-akpojotor",
@@ -10164,7 +10257,8 @@ const WSW_DATA = {
       ],
       "birth_year": 0,
       "website": "",
-      "notes": "Painting through the logic of building, figures emerging through structural planes"
+      "notes": "Painting through the logic of building, figures emerging through structural planes",
+      "identity": ""
     },
     {
       "id": "art-praise-sanni-adeniyi",
@@ -10183,7 +10277,8 @@ const WSW_DATA = {
       ],
       "birth_year": 2000,
       "website": "",
-      "notes": "University of Lagos law graduate. Fragmented, fluid figures exploring existential angst"
+      "notes": "University of Lagos law graduate. Fragmented, fluid figures exploring existential angst",
+      "identity": ""
     },
     {
       "id": "art-joke-amusan",
@@ -10204,7 +10299,8 @@ const WSW_DATA = {
       ],
       "birth_year": 0,
       "website": "",
-      "notes": "German-Nigerian artist. Suspended sculptures and textile works exploring memory and migration"
+      "notes": "German-Nigerian artist. Suspended sculptures and textile works exploring memory and migration",
+      "identity": ""
     },
     {
       "id": "art-carrie-mae-weems",
@@ -10222,7 +10318,8 @@ const WSW_DATA = {
       "birth_year": 1953,
       "based_in": [],
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-amoako-boafo",
@@ -10241,7 +10338,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1984,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-keith-piper",
@@ -10259,7 +10357,8 @@ const WSW_DATA = {
       "birth_year": 1960,
       "based_in": [],
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-leasho-johnson",
@@ -10277,7 +10376,8 @@ const WSW_DATA = {
       "birth_year": 1984,
       "based_in": [],
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-inji-efflatoun",
@@ -10293,7 +10393,8 @@ const WSW_DATA = {
       "birth_year": 1924,
       "notes": "Egyptian feminist artist and political activist (1924-1989)",
       "based_in": [],
-      "website": ""
+      "website": "",
+      "identity": ""
     },
     {
       "id": "art-zanele-muholi",
@@ -10313,7 +10414,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1972,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-ibrahim-mahama",
@@ -10334,7 +10436,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1987,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-nick-cave-artist",
@@ -10356,7 +10459,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1959,
       "notes": "Visual and performance artist known for Soundsuits",
-      "website": ""
+      "website": "",
+      "identity": ""
     },
     {
       "id": "art-adam-pendleton",
@@ -10377,7 +10481,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1984,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-suzanne-jackson",
@@ -10394,23 +10499,8 @@ const WSW_DATA = {
       "birth_year": 1944,
       "based_in": [],
       "website": "",
-      "notes": ""
-    },
-    {
-      "id": "art-kenzi-shiokava",
-      "name": "Kenzi Shiokava",
-      "origin_country": "Brazil",
-      "origin_region": [
-        "Afro-Brazilian"
-      ],
-      "is_diaspora": true,
-      "mediums": [
-        "sculpture"
-      ],
-      "birth_year": 1938,
-      "notes": "Afro-Japanese Brazilian sculptor",
-      "based_in": [],
-      "website": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-anina-major",
@@ -10428,7 +10518,8 @@ const WSW_DATA = {
       "based_in": [],
       "website": "",
       "notes": "",
-      "birth_year": null
+      "birth_year": null,
+      "identity": ""
     },
     {
       "id": "art-dawoud-bey",
@@ -10448,7 +10539,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1953,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-richard-mwizerwa",
@@ -10467,7 +10559,8 @@ const WSW_DATA = {
       ],
       "website": "",
       "notes": "",
-      "birth_year": null
+      "birth_year": null,
+      "identity": ""
     },
     {
       "id": "art-atong-atem",
@@ -10487,7 +10580,8 @@ const WSW_DATA = {
       ],
       "website": "",
       "notes": "",
-      "birth_year": null
+      "birth_year": null,
+      "identity": ""
     },
     {
       "id": "art-lerato-shadi",
@@ -10508,7 +10602,8 @@ const WSW_DATA = {
       ],
       "website": "",
       "notes": "",
-      "birth_year": null
+      "birth_year": null,
+      "identity": ""
     },
     {
       "id": "art-robin-rhode",
@@ -10529,7 +10624,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1976,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-misheck-masamvu",
@@ -10548,7 +10644,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1980,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-ernest-cole",
@@ -10564,7 +10661,8 @@ const WSW_DATA = {
       "birth_year": 1940,
       "notes": "South African documentary photographer (1940-1990)",
       "based_in": [],
-      "website": ""
+      "website": "",
+      "identity": ""
     },
     {
       "id": "art-rachid-koraichi",
@@ -10585,7 +10683,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1947,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-yassine-balbzioui",
@@ -10602,7 +10701,8 @@ const WSW_DATA = {
       "birth_year": 1972,
       "based_in": [],
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-mark-bradford",
@@ -10623,7 +10723,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1961,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-glenn-ligon",
@@ -10644,7 +10745,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1960,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-lorraine-ogrady",
@@ -10662,7 +10764,8 @@ const WSW_DATA = {
       "birth_year": 1934,
       "based_in": [],
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-betye-saar",
@@ -10683,7 +10786,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1926,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-lorna-simpson",
@@ -10704,7 +10808,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1960,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-howardena-pindell",
@@ -10721,7 +10826,8 @@ const WSW_DATA = {
       "birth_year": 1943,
       "based_in": [],
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-julie-mehretu",
@@ -10741,7 +10847,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1970,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-simone-leigh",
@@ -10762,7 +10869,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1967,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-christian-nyampeta",
@@ -10783,7 +10891,8 @@ const WSW_DATA = {
       ],
       "website": "",
       "notes": "",
-      "birth_year": null
+      "birth_year": null,
+      "identity": ""
     },
     {
       "id": "art-kresiah-mukwazhi",
@@ -10803,7 +10912,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1992,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-unathi-mkonto",
@@ -10819,7 +10929,8 @@ const WSW_DATA = {
       "based_in": [],
       "website": "",
       "notes": "",
-      "birth_year": null
+      "birth_year": null,
+      "identity": ""
     },
     {
       "id": "art-demetri-broxton",
@@ -10836,7 +10947,8 @@ const WSW_DATA = {
       "based_in": [],
       "website": "",
       "notes": "",
-      "birth_year": null
+      "birth_year": null,
+      "identity": ""
     },
     {
       "id": "art-steve-mcqueen",
@@ -10857,14 +10969,15 @@ const WSW_DATA = {
       ],
       "birth_year": 1969,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-maud-sulter",
       "name": "Maud Sulter",
       "origin_country": "United Kingdom",
       "origin_region": [
-        "Afro-European"
+        "West Africa"
       ],
       "is_diaspora": true,
       "mediums": [
@@ -10874,7 +10987,8 @@ const WSW_DATA = {
       "birth_year": 1960,
       "notes": "Scottish-Ghanaian artist (1960-2008)",
       "based_in": [],
-      "website": ""
+      "website": "",
+      "identity": "Scottish-Ghanaian"
     },
     {
       "id": "art-claudette-johnson",
@@ -10894,7 +11008,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1959,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-zeresenay-berhane-mehari",
@@ -10910,7 +11025,8 @@ const WSW_DATA = {
       "based_in": [],
       "website": "",
       "notes": "",
-      "birth_year": null
+      "birth_year": null,
+      "identity": ""
     },
     {
       "id": "art-mati-diop",
@@ -10929,7 +11045,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1982,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": "French-Senegalese"
     },
     {
       "id": "art-jim-chuchu",
@@ -10949,7 +11066,8 @@ const WSW_DATA = {
       ],
       "website": "",
       "notes": "",
-      "birth_year": null
+      "birth_year": null,
+      "identity": ""
     },
     {
       "id": "art-wanuri-kahiu",
@@ -10968,7 +11086,8 @@ const WSW_DATA = {
       ],
       "website": "",
       "notes": "",
-      "birth_year": null
+      "birth_year": null,
+      "identity": ""
     },
     {
       "id": "art-roy-decarava",
@@ -10984,7 +11103,8 @@ const WSW_DATA = {
       "birth_year": 1919,
       "notes": "African American photographer (1919-2009), Harlem",
       "based_in": [],
-      "website": ""
+      "website": "",
+      "identity": ""
     },
     {
       "id": "art-wangechi-mutu",
@@ -11006,7 +11126,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1972,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-david-hammons",
@@ -11027,7 +11148,8 @@ const WSW_DATA = {
       ],
       "birth_year": 1943,
       "website": "",
-      "notes": ""
+      "notes": "",
+      "identity": ""
     },
     {
       "id": "art-chakaia-booker",
@@ -11044,7 +11166,8 @@ const WSW_DATA = {
         "New York",
         "United States"
       ],
-      "is_diaspora": true
+      "is_diaspora": true,
+      "identity": ""
     },
     {
       "id": "art-sammy-baloji",
@@ -11062,7 +11185,8 @@ const WSW_DATA = {
         "Brussels",
         "Belgium"
       ],
-      "is_diaspora": false
+      "is_diaspora": false,
+      "identity": ""
     }
   ],
   "venues": [
@@ -12615,5 +12739,5 @@ const WSW_DATA = {
       "notes": ""
     }
   ],
-  "generated": "2026-08-31 17:50"
+  "generated": "2026-08-31 18:49"
 };

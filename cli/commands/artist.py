@@ -54,6 +54,7 @@ def register(subparsers):
     add_p.add_argument("--birth-year", type=int)
     add_p.add_argument("--website", default="")
     add_p.add_argument("--notes", default="")
+    add_p.add_argument("--identity", default="")
     add_p.set_defaults(func=add_artist)
 
     # list
@@ -140,6 +141,9 @@ def add_artist(args):
     if notes:
         entry["notes"] = notes
 
+    identity = args.identity or _prompt("Identity (e.g. British-Nigerian, leave blank if not applicable)")
+    entry["identity"] = identity
+
     data.append(entry)
     _save(data)
     print(f"Added artist {new_id}: {name}", file=sys.stderr)
@@ -186,7 +190,7 @@ def edit_artist(args):
     for entry in data:
         if entry["id"] == args.id:
             print(f"Editing {args.id} (press Enter to keep current value)", file=sys.stderr)
-            for field in ["name", "origin_country", "birth_year",
+            for field in ["name", "origin_country", "identity", "birth_year",
                           "website", "notes"]:
                 current = entry.get(field, "")
                 new_val = _prompt(field, default=str(current) if current else "")

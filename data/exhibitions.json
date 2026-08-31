@@ -6797,34 +6797,6 @@
     "confidence": "low"
   },
   {
-    "id": "exh-mca-chicago-shiokava-2026",
-    "title": "Kenzi Shiokava",
-    "artist_ids": [
-      "art-kenzi-shiokava"
-    ],
-    "venue_id": "ven-mca-chicago",
-    "city": "Chicago",
-    "country": "United States",
-    "region": "North America",
-    "start_date": "2026-06-27",
-    "end_date": "2027-01-31",
-    "type": "solo",
-    "admission": "paid",
-    "mediums": [
-      "sculpture"
-    ],
-    "focus": "diaspora",
-    "description": "First solo museum exhibition, 50+ sculptures spanning five decades by the Afro-Japanese Brazilian sculptor.",
-    "url": "https://visit.mcachicago.org/exhibitions/kenzi-shiokava/",
-    "source": "manual",
-    "added_date": "2026-07-13",
-    "image_url": "",
-    "status": "current",
-    "verified": true,
-    "verified_date": "2026-08-27",
-    "confidence": "high"
-  },
-  {
     "id": "exh-pamm-this-is-america-2026",
     "title": "This Is America",
     "artist_ids": [

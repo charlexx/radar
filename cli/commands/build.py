@@ -193,7 +193,14 @@ def _render_exhibition_page(exh, artist_map, venue_map, all_exhibitions=None):
             a = artist_map.get(aid)
             if a:
                 name = h(a["name"])
-                origin = h(a.get("origin_country", ""))
+                COMMUNITY_IDENTITIES = {"African American", "Afro-Caribbean", "Afro-Brazilian", "Afro-Latinx"}
+                identity = a.get("identity", "")
+                if identity:
+                    origin = h(identity)
+                elif a.get("origin_region") and a["origin_region"][0] in COMMUNITY_IDENTITIES:
+                    origin = h(a["origin_region"][0])
+                else:
+                    origin = h(a.get("origin_country", ""))
                 detail = f' <span class="exh-artist-origin">{origin}</span>' if origin else ""
                 artist_items.append(f"<li><strong>{name}</strong>{detail}</li>")
                 artist_names_plain.append(a["name"])
