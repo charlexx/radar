@@ -371,7 +371,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
@@ -4670,7 +4670,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
-      "status": "current",
+      "status": "past",
       "focus": "dedicated",
       "verified": "pending",
       "verified_date": "2026-08-27",
@@ -4696,7 +4696,7 @@ const WSW_DATA = {
       "image_url": "",
       "source": "manual",
       "added_date": "2026-04-11",
-      "status": "current",
+      "status": "past",
       "focus": "dedicated",
       "verified": true,
       "verified_date": "2026-08-27",
@@ -6043,7 +6043,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
@@ -6637,7 +6637,7 @@ const WSW_DATA = {
       "added_date": "2026-07-13",
       "description": "",
       "image_url": "",
-      "status": "current",
+      "status": "past",
       "verified": true,
       "verified_date": "2026-08-27",
       "confidence": "high"
@@ -7425,7 +7425,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current",
+      "status": "past",
       "verified": "pending",
       "verified_date": "2026-08-27",
       "confidence": "medium"
@@ -7555,7 +7555,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-07-13",
       "image_url": "",
-      "status": "current",
+      "status": "past",
       "verified": false,
       "verified_date": "2026-08-27",
       "confidence": "low"
@@ -12277,5 +12277,5 @@ const WSW_DATA = {
       "notes": ""
     }
   ],
-  "generated": "2026-08-28 00:01"
+  "generated": "2026-08-31 17:45"
 };

@@ -107,6 +107,35 @@ def run_validate(args):
         if e.get("source") and e["source"] not in SOURCES:
             errors.append(f"Exhibition {e['id']}: invalid source '{e['source']}'")
 
+    # --- Focus/origin consistency warnings ---
+    warnings = []
+    DIASPORA_ORIGINS = {"African American", "Afro-Caribbean", "Afro-Brazilian", "Afro-European", "Afro-Latinx"}
+    CONTINENTAL_ORIGINS = {"West Africa", "East Africa", "Southern Africa", "North Africa", "Central Africa"}
+    artist_map = {a["id"]: a for a in artists}
+
+    for e in exhibitions:
+        aids = e.get("artist_ids", [])
+        if not aids:
+            continue
+        origins = set()
+        for aid in aids:
+            a = artist_map.get(aid)
+            if a and a.get("origin_region"):
+                origins.add(a["origin_region"])
+        if not origins:
+            continue
+        focus = e.get("focus", "")
+        if focus == "dedicated" and origins and origins <= DIASPORA_ORIGINS:
+            warnings.append(f"Exhibition {e['id']}: focus is 'dedicated' but all tracked artists have diaspora origins -- consider 'diaspora'")
+        elif focus == "diaspora" and origins and origins <= CONTINENTAL_ORIGINS:
+            warnings.append(f"Exhibition {e['id']}: focus is 'diaspora' but all tracked artists have continental origins -- consider 'dedicated'")
+
+    if warnings:
+        print(f"\n{len(warnings)} focus/origin warning(s):", file=sys.stderr)
+        for w in warnings:
+            print(f"  ⚠ {w}", file=sys.stderr)
+        print(file=sys.stderr)
+
     if errors:
         print(f"Validation FAILED with {len(errors)} error(s):", file=sys.stderr)
         for err in errors:

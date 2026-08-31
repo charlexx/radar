@@ -117,5 +117,8 @@ Results saved to exhibitions.json as `verified`, `verified_date`, `confidence` f
 ## Git hooks
 - **pre-commit** (`.git/hooks/pre-commit`): Automatically refreshes exhibition statuses (upcoming/current/past) based on today's date, rebuilds the site if any changed, and stages the updated files. Runs on every commit — no manual status updates needed.
 
+## Seeding data
+- Seed prompts must specify the `dedicated` vs `diaspora` boundary explicitly. The 2026-04-11 batch mistagged 8 records by omitting it. Include the CLAUDE.md focus definitions in every seed prompt.
+
 ## Commit discipline
 Run `python cli/wsw.py validate` before every commit. The pre-commit hook handles status refresh and rebuild automatically.
