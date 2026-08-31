@@ -129,5 +129,11 @@ Results saved to exhibitions.json as `verified`, `verified_date`, `confidence` f
 ## Seeding data
 - Seed prompts must specify the `dedicated` vs `diaspora` boundary explicitly. The 2026-04-11 batch mistagged 8 records by omitting it. Include the CLAUDE.md focus definitions in every seed prompt.
 
+## Submissions
+Public submissions are DISABLED as of 2026-08-31. The form and its inline handler were removed from about.html, the prose invitation on the sourcing paragraph was removed, and /api/submit returns 403. Radar's data is curated directly.
+Before re-enabling, all of the following must be fixed: no rate limiting or bot protection (Cloudflare Turnstile recommended -- note that Cloudflare KV free-tier daily write limits mean an unprotected endpoint can be spammed until legitimate submissions start failing); email validation is only a substring check for "@"; the __index__ key uses read-modify-write and will silently drop entries under concurrent submissions -- replace it with KV list() over a "sub:" key prefix rather than adding locking; no field length caps.
+A dedicated inbox should exist before any public contact route is added -- do not expose a Forme Femine address.
+The original form markup and endpoint implementation are recoverable from git history and from the comment block in functions/api/submit.js.
+
 ## Commit discipline
 Run `python cli/wsw.py validate` before every commit. The pre-commit hook handles status refresh and rebuild automatically.
